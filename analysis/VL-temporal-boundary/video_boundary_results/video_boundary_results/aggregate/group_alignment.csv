@@ -1,0 +1,5 @@
+group,videos,mean_nearest_distance,aligned_at_10s
+high speech / high visual change,6,45.520325203252035,0.12601626016260162
+high speech / low visual change,6,52.754777070063696,0.1464968152866242
+low speech / high visual change,6,50.7593984962406,0.14285714285714285
+low speech / low visual change,6,51.529661016949156,0.1271186440677966
