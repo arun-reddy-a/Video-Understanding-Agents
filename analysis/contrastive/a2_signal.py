@@ -1,9 +1,11 @@
-"""Sub-analysis 2: is the cross-option variance a real signal?
+"""Sub-analysis 2: is the cross-option variance a real, video-specific signal?
 
-Permutation null: for each question, recompute the per-frame variance with the options
-of a random question about a *different* video (N_NULL draws, fixed seed). The signal
-z-score compares the real top-K mean variance with that null distribution. Run for the
-proposal's "Question + Answer" template and, following sub-analysis 1, for options alone.
+Video-swap null: a question's own option embeddings are scored against the frames of
+every *other* subset video. Text (and hence option spread) is held fixed, so only the
+visual content changes. The signal z-score compares the real top-K mean variance with
+that null. Run for the proposal's "Question + Answer" template and for options alone.
+(An option-swap null was tried first but is confounded with option spread: z vs.
+spread Spearman ~0.8.)
 """
 import os
 
@@ -13,11 +15,11 @@ from tqdm import tqdm
 
 import matplotlib.pyplot as plt
 from a1_language import spread
-from common import GROUPS, INK, INK2, SERIES, Encoder, frame_scores, option_texts, savefig, style
-from data import OUT_DIR, SEED
+from common import GROUPS, INK, INK2, SERIES, frame_scores, savefig, style
+from data import OUT_DIR
 from subset import load_subset
 
-N_NULL, TOP_K, Z_CRIT = 20, 16, 1.645
+TOP_K, Z_CRIT = 16, 1.645
 OUT = os.path.join(OUT_DIR, "a2_signal")
 VARIANTS = {"template": "Question + option (proposal)", "option": "Option alone"}
 
@@ -28,25 +30,18 @@ def topk_mean(v, k=TOP_K):
 
 def main():
     os.makedirs(OUT, exist_ok=True)
-    enc = Encoder()
-    questions, frames = load_subset(enc)
+    questions, frames = load_subset()
     print(f"{len(questions)} questions, {len(frames)} videos, "
           f"{sum(len(f[1]) for f in frames.values())} frames")
-    rng = np.random.default_rng(SEED)
     rows = []
-    for q in tqdm(questions, desc="a2 permutation null"):
+    for q in tqdm(questions, desc="a2 video-swap null"):
         F, _ = frames[q["videoID"]]
-        foreign = [p for p in questions if p["videoID"] != q["videoID"]]
-        draws = rng.choice(len(foreign), size=N_NULL, replace=False)
-        # Template variant keeps this question and swaps only the option content.
-        null_tmpl = enc.text([t for d in draws for t in option_texts(q["question"], foreign[d]["options"])])
-        null_tmpl = null_tmpl.reshape(N_NULL, 4, -1)
+        others = [frames[v][0] for v in frames if v != q["videoID"]]
         row = dict(question_id=q["question_id"], videoID=q["videoID"], task_type=q["task_type"],
                    group=q["group"], spread_template=spread(q["opt_tmpl"]), spread_option=spread(q["opt_only"]))
-        for name, real, nulls in [("template", q["opt_tmpl"], null_tmpl),
-                                  ("option", q["opt_only"], [foreign[d]["opt_only"] for d in draws])]:
-            s_real = topk_mean(frame_scores(F, q["q_emb"], real)[2])
-            s_null = np.array([topk_mean(frame_scores(F, q["q_emb"], n)[2]) for n in nulls])
+        for name, opts in [("template", q["opt_tmpl"]), ("option", q["opt_only"])]:
+            s_real = topk_mean(frame_scores(F, q["q_emb"], opts)[2])
+            s_null = np.array([topk_mean(frame_scores(G, q["q_emb"], opts)[2]) for G in others])
             row[f"z_{name}"] = (s_real - s_null.mean()) / (s_null.std() + 1e-12)
             row[f"pct_{name}"] = (s_null < s_real).mean()
         rows.append(row)
@@ -85,8 +80,8 @@ def plot(res):
     ax.axhline(0, color=INK2, linewidth=0.6)
     ax.set_xticks(range(len(groups)), [f"{g}\n(n={len(res) if g == 'All' else (res.group == g).sum()})"
                                        for g in groups])
-    ax.set_ylabel(f"Signal z-score (real vs. {N_NULL} borrowed option sets)")
-    ax.set_title("Is the cross-option variance above chance?   (% above z = 1.64)", loc="left",
+    ax.set_ylabel("Signal z-score (own video vs. other videos)")
+    ax.set_title("Do the options separate more on their own video?   (% above z = 1.64)", loc="left",
                  color=INK, pad=12)
     ax.legend(loc="upper left", frameon=False, fontsize=6.5)
 
