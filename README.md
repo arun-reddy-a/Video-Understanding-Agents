@@ -36,10 +36,22 @@ downloads official media from `lmms-eval/Video-MME` into Colab's temporary
 roughly 5.3 GB ZIP after successful extraction. Allow about 7 GiB of temporary
 free space. Embedding caches and analysis outputs still go to Google Drive.
 
+Set `STUDY_MODE = "stratified_24"` for the main exploratory sample. The sampler
+uses only long videos, selects exactly 24, guarantees at least three videos from
+each of the six domains, and covers distinct subcategories before taking a
+second video from any subcategory. Remaining slots are assigned proportionally
+to domain size. With seed 0, the current metadata produces domain counts of
+5, 4, 4, 4, 4, and 3 and covers 22 domain/subcategory combinations (the
+Multilingual domain has only one subcategory). The selection CSV records both
+the three-digit `video_id` and source `videoID`. Official archives are downloaded
+sequentially, selected assets are extracted, and each ZIP is deleted before
+continuing.
+
 ## Outputs
 
 - `cache/`: source- and configuration-aware visual/text embedding caches
-- `figures/`: overlaid per-video signals and peak markers
+- `figures/`: overlaid change signals plus one stacked similarity figure per
+  video (visual similarity above, subtitle similarity below)
 - `reports/`: per-video qualitative event tables
 - `aggregate/all_events.csv`: one row per detected event
 - `aggregate/video_statistics.csv`: speech/visual characterization

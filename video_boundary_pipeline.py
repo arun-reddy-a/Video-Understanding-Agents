@@ -7,6 +7,8 @@ from pathlib import Path
 from typing import Iterator, Sequence
 
 import cv2
+import matplotlib
+matplotlib.use("Agg")
 import matplotlib.pyplot as plt
 import numpy as np
 import pandas as pd
@@ -307,6 +309,30 @@ def plot_video_signals(video_id, visual, text, output_path):
     Path(output_path).parent.mkdir(parents=True, exist_ok=True); fig.savefig(output_path, dpi=160); plt.close(fig)
 
 
+def plot_modality_similarities(video_id, visual, text, output_path):
+    """Plot neighboring-embedding cosine similarity in aligned stacked panels."""
+    fig, axes = plt.subplots(2, 1, figsize=(16, 7), sharex=True)
+    panels = ((axes[0], visual, "Visual similarity", "tab:blue"),
+              (axes[1], text, "Subtitle similarity", "tab:orange"))
+    for ax, signal, label, color in panels:
+        similarity = 1.0 - signal.raw
+        ax.plot(signal.timestamps / 60, similarity, lw=1.0, color=color)
+        if len(signal.peak_indices):
+            ax.scatter(signal.peak_times / 60, similarity[signal.peak_indices], s=28,
+                       marker="v", color="crimson", label="Detected change boundary", zorder=3)
+        ax.set_ylabel("Cosine similarity")
+        ax.set_title(label)
+        ax.grid(alpha=.2)
+        if len(signal.peak_indices):
+            ax.legend(loc="lower right")
+    axes[1].set_xlabel("Video time (minutes)")
+    fig.suptitle(f"Neighboring-embedding similarity — {video_id}")
+    fig.tight_layout()
+    Path(output_path).parent.mkdir(parents=True, exist_ok=True)
+    fig.savefig(output_path, dpi=160)
+    plt.close(fig)
+
+
 def extract_frame_at(video_path, timestamp, output_path):
     cap = cv2.VideoCapture(str(video_path)); cap.set(cv2.CAP_PROP_POS_MSEC, timestamp * 1000)
     ok, frame = cap.read(); cap.release()
@@ -404,6 +430,8 @@ def run_pipeline(config, video_list=None, metadata_csv=None):
                 text_model, config.text_batch_size, output / "cache", config.text_model)
             visual, text = _make_signal(ve, vt, config), _make_signal(te, tt, config)
             plot_video_signals(record.video_id, visual, text, output / "figures" / f"{record.video_id}.png")
+            plot_modality_similarities(record.video_id, visual, text,
+                                       output / "figures" / f"{record.video_id}_similarities.png")
             a, _ = compute_peak_alignment(visual.peak_times, text.peak_times, config.alignment_tolerances)
             a.insert(0, "video_id", record.video_id); alignments.append(a)
             events = build_event_table(record.video_id, visual, text, cues, 10., config.qualitative_context)
