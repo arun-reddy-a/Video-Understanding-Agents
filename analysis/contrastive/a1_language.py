@@ -16,7 +16,7 @@ from empath import Empath
 from nltk.corpus import wordnet as wn
 from tqdm import tqdm
 
-from common import (GRID, INK2, SERIES, TASK_GROUP, Encoder, bootstrap_ci, option_texts,
+from common import (SERIES, TASK_GROUP, Encoder, bootstrap_ci, option_texts,
                     savefig, style)
 from data import OUT_DIR, SEED, load_annotations
 
