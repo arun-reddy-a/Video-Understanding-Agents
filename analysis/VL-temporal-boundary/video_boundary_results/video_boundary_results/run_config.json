@@ -1,0 +1,27 @@
+{
+  "dataset_dir": "/content/Video-MME-stratified-24",
+  "output_dir": "/content/drive/MyDrive/video_boundary_results",
+  "frame_interval": 2.0,
+  "subtitle_window": 15.0,
+  "frame_batch_size": 16,
+  "text_batch_size": 64,
+  "visual_model": "facebook/dinov2-small",
+  "text_model": "sentence-transformers/all-MiniLM-L6-v2",
+  "normalization": "zscore",
+  "robust_percentiles": [
+    5.0,
+    95.0
+  ],
+  "smoothing": "gaussian",
+  "smoothing_seconds": 6.0,
+  "peak_prominence": 0.8,
+  "peak_min_spacing": 20.0,
+  "alignment_tolerances": [
+    5.0,
+    10.0,
+    20.0
+  ],
+  "max_videos": 24,
+  "qualitative_context": 10.0,
+  "save_peak_frames": false
+}

@@ -1,0 +1,61 @@
+video_id,modality,timestamp_seconds,visual_score,text_score,nearest_other_peak_seconds,event_type,subtitle_text
+799,visual,30.0,1.6674465522026023,-0.8242747627432344,82.5,visual-only,[Music] sure [Applause]
+799,visual,104.0,0.7481149856270805,0.6358108155268478,8.5,aligned,oh hello oh come in it's very gloomy in here look
+799,visual,168.0,1.3668730790961316,-0.6943836351290463,55.5,visual-only,[Music] there's too much stuff i know oh no oh [Music]
+799,visual,204.0,0.9957581094705927,-0.455883757165179,91.5,visual-only,[Music] very good come on come on
+799,visual,238.0,0.45962456089196063,-0.39280137864135106,125.5,visual-only,[Applause] [Music] [Music] come on
+799,visual,280.0,2.5249128478363327,-0.9792941257493245,132.5,visual-only,[Music]
+799,visual,318.0,0.7755990475827008,-0.596134021471669,94.5,visual-only,sorry about that [Music] [Music] oh it's wonderful [Music] i'll just get them [Music]
+799,visual,350.0,0.9812010251471497,-0.11042907556067177,62.5,visual-only,[Music] oh oh my trunk [Music] aha it arrived
+799,visual,402.0,1.107170679552677,1.4477439782974892,10.5,visual-only,excuse me thank you
+799,visual,436.0,-0.37099234457652436,-0.38760542191671093,23.5,visual-only,[Music]
+799,visual,518.0,0.4441168202029406,-0.6109184177739172,104.5,visual-only,[Music] oh no oh i'm so sorry [Applause] [Music] thank you thank you ladies and gentlemen and now for my first trick i'd like to introduce you to
+799,visual,588.0,0.7660060472106015,0.6907914895534193,34.5,visual-only,[Music] rings what is going on here oh
+799,visual,634.0,0.36348801153532306,0.5414918937482167,11.5,visual-only,he might have sent my trunk [Music] oh my paper oh [Applause]
+799,visual,700.0,0.7878639791370009,0.13711273222422188,12.5,visual-only,oh [Music] brilliant one please okay where would you like to sit
+799,visual,760.0,0.3397413923997454,-0.1824504881264084,42.5,visual-only,oh oh yes thank you [Music] oh very nice
+799,visual,846.0,1.1609973304332863,-0.007773508156140996,43.5,visual-only,ladies and gentlemen please welcome to the stage [Applause] [Music] hello ladies and gentlemen boys and girls lovely to be here
+799,visual,922.0,-0.029865925672192283,0.2614091920066417,30.5,visual-only,well done sir give him a round of applause ladies and gentlemen another volunteer yes please me me me me me i'll choose me truly yes you sir oh yes [Applause]
+799,visual,1006.0,0.6918711109421493,-0.2595159633091643,53.5,visual-only,give me those darling [Music] and now [Music] [Applause]
+799,visual,1066.0,0.9852568840697434,1.8186323060812366,6.5,aligned,oh [Laughter] [Music] leave him alone
+799,visual,1120.0,1.4856124698994937,1.3854222536953995,47.5,visual-only,shut up [Music] keep your racket down you
+799,visual,1190.0,1.2659275760605728,0.4030883653864883,47.5,visual-only,why not [Music] up the paper
+799,visual,1238.0,2.4783616071582526,1.5812226023551208,0.5,aligned,what happened what happened [Music] oh
+799,visual,1260.0,1.628006998075337,1.5630969430251647,22.5,visual-only,ah [Music]
+799,visual,1298.0,2.125426221310856,-1.6832226257426597,60.5,visual-only,oh [Music] oh [Music] oh
+799,visual,1346.0,1.5656895900353183,-1.9092259712402582,71.5,visual-only,oh
+799,visual,1448.0,1.5379078911717976,0.26280414850689465,30.5,visual-only,[Music] oh
+799,visual,1494.0,1.2433665177587003,1.1738730717169132,13.5,visual-only,[Music] hmm
+799,visual,1524.0,0.887419899413002,0.7837250744238531,16.5,visual-only,excuse me right we did [Music] okay is roxy thank you
+799,visual,1562.0,0.690082717472145,0.802511144359533,54.5,visual-only,for me oh
+799,visual,1596.0,0.8558534044041899,-0.0002635651320818763,88.5,visual-only,oh [Applause] [Music] [Applause] [Music]
+799,visual,1632.0,0.8674204766759276,0.8354689247257235,55.5,visual-only,baby [Music] my world was great each night [Music]
+799,visual,1676.0,0.8755829804795273,1.2835657082876577,11.5,visual-only,oh sure
+799,visual,1718.0,1.4820325683288025,0.34734906891917083,30.5,visual-only,[Music] [Applause] [Music] hmm [Music]
+799,visual,1836.0,2.0170700388858567,-0.9849046672497276,106.5,visual-only,[Music] [Music] oh
+799,visual,1866.0,1.6238918127452162,-1.1079752220266323,76.5,visual-only,[Music]
+799,visual,1894.0,2.150690449959722,-0.218501664787119,48.5,visual-only,[Music] [Music]
+799,visual,1984.0,0.17291058126919137,-0.706530344046251,41.5,visual-only,[Applause] [Music] oh [Music]
+799,visual,2010.0,0.3402067767439309,-1.1720035692349116,67.5,visual-only,[Music] hmm [Music] hmm
+799,visual,2094.0,1.5886438593397127,-1.3137728266061404,13.5,visual-only,[Music] yes [Music]
+799,visual,2130.0,1.2824681201691404,-1.0044403219623348,22.5,visual-only,[Music] [Music] um
+799,visual,2206.0,2.702688911806574,-1.703877615616937,98.5,visual-only,is [Music]
+799,visual,2300.0,1.2918337865042935,0.8460152331138278,17.5,visual-only,[Music] no no no no
+799,visual,2362.0,2.341772754755299,-0.08962230711843808,15.5,visual-only,thank you [Music] there you go mate hmm
+799,visual,2434.0,1.4961690097734774,-1.3996385671983038,56.5,visual-only,oh [Music] [Music]
+799,text,112.5,0.7481149856270805,0.6358108155268478,8.5,aligned,look let's go to the seaside oh come on all right all right i'm not packed
+799,text,412.5,-0.30130069219961697,1.5444912409236566,10.5,text-only,thank you
+799,text,622.5,-1.226571580035286,1.2037208740608076,11.5,text-only,you can go away now hello oh he might have sent my trunk [Music]
+799,text,712.5,-0.5566745742772133,0.39661222262090834,12.5,text-only,one please okay where would you like to sit hmm [Music]
+799,text,802.5,-1.3331311700421309,1.9438650008203853,42.5,text-only,thank you get that one please yes sir thank you and another one of course i had another one i don't know oh you know what i'll just take
+799,text,952.5,-1.2200043803343537,0.8383852408047268,30.5,text-only,welcome take a seat now watch in three two one [Music] he's out now i wonder if this man can dance some music [Music]
+799,text,1072.5,0.9852568840697434,1.8186323060812366,6.5,aligned,oh [Laughter] [Music] leave him alone [Music]
+799,text,1237.5,2.4783616071582526,1.5812226023551208,0.5,aligned,what happened what happened [Music] oh
+799,text,1417.5,-0.31985951863658424,1.9489271339995262,30.5,text-only,hello hi how oh [Music]
+799,text,1507.5,-0.18093845028595204,1.4025227497331902,13.5,text-only,hmm excuse me right
+799,text,1687.5,-0.3909710670018038,1.2835657082876577,11.5,text-only,oh sure from the top my funny man
+799,text,1942.5,0.40170265835794544,1.8686838155856293,41.5,text-only,[Music] oh [Music]
+799,text,2107.5,0.10148200481607339,-0.9483974465113326,13.5,text-only,yes [Music] [Applause] oh [Music]
+799,text,2317.5,-0.7923035674764572,1.1706716063524498,17.5,text-only,oh oh
+799,text,2377.5,0.8091637378990395,0.8207196910343586,15.5,text-only,there you go mate hmm where'd she go
+799,text,2497.5,-1.1053907870539919,1.1523958406763242,63.5,text-only,oh [Music] thank you [Music] [Music]
