@@ -26,3 +26,15 @@ python a2_signal.py
 python a3_task.py --options opt_tmpl   # or opt_only
 ```
 `data/` (videos, embeddings) is git-ignored; figures and CSVs in `outputs/` are committed.
+
+## Key results (k = 16 unless noted)
+- **Sub-analysis 1:** Counting options collapse in text space (spread 0.005, all numeric); the
+  question template shrinks option spread to 12–46% of the option-alone value.
+- **Sub-analysis 2:** 37% of questions beat the video-swap null at z > 1.64 (5% expected);
+  57% for perception. The signal is nearly independent of option spread (ρ = 0.16).
+- **Sub-analysis 3:** No selector beats chance on frame-vote (uniform 32%, relevance 13%,
+  variance 20%, blend 18%; all frames 35%). High-variance frames vote for the textual
+  odd-one-out option 50% of the time (relevance: 21%), which is correct only 27% of the time.
+  Relevance and variance pick disjoint frames (Jaccard 0.007), and both cluster in about 6 minutes.
+
+Draft LaTeX for the report: `report_section.tex`.
