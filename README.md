@@ -7,24 +7,28 @@ alignment, and writes per-video and aggregate reports.
 
 ## Google Colab workflow
 
-Select a GPU runtime, mount Drive, clone/upload this repository, and run:
+Open `video_boundary_analysis_colab.ipynb` from GitHub in a GPU-enabled Colab
+runtime and run it from the top. The first executable cell clones this private
+repository into `/content/video-language-temporal-boundaries`, changes into that
+directory, validates the required files, and installs dependencies using an
+absolute requirements path. It works regardless of Colab's initial directory.
 
-```python
-from google.colab import drive
-drive.mount("/content/drive")
+Before running, add a Colab secret named `GITHUB_TOKEN` with read access to this
+private repository (key icon in Colab's left sidebar). If the secret is absent,
+the setup cell prompts for a token without displaying it. The token is not saved
+in the cloned repository's remote URL or Git configuration.
 
-%cd /content/Video-Understanding-Agents
-%pip install -q -r requirements-colab.txt
-```
-
-Open `video_boundary_analysis_colab.ipynb` and edit its final configuration cell.
-The equivalent script workflow is to edit the six values at the top of
-`run_colab.py`, then execute `%run run_colab.py`.
+The equivalent script workflow is to clone the repository normally, edit the
+six values at the top of `run_colab.py`, then execute `%run run_colab.py`.
 
 `VIDEO_LIST` can be `None` for recursive discovery or a list of video paths
 relative to `DATASET_DIR`. Discovery pairs each video with a same-stem `.srt` or
 `.vtt`. For other layouts, use `METADATA_CSV`, whose required columns are
 `video_path` and `subtitle_path`; `video_id` is optional.
+
+The notebook validates the dataset directory and prints discovered pairs before
+it downloads either embedding model. Each video must be beside a same-stem
+subtitle, such as `B6fvT2LKEDI.mp4` plus `B6fvT2LKEDI.srt`.
 
 ## Outputs
 
