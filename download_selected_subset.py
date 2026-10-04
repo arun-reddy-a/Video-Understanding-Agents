@@ -8,8 +8,7 @@ from pathlib import Path, PurePosixPath
 
 import requests
 
-from download_trial_subset import HF_REVISION as REVISION
-from download_trial_subset import REPO_ID
+from download_trial_subset import REPO_ID, REVISION
 
 ARCHIVE_COUNT = 20
 
