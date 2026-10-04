@@ -1,0 +1,281 @@
+question_id,task_type,group,duration,spread_template,spread_option,option_type,n_words
+145-3,Object Recognition,Perception,short,0.15045307576656342,0.25100281834602356,Abstract,1.25
+156-1,Action Recognition,Perception,short,0.07454323023557663,0.5335305333137512,Concrete visual,5.0
+444-3,Attribute Perception,Perception,medium,0.11651767045259476,0.3914678990840912,Concrete visual,4.5
+049-3,Action Reasoning,Reasoning,short,0.09322165697813034,0.2563025951385498,Temporal/order,9.25
+565-3,Object Recognition,Perception,medium,0.06671737879514694,0.2158535271883011,Concrete visual,1.0
+127-2,Attribute Perception,Perception,short,0.04139961674809456,0.26769891381263733,Abstract,1.0
+656-2,Object Reasoning,Reasoning,long,0.17410211265087128,0.5613256096839905,Concrete visual,5.25
+900-1,Action Reasoning,Reasoning,long,0.04711315035820007,0.28130781650543213,Concrete visual,10.75
+049-2,Spatial Reasoning,Reasoning,short,0.06395956128835678,0.37656399607658386,Concrete visual,8.75
+136-1,Counting Problem,Counting/Temporal,short,0.0015917817363515496,0.03058517910540104,Numeric,1.0
+435-2,Object Recognition,Perception,medium,0.028115451335906982,0.03546591475605965,Temporal/order,1.0
+150-1,Information Synopsis,Reasoning,short,0.16656044125556946,0.4246157705783844,Concrete visual,4.5
+046-1,Information Synopsis,Reasoning,short,0.23795020580291748,0.4358564615249634,Abstract,5.5
+687-1,Attribute Perception,Perception,long,0.008182506076991558,0.02549908496439457,Abstract,2.0
+480-1,Object Reasoning,Reasoning,medium,0.014640768058598042,0.053531795740127563,Temporal/order,3.0
+285-1,Object Recognition,Perception,short,0.0014276703586801887,0.027896860614418983,Numeric,1.0
+230-2,OCR Problems,Perception,short,0.1052386537194252,0.14942245185375214,Abstract,1.0
+186-3,Attribute Perception,Perception,short,0.10193035006523132,0.42185887694358826,Concrete visual,2.0
+658-1,Action Recognition,Perception,long,0.18025194108486176,0.5156776309013367,Concrete visual,9.25
+719-2,Action Reasoning,Reasoning,long,0.09786465764045715,0.46680641174316406,Concrete visual,10.5
+495-1,Attribute Perception,Perception,medium,0.09975235909223557,0.27048924565315247,Concrete visual,1.0
+096-2,Spatial Perception,Perception,short,0.1320861130952835,0.23041315376758575,Concrete visual,1.0
+594-2,Object Reasoning,Reasoning,medium,0.10529417544603348,0.24972955882549286,Concrete visual,5.75
+536-3,Object Recognition,Perception,medium,0.07342156022787094,0.30200842022895813,Concrete visual,1.25
+801-1,Object Reasoning,Reasoning,long,0.09432517737150192,0.4260276257991791,Abstract,1.75
+486-1,Object Recognition,Perception,medium,0.14362822473049164,0.2998254597187042,Concrete visual,3.0
+534-2,Object Reasoning,Reasoning,medium,0.05318446829915047,0.46037593483924866,Concrete visual,2.25
+620-1,Information Synopsis,Reasoning,long,0.20326487720012665,0.3991621434688568,Concrete visual,4.75
+069-1,Counting Problem,Counting/Temporal,short,0.006762812379747629,0.027896860614418983,Numeric,1.0
+675-1,Information Synopsis,Reasoning,long,0.14863352477550507,0.392979234457016,Concrete visual,9.75
+457-1,OCR Problems,Perception,medium,0.07113494724035263,0.46247148513793945,Abstract,2.0
+539-1,OCR Problems,Perception,medium,0.0035468637943267822,0.09043847769498825,Numeric,1.0
+505-2,Object Reasoning,Reasoning,medium,0.15873529016971588,0.47815585136413574,Concrete visual,4.0
+035-1,Object Reasoning,Reasoning,short,0.12599322199821472,0.4310167133808136,Concrete visual,10.5
+312-2,Action Reasoning,Reasoning,medium,0.09439796209335327,0.40311798453330994,Abstract,9.5
+756-2,Counting Problem,Counting/Temporal,long,0.03247100114822388,0.14768658578395844,Numeric,1.0
+787-3,Action Reasoning,Reasoning,long,0.10624989122152328,0.47571706771850586,Abstract,10.0
+744-2,Object Reasoning,Reasoning,long,0.13071070611476898,0.48560085892677307,Concrete visual,9.5
+487-2,Action Reasoning,Reasoning,medium,0.062302589416503906,0.5239289402961731,Concrete visual,5.75
+837-3,Object Reasoning,Reasoning,long,0.07695317268371582,0.23646748065948486,Temporal/order,10.5
+488-2,Action Recognition,Perception,medium,0.1409042924642563,0.5505508184432983,Temporal/order,8.75
+722-2,Action Reasoning,Reasoning,long,0.045028090476989746,0.5465330481529236,Concrete visual,6.5
+304-3,Spatial Perception,Perception,medium,0.12329000234603882,0.5854358077049255,Concrete visual,6.0
+335-2,Object Reasoning,Reasoning,medium,0.07566208392381668,0.5394424796104431,Concrete visual,13.0
+828-1,Object Recognition,Perception,long,0.23370642960071564,0.557048499584198,Concrete visual,3.25
+484-1,Spatial Reasoning,Reasoning,medium,0.1728472262620926,0.5548532009124756,Abstract,3.75
+285-2,Action Recognition,Perception,short,0.08687835186719894,0.21861474215984344,Abstract,1.5
+040-1,Object Reasoning,Reasoning,short,0.13242456316947937,0.2131013423204422,Abstract,4.0
+534-1,Temporal Reasoning,Counting/Temporal,medium,0.005047698970884085,0.017366906628012657,Temporal/order,6.0
+467-2,OCR Problems,Perception,medium,0.22176921367645264,0.33355796337127686,Numeric,2.0
+415-2,Object Recognition,Perception,medium,0.07674956321716309,0.37939706444740295,Concrete visual,1.25
+169-1,Attribute Perception,Perception,short,0.06450902670621872,0.13195161521434784,Concrete visual,1.0
+127-1,Attribute Perception,Perception,short,0.20436418056488037,0.5484309792518616,Concrete visual,3.5
+073-2,Object Recognition,Perception,short,0.06984447687864304,0.35280898213386536,Concrete visual,11.75
+645-2,Object Recognition,Perception,long,0.13369709253311157,0.4945732653141022,Concrete visual,12.5
+737-2,Action Recognition,Perception,long,0.04165878891944885,0.2298271507024765,Concrete visual,1.0
+121-3,Spatial Perception,Perception,short,0.2229461818933487,0.4615398347377777,Concrete visual,3.25
+857-2,Action Reasoning,Reasoning,long,0.05170770362019539,0.07555592805147171,Concrete visual,10.0
+498-2,Action Recognition,Perception,medium,0.07823053747415543,0.3627186715602875,Concrete visual,6.0
+646-1,Temporal Reasoning,Counting/Temporal,long,0.008611232042312622,0.1788920760154724,Temporal/order,1.0
+171-2,Object Reasoning,Reasoning,short,0.1352691650390625,0.5710752010345459,Concrete visual,4.5
+286-1,Counting Problem,Counting/Temporal,short,0.0012529889354482293,0.028550853952765465,Numeric,1.0
+010-3,Object Recognition,Perception,short,0.14273126423358917,0.39220166206359863,Concrete visual,3.0
+221-3,Information Synopsis,Reasoning,short,0.37706565856933594,0.5683265924453735,Concrete visual,6.25
+292-3,OCR Problems,Perception,short,0.0138264000415802,0.16352882981300354,Numeric,3.5
+733-3,Object Recognition,Perception,long,0.09861976653337479,0.23888419568538666,Abstract,1.75
+650-2,OCR Problems,Perception,long,0.003866334678605199,0.017439762130379677,Abstract,5.0
+592-1,Temporal Reasoning,Counting/Temporal,medium,0.007682144641876221,0.0170940849930048,Temporal/order,5.0
+601-3,Attribute Perception,Perception,long,0.32603248953819275,0.5574759244918823,Temporal/order,12.5
+299-1,Information Synopsis,Reasoning,short,0.08988814800977707,0.3008716106414795,Concrete visual,10.5
+076-2,Attribute Perception,Perception,short,0.05330771207809448,0.1605205088853836,Concrete visual,1.0
+525-1,Temporal Reasoning,Counting/Temporal,medium,0.00042201080941595137,0.006221999879926443,Temporal/order,1.0
+262-2,Spatial Reasoning,Reasoning,short,0.0701739490032196,0.13871502876281738,Abstract,1.0
+533-1,Counting Problem,Counting/Temporal,medium,0.0016401410102844238,0.023634949699044228,Numeric,1.0
+831-2,Temporal Perception,Counting/Temporal,long,0.02179987169802189,0.10638648271560669,Concrete visual,2.0
+733-2,Action Reasoning,Reasoning,long,0.2173854112625122,0.44163116812705994,Concrete visual,5.5
+444-2,Action Recognition,Perception,medium,0.057790953665971756,0.39209187030792236,Abstract,5.75
+220-1,Action Recognition,Perception,short,0.14447498321533203,0.4250786304473877,Abstract,7.5
+040-3,Information Synopsis,Reasoning,short,0.26871761679649353,0.3422461450099945,Abstract,2.25
+806-3,Object Recognition,Perception,long,0.11352372914552689,0.3659476041793823,Concrete visual,2.75
+011-1,Action Reasoning,Reasoning,short,0.10802310705184937,0.2866247594356537,Concrete visual,1.5
+805-3,Object Reasoning,Reasoning,long,0.07757627964019775,0.30765438079833984,Abstract,2.25
+435-1,Spatial Perception,Perception,medium,0.12266716361045837,0.2431504875421524,Concrete visual,1.25
+645-1,Information Synopsis,Reasoning,long,0.2200622409582138,0.6049566864967346,Concrete visual,11.75
+359-3,Temporal Reasoning,Counting/Temporal,medium,0.15106509625911713,0.2101302593946457,Temporal/order,13.75
+520-3,Object Recognition,Perception,medium,0.12449230998754501,0.1977842003107071,Abstract,2.25
+464-2,Object Recognition,Perception,medium,0.10326575487852097,0.17032568156719208,Concrete visual,2.25
+576-1,Action Recognition,Perception,medium,0.1757092922925949,0.5654301047325134,Concrete visual,3.5
+625-3,Object Recognition,Perception,long,0.05445348098874092,0.1632506102323532,Concrete visual,5.75
+525-3,Object Recognition,Perception,medium,0.23469801247119904,0.6945906281471252,Concrete visual,5.0
+457-2,Counting Problem,Counting/Temporal,medium,0.0015222132205963135,0.023634949699044228,Numeric,1.0
+727-3,Object Reasoning,Reasoning,long,0.10957440733909607,0.4554847776889801,Abstract,5.0
+044-2,Spatial Reasoning,Reasoning,short,0.12304731458425522,0.2242097705602646,Abstract,1.75
+116-2,Information Synopsis,Reasoning,short,0.0627378448843956,0.2652270495891571,Concrete visual,6.75
+062-1,Spatial Perception,Perception,short,0.0015261074295267463,0.003714541671797633,Temporal/order,30.75
+522-2,Object Reasoning,Reasoning,medium,0.26439130306243896,0.5673704743385315,Concrete visual,2.25
+094-1,Attribute Perception,Perception,short,0.06485909968614578,0.1592245250940323,Concrete visual,1.0
+122-1,OCR Problems,Perception,short,0.062443990260362625,0.3108624815940857,Abstract,1.0
+850-2,Object Recognition,Perception,long,0.10496342182159424,0.3093891441822052,Concrete visual,1.5
+145-2,Action Reasoning,Reasoning,short,0.17959217727184296,0.2733556032180786,Abstract,5.0
+739-3,Object Recognition,Perception,long,0.0035562615375965834,0.04050907492637634,Numeric,1.0
+282-3,Counting Problem,Counting/Temporal,short,0.015099634416401386,0.08166267722845078,Numeric,1.0
+316-3,Action Reasoning,Reasoning,medium,0.11587056517601013,0.28518685698509216,Abstract,9.75
+611-2,Temporal Reasoning,Counting/Temporal,long,0.006263276096433401,0.010556538589298725,Temporal/order,15.0
+241-2,Counting Problem,Counting/Temporal,short,0.003833691356703639,0.0480910949409008,Numeric,1.0
+143-1,Object Recognition,Perception,short,0.08894138783216476,0.33135631680488586,Concrete visual,3.5
+497-3,Information Synopsis,Reasoning,medium,0.3334149122238159,0.6198365688323975,Concrete visual,7.25
+221-2,Attribute Perception,Perception,short,0.09747634083032608,0.18327178061008453,Concrete visual,1.0
+307-2,Attribute Perception,Perception,medium,0.12074807286262512,0.4199870526790619,Concrete visual,2.5
+193-2,Temporal Perception,Counting/Temporal,short,0.1274099200963974,0.40628552436828613,Concrete visual,8.25
+603-3,Object Reasoning,Reasoning,long,0.4891122281551361,0.6907272338867188,Concrete visual,13.5
+616-3,Temporal Reasoning,Counting/Temporal,long,0.0966474786400795,0.5289750695228577,Concrete visual,2.5
+658-2,Attribute Perception,Perception,long,0.044942598789930344,0.2395983785390854,Abstract,1.0
+411-1,Attribute Perception,Perception,medium,0.11316106468439102,0.2766728699207306,Concrete visual,1.0
+097-3,Attribute Perception,Perception,short,0.10383553057909012,0.1010148897767067,Abstract,1.0
+887-2,Action Reasoning,Reasoning,long,0.10620245337486267,0.43482038378715515,Abstract,8.0
+256-1,Information Synopsis,Reasoning,short,0.18101413547992706,0.28741899132728577,Concrete visual,7.25
+763-2,Counting Problem,Counting/Temporal,long,0.00132562720682472,0.028550853952765465,Numeric,1.0
+484-3,Temporal Perception,Counting/Temporal,medium,0.10662617534399033,0.3767649829387665,Concrete visual,8.0
+116-1,Attribute Perception,Perception,short,0.07340288162231445,0.286847859621048,Concrete visual,2.0
+577-2,Action Recognition,Perception,medium,0.157615527510643,0.5617848634719849,Concrete visual,3.75
+654-3,Object Recognition,Perception,long,0.1504087746143341,0.41078439354896545,Concrete visual,4.0
+143-3,Object Recognition,Perception,short,0.05913962051272392,0.09162933379411697,Concrete visual,3.0
+231-2,Counting Problem,Counting/Temporal,short,0.006936123128980398,0.023634949699044228,Numeric,1.0
+810-1,Object Recognition,Perception,long,0.08457069844007492,0.46764037013053894,Concrete visual,3.5
+407-2,Object Recognition,Perception,medium,0.08561965823173523,0.1600850224494934,Concrete visual,1.0
+838-3,Information Synopsis,Reasoning,long,0.17965996265411377,0.413539320230484,Concrete visual,9.5
+249-2,Spatial Reasoning,Reasoning,short,0.20991630852222443,0.3927689492702484,Abstract,2.75
+373-1,OCR Problems,Perception,medium,0.15631736814975739,0.13316012918949127,Abstract,1.0
+068-2,OCR Problems,Perception,short,0.19375087320804596,0.5544821619987488,Abstract,3.25
+870-1,Action Recognition,Perception,long,0.19319312274456024,0.5595620274543762,Concrete visual,4.0
+626-1,Object Reasoning,Reasoning,long,0.06948310881853104,0.3063091039657593,Concrete visual,10.5
+763-1,Object Reasoning,Reasoning,long,0.020253131166100502,0.17365173995494843,Temporal/order,17.75
+517-2,Action Recognition,Perception,medium,0.0951017439365387,0.4211660623550415,Abstract,8.5
+850-1,Object Reasoning,Reasoning,long,0.09829949587583542,0.3455742299556732,Temporal/order,3.5
+849-2,Object Reasoning,Reasoning,long,0.13192568719387054,0.6421072483062744,Concrete visual,5.25
+840-2,Object Recognition,Perception,long,0.03273044899106026,0.06798433512449265,Abstract,1.0
+668-1,Information Synopsis,Reasoning,long,0.09913444519042969,0.26425519585609436,Abstract,8.0
+861-1,Object Reasoning,Reasoning,long,0.1451699137687683,0.5260648727416992,Abstract,3.75
+593-3,Object Reasoning,Reasoning,medium,0.1560194194316864,0.35511907935142517,Concrete visual,6.5
+030-3,Attribute Perception,Perception,short,0.09607542306184769,0.42134973406791687,Concrete visual,1.75
+346-2,Spatial Reasoning,Reasoning,medium,0.06053798273205757,0.4862707555294037,Concrete visual,9.25
+675-2,Temporal Reasoning,Counting/Temporal,long,0.00021269917488098145,0.005979617591947317,Temporal/order,1.0
+173-2,Object Reasoning,Reasoning,short,0.1475180983543396,0.5825464725494385,Concrete visual,5.0
+861-3,Object Reasoning,Reasoning,long,0.08360719680786133,0.45009303092956543,Concrete visual,10.75
+035-3,Information Synopsis,Reasoning,short,0.15318666398525238,0.2944846451282501,Abstract,2.0
+852-3,Action Recognition,Perception,long,0.11025074124336243,0.4933982789516449,Concrete visual,3.5
+193-3,Action Recognition,Perception,short,0.04600418731570244,0.5565507411956787,Concrete visual,6.5
+416-1,Spatial Perception,Perception,medium,0.02591191790997982,0.2899426221847534,Concrete visual,3.5
+520-2,Action Recognition,Perception,medium,0.11429116874933243,0.47011932730674744,Concrete visual,8.5
+302-3,Counting Problem,Counting/Temporal,medium,0.012542426586151123,0.12805388867855072,Numeric,1.25
+669-3,Object Reasoning,Reasoning,long,0.10355010628700256,0.39065656065940857,Abstract,12.5
+776-2,Action Recognition,Perception,long,0.1240530014038086,0.5877060890197754,Concrete visual,4.5
+581-3,Action Recognition,Perception,medium,0.0012363294372335076,0.023634949699044228,Numeric,1.0
+171-1,Temporal Perception,Counting/Temporal,short,0.06913414597511292,0.1553783267736435,Abstract,2.0
+256-2,Attribute Perception,Perception,short,0.05562606453895569,0.14752505719661713,Concrete visual,1.0
+425-3,OCR Problems,Perception,medium,0.0234602689743042,0.10101523250341415,Numeric,1.0
+169-3,Counting Problem,Counting/Temporal,short,0.001456568599678576,0.0456831268966198,Numeric,1.0
+573-3,Action Recognition,Perception,medium,0.04812012240290642,0.33525344729423523,Concrete visual,4.25
+415-1,Counting Problem,Counting/Temporal,medium,0.0014902850380167365,0.023634949699044228,Numeric,1.0
+304-1,Action Reasoning,Reasoning,medium,0.11696336418390274,0.5754078030586243,Concrete visual,4.25
+592-3,Attribute Perception,Perception,medium,0.17627592384815216,0.4268011152744293,Concrete visual,1.5
+497-2,Spatial Perception,Perception,medium,0.07063531130552292,0.3820061683654785,Concrete visual,7.0
+811-1,Counting Problem,Counting/Temporal,long,0.0013302067527547479,0.027896860614418983,Numeric,1.0
+118-1,Counting Problem,Counting/Temporal,short,0.0028427441138774157,0.023634949699044228,Numeric,1.0
+015-1,Attribute Perception,Perception,short,0.06503620743751526,0.20070809125900269,Concrete visual,6.75
+416-2,Action Recognition,Perception,medium,0.06723100692033768,0.6180321574211121,Abstract,5.75
+425-2,Information Synopsis,Reasoning,medium,0.08677613735198975,0.39307156205177307,Abstract,8.0
+656-1,Attribute Perception,Perception,long,0.11991206556558609,0.5065679550170898,Concrete visual,8.0
+162-2,OCR Problems,Perception,short,0.0976283922791481,0.5760529041290283,Abstract,2.75
+456-1,Information Synopsis,Reasoning,medium,0.15103615820407867,0.33827152848243713,Concrete visual,7.5
+046-3,Counting Problem,Counting/Temporal,short,0.0018725693225860596,0.027896860614418983,Numeric,1.0
+488-3,Attribute Perception,Perception,medium,0.07901149988174438,0.37888169288635254,Abstract,3.0
+204-3,Attribute Perception,Perception,short,0.029890626668930054,0.5163553357124329,Concrete visual,8.5
+049-1,Action Recognition,Perception,short,0.10629615932703018,0.34022530913352966,Concrete visual,7.25
+018-1,Action Recognition,Perception,short,0.03401617333292961,0.08747372776269913,Concrete visual,2.0
+577-1,Action Recognition,Perception,medium,0.15178897976875305,0.45610782504081726,Concrete visual,6.0
+809-1,Information Synopsis,Reasoning,long,0.029302170500159264,0.3592265546321869,Abstract,2.75
+787-1,Information Synopsis,Reasoning,long,0.22709210216999054,0.4101541042327881,Concrete visual,11.0
+618-3,Temporal Reasoning,Counting/Temporal,long,0.03822782635688782,0.4311668872833252,Temporal/order,5.5
+797-1,Counting Problem,Counting/Temporal,long,0.005724241491407156,0.027896860614418983,Numeric,1.0
+400-1,Spatial Perception,Perception,medium,0.09327101707458496,0.41597291827201843,Concrete visual,2.0
+616-1,Attribute Perception,Perception,long,0.15963363647460938,0.5814289450645447,Concrete visual,5.75
+411-2,Action Recognition,Perception,medium,0.11983100324869156,0.42417439818382263,Abstract,2.0
+558-3,Temporal Reasoning,Counting/Temporal,medium,0.023376911878585815,0.05435599014163017,Abstract,3.5
+305-3,Temporal Reasoning,Counting/Temporal,medium,0.007382512092590332,0.01415159273892641,Temporal/order,23.0
+487-1,Attribute Perception,Perception,medium,0.1780063360929489,0.4104941189289093,Concrete visual,3.5
+444-1,Action Reasoning,Reasoning,medium,0.08052351325750351,0.38839125633239746,Concrete visual,10.75
+218-2,Counting Problem,Counting/Temporal,short,0.002286414382979274,0.023634949699044228,Numeric,1.0
+173-1,OCR Problems,Perception,short,0.019174247980117798,0.03611757233738899,Numeric,1.0
+776-1,Information Synopsis,Reasoning,long,0.0473783016204834,0.07357734441757202,Concrete visual,16.0
+715-2,Information Synopsis,Reasoning,long,0.07068812847137451,0.14996133744716644,Abstract,3.25
+860-1,Action Reasoning,Reasoning,long,0.0896049216389656,0.47949323058128357,Concrete visual,9.0
+284-2,Action Recognition,Perception,short,0.05198998376727104,0.11501883715391159,Concrete visual,8.5
+279-3,Temporal Perception,Counting/Temporal,short,0.0536254346370697,0.11687686294317245,Abstract,1.0
+880-3,Information Synopsis,Reasoning,long,0.20079433917999268,0.36007586121559143,Concrete visual,2.25
+189-1,Action Recognition,Perception,short,0.16127662360668182,0.37247422337532043,Concrete visual,4.0
+464-3,Temporal Perception,Counting/Temporal,medium,0.0489051453769207,0.3019079267978668,Temporal/order,8.0
+601-1,Information Synopsis,Reasoning,long,0.20928581058979034,0.354221910238266,Temporal/order,10.0
+411-3,Information Synopsis,Reasoning,medium,0.08734652400016785,0.5179374814033508,Concrete visual,3.75
+047-3,Spatial Reasoning,Reasoning,short,0.1981557011604309,0.49154940247535706,Concrete visual,6.5
+009-3,Action Reasoning,Reasoning,short,0.13149641454219818,0.45235392451286316,Concrete visual,6.75
+078-3,Information Synopsis,Reasoning,short,0.15034742653369904,0.22182905673980713,Concrete visual,6.5
+171-3,Action Reasoning,Reasoning,short,0.20589177310466766,0.48154911398887634,Concrete visual,8.5
+685-1,Information Synopsis,Reasoning,long,0.20781056582927704,0.3080289363861084,Abstract,4.25
+022-1,OCR Problems,Perception,short,0.004245460033416748,0.016690144315361977,Temporal/order,3.0
+209-1,Counting Problem,Counting/Temporal,short,0.0019242167472839355,0.028550853952765465,Numeric,1.0
+313-3,Action Reasoning,Reasoning,medium,0.0783109962940216,0.560763418674469,Concrete visual,9.25
+508-3,OCR Problems,Perception,medium,0.15118087828159332,0.32237011194229126,Concrete visual,2.0
+572-3,Counting Problem,Counting/Temporal,medium,0.0025574862957000732,0.023634949699044228,Numeric,1.0
+111-3,OCR Problems,Perception,short,0.01327618956565857,0.03460176661610603,Temporal/order,3.0
+480-3,Temporal Perception,Counting/Temporal,medium,0.0920657142996788,0.30345961451530457,Temporal/order,4.5
+136-3,Spatial Perception,Perception,short,0.12756161391735077,0.44451749324798584,Concrete visual,3.5
+594-3,Counting Problem,Counting/Temporal,medium,0.004306435585021973,0.048958223313093185,Numeric,1.0
+678-2,Temporal Reasoning,Counting/Temporal,long,0.00018144647765439004,0.0009503066539764404,Temporal/order,1.0
+786-3,Action Reasoning,Reasoning,long,0.21673493087291718,0.5713090300559998,Concrete visual,9.5
+697-1,Action Reasoning,Reasoning,long,0.08408841490745544,0.3426654040813446,Abstract,2.0
+420-2,Temporal Perception,Counting/Temporal,medium,0.009221911430358887,0.2150164097547531,Temporal/order,3.5
+087-1,Counting Problem,Counting/Temporal,short,0.003062725067138672,0.023634949699044228,Numeric,1.0
+248-1,Counting Problem,Counting/Temporal,short,0.0038733978290110826,0.03660702705383301,Numeric,1.0
+731-3,Action Reasoning,Reasoning,long,0.07399222999811172,0.49096569418907166,Concrete visual,7.25
+687-2,Temporal Perception,Counting/Temporal,long,0.0659787580370903,0.3338765799999237,Abstract,2.0
+207-3,Counting Problem,Counting/Temporal,short,0.01121936272829771,0.08166267722845078,Numeric,1.0
+156-2,Temporal Perception,Counting/Temporal,short,0.05473555251955986,0.2526571452617645,Concrete visual,1.0
+564-2,Action Reasoning,Reasoning,medium,0.18857304751873016,0.5481890439987183,Concrete visual,6.0
+022-2,Temporal Perception,Counting/Temporal,short,0.10894342511892319,0.425184965133667,Concrete visual,9.25
+565-1,OCR Problems,Perception,medium,0.15615637600421906,0.4299367368221283,Concrete visual,2.25
+799-2,Temporal Reasoning,Counting/Temporal,long,0.00031697750091552734,0.006509492639452219,Temporal/order,1.0
+525-2,Counting Problem,Counting/Temporal,medium,0.002425968647003174,0.028550853952765465,Numeric,1.0
+678-3,OCR Problems,Perception,long,0.07457002997398376,0.25486519932746887,Abstract,1.75
+679-2,Temporal Reasoning,Counting/Temporal,long,0.0002611180243548006,0.006504237651824951,Temporal/order,1.0
+671-2,Temporal Reasoning,Counting/Temporal,long,0.0001486341207055375,0.005423208232969046,Temporal/order,1.0
+839-3,Action Reasoning,Reasoning,long,0.14099131524562836,0.4865542948246002,Abstract,4.75
+486-3,Action Reasoning,Reasoning,medium,0.19087356328964233,0.5677942037582397,Concrete visual,8.25
+522-3,Temporal Reasoning,Counting/Temporal,medium,0.0004281004366930574,0.005540361162275076,Temporal/order,1.0
+430-3,OCR Problems,Perception,medium,0.09252209216356277,0.0716586485505104,Abstract,1.75
+857-3,Temporal Reasoning,Counting/Temporal,long,0.018198341131210327,0.06324651837348938,Concrete visual,12.25
+086-3,OCR Problems,Perception,short,0.07477673888206482,0.13510765135288239,Abstract,1.0
+497-1,Temporal Reasoning,Counting/Temporal,medium,0.00035315752029418945,0.0077765583992004395,Temporal/order,1.0
+488-1,Spatial Reasoning,Reasoning,medium,0.15151721239089966,0.35813799500465393,Concrete visual,3.25
+568-1,OCR Problems,Perception,medium,0.0201433002948761,0.06717764586210251,Numeric,2.0
+547-3,Temporal Reasoning,Counting/Temporal,medium,0.24834167957305908,0.4229842722415924,Concrete visual,8.25
+838-2,Temporal Reasoning,Counting/Temporal,long,0.014231701381504536,0.06464403122663498,Concrete visual,8.0
+566-3,Temporal Reasoning,Counting/Temporal,medium,0.0038801729679107666,0.01183203887194395,Temporal/order,9.0
+364-2,OCR Problems,Perception,medium,0.1258772760629654,0.23548531532287598,Abstract,1.5
+558-2,Temporal Reasoning,Counting/Temporal,medium,0.15097211301326752,0.469791978597641,Concrete visual,10.5
+453-1,OCR Problems,Perception,medium,0.19678877294063568,0.3266683518886566,Concrete visual,2.5
+634-2,Temporal Reasoning,Counting/Temporal,long,0.06169091537594795,0.5463306903839111,Abstract,4.75
+822-1,Temporal Reasoning,Counting/Temporal,long,0.0001735091209411621,0.004025767091661692,Temporal/order,1.0
+685-2,Temporal Reasoning,Counting/Temporal,long,0.00046600899077020586,0.005344947334378958,Temporal/order,1.0
+599-1,OCR Problems,Perception,medium,0.013064473867416382,0.18512552976608276,Numeric,2.0
+061-3,OCR Problems,Perception,short,0.1686738282442093,0.21332615613937378,Abstract,1.0
+595-1,OCR Problems,Perception,medium,0.14974719285964966,0.2269381284713745,Abstract,1.0
+505-3,Temporal Perception,Counting/Temporal,medium,0.018285423517227173,0.2971271574497223,Temporal/order,5.75
+487-3,Spatial Reasoning,Reasoning,medium,0.08641474694013596,0.41901278495788574,Abstract,3.0
+485-3,Temporal Perception,Counting/Temporal,medium,0.07781969755887985,0.43203914165496826,Temporal/order,6.75
+055-2,Spatial Reasoning,Reasoning,short,0.04457161948084831,0.2636234760284424,Concrete visual,10.5
+486-2,Spatial Reasoning,Reasoning,medium,0.10608137398958206,0.33019697666168213,Concrete visual,8.25
+413-3,Temporal Perception,Counting/Temporal,medium,0.0087590916082263,0.27070561051368713,Abstract,5.0
+326-2,Temporal Perception,Counting/Temporal,medium,0.09244377166032791,0.35820087790489197,Abstract,1.5
+185-3,Spatial Reasoning,Reasoning,short,0.20565684139728546,0.510784924030304,Concrete visual,3.25
+154-2,Spatial Perception,Perception,short,0.12467813491821289,0.34309765696525574,Concrete visual,3.0
+129-3,Spatial Reasoning,Reasoning,short,0.06039315462112427,0.3617889881134033,Concrete visual,3.0
+201-1,Spatial Reasoning,Reasoning,short,0.10111891478300095,0.2473127841949463,Abstract,1.5
+030-1,Temporal Perception,Counting/Temporal,short,0.1374605894088745,0.38330361247062683,Concrete visual,1.25
+742-3,Temporal Perception,Counting/Temporal,long,0.005796094890683889,0.05274863913655281,Numeric,3.0
+325-3,Temporal Perception,Counting/Temporal,medium,0.0941343903541565,0.25270217657089233,Abstract,1.25
+359-2,Temporal Perception,Counting/Temporal,medium,0.1339622437953949,0.5455470681190491,Concrete visual,7.5
+078-1,Spatial Perception,Perception,short,0.0615784116089344,0.2998984754085541,Concrete visual,3.75
+139-2,Spatial Perception,Perception,short,0.08603251725435257,0.29341498017311096,Abstract,3.0
+669-1,Spatial Reasoning,Reasoning,long,0.14095047116279602,0.23977015912532806,Temporal/order,11.0
+035-2,Spatial Perception,Perception,short,0.00885347556322813,0.05041952803730965,Concrete visual,4.0
+116-3,Spatial Perception,Perception,short,0.013231068849563599,0.14942441880702972,Concrete visual,2.5
+521-2,Spatial Perception,Perception,medium,0.004661212209612131,0.029825439676642418,Concrete visual,8.0
+616-2,Spatial Reasoning,Reasoning,long,0.06496155261993408,0.5049969553947449,Concrete visual,2.25
+299-2,Spatial Reasoning,Reasoning,short,0.08761180192232132,0.2934960424900055,Concrete visual,2.5
+027-1,Temporal Perception,Counting/Temporal,short,0.07823548465967178,0.33997130393981934,Abstract,10.75
+004-1,Temporal Perception,Counting/Temporal,short,0.059852778911590576,0.24623830616474152,Abstract,1.5
+360-2,Spatial Reasoning,Reasoning,medium,0.1297234147787094,0.3762699067592621,Concrete visual,7.25
+099-2,Spatial Perception,Perception,short,0.08024239540100098,0.24259968101978302,Concrete visual,1.25
