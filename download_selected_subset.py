@@ -66,6 +66,12 @@ def download_selected_subset(selection_csv: str | Path, output_dir: str | Path,
         subtitle_zip = _download(_url("subtitle.zip"), output / "subtitle.zip")
         _extract_selected(subtitle_zip, missing_subs, output, ".srt")
         if delete_archives: subtitle_zip.unlink(missing_ok=True)
+        missing_subs = {asset for asset in selected if not (output / f"{asset}.srt").exists()}
+        if missing_subs:
+            raise RuntimeError(
+                "The official subtitle archive does not contain: "
+                f"{sorted(missing_subs)}. Update the selection before downloading videos."
+            )
 
     missing_videos = {asset for asset in selected if not (output / f"{asset}.mp4").exists()}
     for number in range(1, ARCHIVE_COUNT + 1):
