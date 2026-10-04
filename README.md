@@ -30,6 +30,12 @@ The notebook validates the dataset directory and prints discovered pairs before
 it downloads either embedding model. Each video must be beside a same-stem
 subtitle, such as `B6fvT2LKEDI.mp4` plus `B6fvT2LKEDI.srt`.
 
+For a first run, the notebook includes an optional two-video trial cell. It
+downloads official media from `lmms-eval/Video-MME` into Colab's temporary
+`/content` storage, selectively extracts two long MP4/SRT pairs, and deletes the
+roughly 5.3 GB ZIP after successful extraction. Allow about 7 GiB of temporary
+free space. Embedding caches and analysis outputs still go to Google Drive.
+
 ## Outputs
 
 - `cache/`: source- and configuration-aware visual/text embedding caches
