@@ -69,3 +69,9 @@ batch sizes, and optional peak-frame export are configurable through
 pip install -r requirements-colab.txt pytest
 pytest -q
 ```
+
+The committed notebook defaults to `stratified_24`; switch it to
+`two_video_trial` only for a quick smoke test. Analysis outputs are written to
+Google Drive by default and are not covered by this repository's `.gitignore`.
+If results are copied into the repository, Git will show them as ordinary
+untracked files so they can be reviewed and committed deliberately.
