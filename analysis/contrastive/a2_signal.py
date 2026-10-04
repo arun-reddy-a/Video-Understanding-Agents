@@ -19,7 +19,7 @@ from common import GROUPS, INK, INK2, SERIES, frame_scores, savefig, style
 from data import OUT_DIR
 from subset import load_subset
 
-TOP_K, Z_CRIT = 16, 1.645
+TOP_K, Z_CRIT, Y_CLIP = 16, 1.645, 8.0
 OUT = os.path.join(OUT_DIR, "a2_signal")
 VARIANTS = {"template": "Question + option (proposal)", "option": "Option alone"}
 
@@ -47,7 +47,10 @@ def main():
         rows.append(row)
     res = pd.DataFrame(rows)
     res.to_csv(os.path.join(OUT, "signal_z.csv"), index=False)
+    report(res)
 
+
+def report(res):
     summ = []
     for g in GROUPS + ["All"]:
         d = res if g == "All" else res[res.group == g]
@@ -71,30 +74,40 @@ def plot(res):
         for gi, g in enumerate(groups):
             z = (res if g == "All" else res[res.group == g])[f"z_{v}"].values
             x = gi + (-0.18 if k == 0 else 0.18)
-            ax.scatter(x + rng.uniform(-0.08, 0.08, len(z)), z, s=11, color=SERIES[k], alpha=0.75,
+            jit = x + rng.uniform(-0.08, 0.08, len(z))
+            clip = z > Y_CLIP
+            ax.scatter(jit[~clip], z[~clip], s=11, color=SERIES[k], alpha=0.75,
                        linewidths=0.4, edgecolors="white", label=VARIANTS[v] if gi == 0 else None)
+            ax.scatter(jit[clip], np.full(clip.sum(), Y_CLIP), s=16, marker="^", color=SERIES[k],
+                       linewidths=0.4, edgecolors="white")
             ax.hlines(np.median(z), x - 0.13, x + 0.13, color=INK, linewidth=1.4)
             ax.annotate(f"{(z > Z_CRIT).mean():.0%}", (x, 1.0), xycoords=("data", "axes fraction"),
                         ha="center", va="bottom", fontsize=6.5, color=INK2)
-    ax.axhline(Z_CRIT, color=INK2, linewidth=0.9, linestyle="--")
+    ax.axhline(Z_CRIT, color=INK2, linewidth=0.9, linestyle="--",
+               label="z = 1.64 (p < .05); % of questions above it on top; ▲ = clipped at 8")
     ax.axhline(0, color=INK2, linewidth=0.6)
     ax.set_xticks(range(len(groups)), [f"{g}\n(n={len(res) if g == 'All' else (res.group == g).sum()})"
                                        for g in groups])
     ax.set_ylabel("Signal z-score (own video vs. other videos)")
-    ax.set_title("Do the options separate more on their own video?   (% above z = 1.64)", loc="left",
-                 color=INK, pad=12)
-    ax.legend(loc="upper left", frameon=False, fontsize=6.5)
+    ax.set_ylim(-3, Y_CLIP + 0.6)
+    ax.set_title("Options separate more on their own video?", loc="left", color=INK, pad=14)
+    ax.legend(loc="upper left", bbox_to_anchor=(0.0, -0.2), ncol=2, frameon=False, fontsize=6.5)
 
-    ax2.scatter(res.spread_template, res.z_template, s=12, color=SERIES[0], linewidths=0.4,
+    ax2.set_ylim(-3, Y_CLIP + 0.6)
+    ax2.scatter(res.spread_template, res.z_template.clip(upper=Y_CLIP), s=12, color=SERIES[0], linewidths=0.4,
                 edgecolors="white", label=VARIANTS["template"])
-    ax2.scatter(res.spread_option, res.z_option, s=12, color=SERIES[1], linewidths=0.4,
+    ax2.scatter(res.spread_option, res.z_option.clip(upper=Y_CLIP), s=12, color=SERIES[1], linewidths=0.4,
                 edgecolors="white", label=VARIANTS["option"])
     ax2.axhline(Z_CRIT, color=INK2, linewidth=0.9, linestyle="--")
     ax2.set_xlabel("Option spread (sub-analysis 1)")
     ax2.set_ylabel("Signal z-score")
-    ax2.set_title("Signal vs. text separability", loc="left", color=INK, pad=12)
+    ax2.set_title("Signal vs. text separability", loc="left", color=INK, pad=14)
     savefig(fig, OUT, "fig2_signal_vs_null")
 
 
 if __name__ == "__main__":
-    main()
+    import sys
+    if "--replot" in sys.argv:
+        report(pd.read_csv(os.path.join(OUT, "signal_z.csv")))
+    else:
+        main()
