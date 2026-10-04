@@ -16,3 +16,6 @@ def test_notebook_code_cells_parse_and_use_committed_manifest():
     assert "manifests' / 'long_stratified_24.csv" in code
     assert "results['events']" in code
     assert "_similarities.png" in code
+    assert "arun-reddy-a/Video-Understanding-Agents" in code
+    assert "BRANCH = 'VL-temporal-boundries'" in code
+    assert "'--branch', BRANCH" in code

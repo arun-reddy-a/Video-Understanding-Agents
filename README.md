@@ -7,16 +7,17 @@ alignment, and writes per-video and aggregate reports.
 
 ## Google Colab workflow
 
-Open `video_boundary_analysis_colab.ipynb` from GitHub in a GPU-enabled Colab
-runtime and run it from the top. The first executable cell clones this private
-repository into `/content/video-language-temporal-boundaries`, changes into that
-directory, validates the required files, and installs dependencies using an
-absolute requirements path. It works regardless of Colab's initial directory.
+Open `video_boundary_analysis_colab.ipynb` from the `VL-temporal-boundries`
+branch in a GPU-enabled Colab runtime and run it from the top. The first
+executable cell clones that branch of `arun-reddy-a/Video-Understanding-Agents`
+into `/content/Video-Understanding-Agents`, changes into that directory, and
+installs dependencies using an absolute requirements path. It works regardless
+of Colab's initial directory.
 
-Before running, add a Colab secret named `GITHUB_TOKEN` with read access to this
-private repository (key icon in Colab's left sidebar). If the secret is absent,
-the setup cell prompts for a token without displaying it. The token is not saved
-in the cloned repository's remote URL or Git configuration.
+The public repository does not require a token. If access is later restricted,
+add a Colab secret named `GITHUB_TOKEN` with read access (key icon in Colab's
+left sidebar). The token is sent as a temporary Git header and is not saved in
+the cloned repository's remote URL or Git configuration.
 
 The equivalent script workflow is to clone the repository normally, edit the
 six values at the top of `run_colab.py`, then execute `%run run_colab.py`.
