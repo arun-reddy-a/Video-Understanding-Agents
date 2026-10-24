@@ -1,0 +1,392 @@
+{
+  "video_id": "811",
+  "duration_seconds": 2754.71,
+  "tree_mode": "multimodal",
+  "node_summary_source": "subtitles",
+  "nodes": [
+    {
+      "id": "n0",
+      "level": 0,
+      "start": 0.0,
+      "end": 2754.71,
+      "parent": null,
+      "children": [
+        "n1",
+        "n10",
+        "n16",
+        "n21",
+        "n27"
+      ],
+      "subtitle_text": "[Applause] [Music] [Applause] [Applause] [Music] [Applause] [Music] [Applause] [Music] [Applause]"
+    },
+    {
+      "id": "n1",
+      "level": 1,
+      "start": 0.0,
+      "end": 578.0,
+      "parent": "n0",
+      "children": [
+        "n2",
+        "n3",
+        "n4",
+        "n5",
+        "n6",
+        "n7",
+        "n8",
+        "n9"
+      ],
+      "subtitle_text": "[Applause] [Music] [Music] uh [Applause] [Applause] [Music] [Applause] [Music] wow"
+    },
+    {
+      "id": "n10",
+      "level": 1,
+      "start": 578.0,
+      "end": 1028.0,
+      "parent": "n0",
+      "children": [
+        "n11",
+        "n12",
+        "n13",
+        "n14",
+        "n15"
+      ],
+      "subtitle_text": "[Applause] no [Music] [Applause] oh [Applause] oh [Applause] [Applause] oh [Applause] oh [Music] [Applause]"
+    },
+    {
+      "id": "n16",
+      "level": 1,
+      "start": 1028.0,
+      "end": 1422.0,
+      "parent": "n0",
+      "children": [
+        "n17",
+        "n18",
+        "n19",
+        "n20"
+      ],
+      "subtitle_text": "[Applause] [Music] [Music] [Applause] [Applause] [Music] [Applause] [Applause] [Music] [Applause]"
+    },
+    {
+      "id": "n21",
+      "level": 1,
+      "start": 1422.0,
+      "end": 2076.0,
+      "parent": "n0",
+      "children": [
+        "n22",
+        "n23",
+        "n24",
+        "n25",
+        "n26"
+      ],
+      "subtitle_text": "[Music] [Applause] [Applause] [Music] [Applause] [Music] [Applause] [Music] [Applause] [Music] [Applause]"
+    },
+    {
+      "id": "n27",
+      "level": 1,
+      "start": 2076.0,
+      "end": 2754.71,
+      "parent": "n0",
+      "children": [
+        "n28",
+        "n29",
+        "n30",
+        "n31",
+        "n32",
+        "n33"
+      ],
+      "subtitle_text": "a compilation next we'd love your feedback while you're on youtube you should hit the subscribe button and the notification bell this way you know each time we post a new video also follow talent recap on all social medias i'm talking facebook twitter instagram talking to the fans we love reading your comments and interacting with you guys and sharing some of the same emotions towards some of the acts it's a perfect way for a fan like me to interact with a fan like you this video is over and i didn't expect you to still be here but since you are let's talk more about talent expect you to still be here but since you are let's talk more about talent recap and what i do here my name is summer monet and i am a host for talent to recap what's hot this segment is designed to take a deeper look at our favorite contestants favorite moments and our favorite celebrity judges if there's any drama or controversy that you will be notified every time we upload a video i'm samantha i'm summer monet i'm kayla and that's and that's and that's our talent recap hey you stop swiping on dating apps and start swiping through talent recaps playlists"
+    },
+    {
+      "id": "n2",
+      "level": 2,
+      "start": 0.0,
+      "end": 54.0,
+      "parent": "n1",
+      "children": [],
+      "subtitle_text": "[Music] subscribe ring the notification bell and leave a comment down [Music] hi below what's your name and how old [Music] hi below what's your name and how old are you my name's sophie darcy and i'm 14 years old you're 14 years old so you're still in school yeah um what is it you're going to be doing for us today i'll be doing hand bounce and contortion doing for us today i'll be doing hand bounce and contortion wow and when did you discover you wanted to do it or could even do it i found this out by watching a video of contortion and i was like oh my gosh i really want to try this and after i tried it i just fell in love with it oh wow and is your family supportive my parents with it oh wow and is your family supportive my parents are very supportive in fact my dad made me these canes and that thing that's holding the apple is a toilet paper holder it is okay well good luck thank you"
+    },
+    {
+      "id": "n3",
+      "level": 2,
+      "start": 54.0,
+      "end": 108.0,
+      "parent": "n1",
+      "children": [],
+      "subtitle_text": "it is okay well good luck thank you [Music] [Music] [Applause] [Music] [Applause] [Music] [Applause] wow [Applause] [Music]"
+    },
+    {
+      "id": "n4",
+      "level": 2,
+      "start": 108.0,
+      "end": 218.0,
+      "parent": "n1",
+      "children": [],
+      "subtitle_text": "[Applause] [Music] wow this isn't bad enough [Applause] oh my god [Applause] [Applause] [Applause] [Applause] wow"
+    },
+    {
+      "id": "n5",
+      "level": 2,
+      "start": 218.0,
+      "end": 276.0,
+      "parent": "n1",
+      "children": [],
+      "subtitle_text": "this year when i moved to la i i wanted my dreams will come true and to be seen on this show and you those people who can realize it i get it and what's the ultimate dream marina ultimate dream marina i want to perform i want to become an artist okay well the stage is yours i'm so excited i love dancing yours i'm so excited i love dancing [Music]"
+    },
+    {
+      "id": "n6",
+      "level": 2,
+      "start": 276.0,
+      "end": 354.0,
+      "parent": "n1",
+      "children": [],
+      "subtitle_text": "[Applause] [Music] [Music] uh [Applause] [Applause] [Music] [Applause] [Music] [Applause] wow [Applause]"
+    },
+    {
+      "id": "n7",
+      "level": 2,
+      "start": 354.0,
+      "end": 448.0,
+      "parent": "n1",
+      "children": [],
+      "subtitle_text": "wow [Applause] what just happened gabrielle what do you think that was amazing thank you it was so strong it was so precise it was so good thank you it was so strong it was so precise it was so good howie the contortions were great but graceful and scary and icky and wonderful you were a true artist thank you you stood up and delivered you were a true artist thank you you stood up and delivered julianne i love it like you stood out it was strong and powerful but graceful and elegant and you have made yourself known on america's got talent thank you so much have you ever seen the exorcist the ever seen that was crazier but fantastic marina thank you okay we have to vote howie yes thank you that's a yes for me too thank you oh"
+    },
+    {
+      "id": "n8",
+      "level": 2,
+      "start": 448.0,
+      "end": 518.0,
+      "parent": "n1",
+      "children": [],
+      "subtitle_text": "that's a yes for me too thank you oh yeah it's a guess girl marina [Applause] you have four yeses congratulations [Applause] you have four yeses congratulations [Applause] guys related we're sisters beautiful sisters what are your names uh i'm lauren beautiful sisters what are your names uh i'm lauren angeline i'm celine just curious where would you like your act to be in five ten years time if you were to do well i'm curious so um our father he was a performer he never got to perform in vegas which is one of his dreams yeah okay go ahead good luck good luck [Applause]"
+    },
+    {
+      "id": "n9",
+      "level": 2,
+      "start": 518.0,
+      "end": 578.0,
+      "parent": "n1",
+      "children": [],
+      "subtitle_text": "[Music] i'm falling i'm falling [Applause] [Music] [Applause] [Music] wow [Applause] that is crazy [Applause]"
+    },
+    {
+      "id": "n11",
+      "level": 2,
+      "start": 578.0,
+      "end": 628.0,
+      "parent": "n10",
+      "children": [],
+      "subtitle_text": "[Applause] [Applause] foreign [Applause] foreign [Applause]"
+    },
+    {
+      "id": "n12",
+      "level": 2,
+      "start": 628.0,
+      "end": 788.0,
+      "parent": "n10",
+      "children": [],
+      "subtitle_text": "oh [Music] [Applause] no [Applause] no [Music] [Applause] oh [Applause] oh [Applause] i can't wait to see you again it's a definite yes for me thank you so much simon this is your third yes wow thank you four yes [Music] [Applause]"
+    },
+    {
+      "id": "n13",
+      "level": 2,
+      "start": 788.0,
+      "end": 856.0,
+      "parent": "n10",
+      "children": [],
+      "subtitle_text": "what's he doing [Applause] [Applause] oh [Applause] oh [Music] [Applause] [Music] [Applause] [Music] [Applause] [Music] [Applause] [Music] so"
+    },
+    {
+      "id": "n14",
+      "level": 2,
+      "start": 856.0,
+      "end": 968.0,
+      "parent": "n10",
+      "children": [],
+      "subtitle_text": "so [Applause] oh my god oh my god [Applause] [Applause] uh was like the exorcist you know when linda blair does all that stuff when you came up close to me it was like you turned into like an animal or something but i love that it's great thank you howie what did you think i would love to see you star in a horror film like that would be great how did you know you couldn't do that i"
+    },
+    {
+      "id": "n15",
+      "level": 2,
+      "start": 968.0,
+      "end": 1028.0,
+      "parent": "n10",
+      "children": [],
+      "subtitle_text": "you thank you so much let's vote guys yes yes simon don't try this at home yes oh my gosh they're looking crazy hello hello welcome to britain's got talent thank hello welcome to britain's got talent thank you thank you what's the name of your group angara contortion group where are you from buddhisia it's uh inside of russia oh wow have you traveled all the way to come on this show yeah okay how long did that take you uh come on this show yeah okay how long did that take you uh six hours flight to moscow and then two or three hours to here wow you've seen the show before yes yes of course okay you think you can win yeah we hope so okay well good luck girls thank you girls thank you"
+    },
+    {
+      "id": "n17",
+      "level": 2,
+      "start": 1028.0,
+      "end": 1126.0,
+      "parent": "n16",
+      "children": [],
+      "subtitle_text": "[Applause] [Music] [Music] [Applause] [Music] [Applause] [Music] [Applause] [Music] [Applause]"
+    },
+    {
+      "id": "n18",
+      "level": 2,
+      "start": 1126.0,
+      "end": 1186.0,
+      "parent": "n16",
+      "children": [],
+      "subtitle_text": "[Music] [Applause] [Music] [Applause] [Music] [Applause] [Music] [Applause] [Music] [Applause] [Music] [Applause] [Music] [Applause] [Music] [Applause] [Music] wow [Applause]"
+    },
+    {
+      "id": "n19",
+      "level": 2,
+      "start": 1186.0,
+      "end": 1274.0,
+      "parent": "n16",
+      "children": [],
+      "subtitle_text": "wow you girls are not human unbelievable and that was just a visual treat i am in awe well it's one of the most sunny things i've ever seen on this show i mean it was absolutely brilliant it was just otherworldly and fabulous well done i agree with everything everybody said the audience really likes it i'd have to tell you also girls you have amazing energy i'd have to tell you also girls you have amazing energy you put so much into this i mean it was amazing thank you okay so let me start with david [Applause] it's a yes from me [Applause] it's a yes from me it's a yes from me girls yes for me oh yes"
+    },
+    {
+      "id": "n20",
+      "level": 2,
+      "start": 1274.0,
+      "end": 1422.0,
+      "parent": "n16",
+      "children": [],
+      "subtitle_text": "oh yes [Applause] such an incredible atmosphere i loved it [Applause] [Music] [Applause] [Music] [Applause] [Music] [Applause] [Music] [Applause] [Music] you know how i feel yes [Applause] [Music] [Music]"
+    },
+    {
+      "id": "n22",
+      "level": 2,
+      "start": 1422.0,
+      "end": 1602.0,
+      "parent": "n21",
+      "children": [],
+      "subtitle_text": "[Music] [Applause] [Applause] oh [Applause] oh [Applause] [Applause] [Applause] watching [Applause]"
+    },
+    {
+      "id": "n23",
+      "level": 2,
+      "start": 1602.0,
+      "end": 1734.0,
+      "parent": "n21",
+      "children": [],
+      "subtitle_text": "[Applause] oh [Applause] [Applause] [Applause] oh [Applause] oh [Applause]"
+    },
+    {
+      "id": "n24",
+      "level": 2,
+      "start": 1734.0,
+      "end": 1844.0,
+      "parent": "n21",
+      "children": [],
+      "subtitle_text": "one of my favorite acts tonight yes [Applause] one of my favorite acts tonight yes [Applause] [Music] [Applause] [Music] [Applause] [Music] [Applause] [Music] [Applause] [Music] [Applause] [Music] [Applause]"
+    },
+    {
+      "id": "n25",
+      "level": 2,
+      "start": 1844.0,
+      "end": 1904.0,
+      "parent": "n21",
+      "children": [],
+      "subtitle_text": "[Music] [Applause] [Music] [Applause] [Music] [Applause] [Music] [Applause] [Music] says [Applause] [Music] [Applause] [Music] [Applause]"
+    },
+    {
+      "id": "n26",
+      "level": 2,
+      "start": 1904.0,
+      "end": 2076.0,
+      "parent": "n21",
+      "children": [],
+      "subtitle_text": "pretzel i saw some people on the show actually do contortion and i was like hey they have their own shows and i really want to do that great augusta well i thank you an incredible young lady i can't even touch my toes so what an amazing gift you have acts who are professionals and i think our audience will really like you thank you so much the only thing i would say is you're gonna progress in this competition emerald you have to do something we've never seen before you think you could do that i think so good okay i have an idea let's start the voting you get a definite yes for me big fat yes thank you so much yes thank you number three i want to see you do more crazy things thank you emeralds that was a great start to the show and i love your act that was a great start to the show and i love your act which is why you have four yeses [Music] hi and what's your name my name is ion"
+    },
+    {
+      "id": "n28",
+      "level": 2,
+      "start": 2076.0,
+      "end": 2134.0,
+      "parent": "n27",
+      "children": [],
+      "subtitle_text": "good girl okay well the stage is yours wow [Applause] [Applause] [Music] i often do that before football on a [Music] i often do that before football on a monday night just to limber up you know [Applause] [Music] no no [Applause] the normal laws of physics don't apply"
+    },
+    {
+      "id": "n29",
+      "level": 2,
+      "start": 2134.0,
+      "end": 2182.0,
+      "parent": "n27",
+      "children": [],
+      "subtitle_text": "[Applause] the normal laws of physics don't apply to this cow the normal laws of physics don't apply to this cow [Applause] shut up"
+    },
+    {
+      "id": "n30",
+      "level": 2,
+      "start": 2182.0,
+      "end": 2302.0,
+      "parent": "n27",
+      "children": [],
+      "subtitle_text": "i thought you were absolutely utterly spellbinding [Applause] [Music] i'm gonna say yes 100 yes definitely i'm gonna say yes 100 yes definitely that was really unbelievable you've got three yeses from the judges there's some fantastic comments how do you feel about three yeses from the judges there's some fantastic comments how do you feel about that amazing yeah especially from simon cowell [Music] [Applause] [Applause] welcome to america's got talent what's your name my name is nina and i'm a contortionist ah contortion have you been doing this for a long time i danced all my life yes i was a ballerina first and um"
+    },
+    {
+      "id": "n31",
+      "level": 2,
+      "start": 2302.0,
+      "end": 2422.0,
+      "parent": "n27",
+      "children": [],
+      "subtitle_text": "[Music] push okay down push okay down [Applause] [Music] [Applause] [Music] [Applause] [Music] [Applause] [Music] [Applause] [Music] [Applause] wow [Music] wow [Music] [Applause] [Music]"
+    },
+    {
+      "id": "n32",
+      "level": 2,
+      "start": 2422.0,
+      "end": 2602.0,
+      "parent": "n27",
+      "children": [],
+      "subtitle_text": "a compilation next we'd love your feedback while you're on youtube you should hit the subscribe button and the notification bell this way you know each time we post a new video also follow talent recap on all social medias i'm talking facebook twitter instagram medias i'm talking facebook twitter instagram it's a good time plus head over to talentrecap.com because we have all the scoop on talent shows that you won't want to miss [Music] interviews polls newsletters and fun quizzes now if that sounds like your kind of thing come visit us at talentrecap.com hi i'm samantha and while you're still here let me quickly tell you about our weekly talent recap show that i am one of the hosts of each week two hosts sit down and discuss talking to the fans we love reading your comments and interacting with you guys and sharing some of the same emotions towards some of the acts it's a perfect way for a fan like me to interact with a fan like you this video is over and i didn't expect you to still be here but since you are let's talk more about talent"
+    },
+    {
+      "id": "n33",
+      "level": 2,
+      "start": 2602.0,
+      "end": 2754.71,
+      "parent": "n27",
+      "children": [],
+      "subtitle_text": "expect you to still be here but since you are let's talk more about talent recap and what i do here my name is summer monet and i am a host for talent to recap what's hot this segment is designed to take a deeper look at our favorite contestants favorite moments and our favorite celebrity judges if there's any drama or controversy summer monet and now you know what's hot oh what are you still doing here but wait since you've stuck around this long hi i'm kayla and i'm the director of video content here at talent recap i work behind the scenes managing our youtube channel and editing all of our videos at talent recap we create fun and engaging videos at talent recap we create fun and engaging videos on all of our favorite talent shows including america's got talent american idol the voice the mass singer and so much more by the fans for the fans i personally am a huge fan of these shows but that you will be notified every time we upload a video i'm samantha i'm summer monet i'm kayla and that's and that's and that's our talent recap hey you stop swiping on dating apps and start swiping through talent recaps playlists"
+    }
+  ],
+  "boundary_diagnostics": {
+    "persistence_method": "superlevel_h0_path_graph",
+    "section_cut_seconds": [
+      54.0,
+      108.0,
+      218.0,
+      276.0,
+      354.0,
+      448.0,
+      518.0,
+      578.0,
+      628.0,
+      788.0,
+      856.0,
+      968.0,
+      1028.0,
+      1126.0,
+      1186.0,
+      1274.0,
+      1422.0,
+      1602.0,
+      1734.0,
+      1844.0,
+      1904.0,
+      2076.0,
+      2134.0,
+      2182.0,
+      2302.0,
+      2422.0,
+      2602.0
+    ],
+    "chapter_cut_seconds": [
+      578.0,
+      1028.0,
+      1422.0,
+      2076.0
+    ],
+    "persistent_peak_count": 72
+  }
+}

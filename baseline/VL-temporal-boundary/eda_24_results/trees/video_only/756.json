@@ -1,0 +1,336 @@
+{
+  "video_id": "756",
+  "duration_seconds": 1915.72,
+  "tree_mode": "video_only",
+  "node_summary_source": "none",
+  "nodes": [
+    {
+      "id": "n0",
+      "level": 0,
+      "start": 0.0,
+      "end": 1915.72,
+      "parent": null,
+      "children": [
+        "n1",
+        "n7",
+        "n13",
+        "n20"
+      ],
+      "subtitle_text": ""
+    },
+    {
+      "id": "n1",
+      "level": 1,
+      "start": 0.0,
+      "end": 538.0,
+      "parent": "n0",
+      "children": [
+        "n2",
+        "n3",
+        "n4",
+        "n5",
+        "n6"
+      ],
+      "subtitle_text": ""
+    },
+    {
+      "id": "n7",
+      "level": 1,
+      "start": 538.0,
+      "end": 912.0,
+      "parent": "n0",
+      "children": [
+        "n8",
+        "n9",
+        "n10",
+        "n11",
+        "n12"
+      ],
+      "subtitle_text": ""
+    },
+    {
+      "id": "n13",
+      "level": 1,
+      "start": 912.0,
+      "end": 1392.0,
+      "parent": "n0",
+      "children": [
+        "n14",
+        "n15",
+        "n16",
+        "n17",
+        "n18",
+        "n19"
+      ],
+      "subtitle_text": ""
+    },
+    {
+      "id": "n20",
+      "level": 1,
+      "start": 1392.0,
+      "end": 1915.72,
+      "parent": "n0",
+      "children": [
+        "n21",
+        "n22",
+        "n23",
+        "n24",
+        "n25",
+        "n26",
+        "n27",
+        "n28"
+      ],
+      "subtitle_text": ""
+    },
+    {
+      "id": "n2",
+      "level": 2,
+      "start": 0.0,
+      "end": 96.0,
+      "parent": "n1",
+      "children": [],
+      "subtitle_text": ""
+    },
+    {
+      "id": "n3",
+      "level": 2,
+      "start": 96.0,
+      "end": 226.0,
+      "parent": "n1",
+      "children": [],
+      "subtitle_text": ""
+    },
+    {
+      "id": "n4",
+      "level": 2,
+      "start": 226.0,
+      "end": 360.0,
+      "parent": "n1",
+      "children": [],
+      "subtitle_text": ""
+    },
+    {
+      "id": "n5",
+      "level": 2,
+      "start": 360.0,
+      "end": 416.0,
+      "parent": "n1",
+      "children": [],
+      "subtitle_text": ""
+    },
+    {
+      "id": "n6",
+      "level": 2,
+      "start": 416.0,
+      "end": 538.0,
+      "parent": "n1",
+      "children": [],
+      "subtitle_text": ""
+    },
+    {
+      "id": "n8",
+      "level": 2,
+      "start": 538.0,
+      "end": 632.0,
+      "parent": "n7",
+      "children": [],
+      "subtitle_text": ""
+    },
+    {
+      "id": "n9",
+      "level": 2,
+      "start": 632.0,
+      "end": 708.0,
+      "parent": "n7",
+      "children": [],
+      "subtitle_text": ""
+    },
+    {
+      "id": "n10",
+      "level": 2,
+      "start": 708.0,
+      "end": 760.0,
+      "parent": "n7",
+      "children": [],
+      "subtitle_text": ""
+    },
+    {
+      "id": "n11",
+      "level": 2,
+      "start": 760.0,
+      "end": 808.0,
+      "parent": "n7",
+      "children": [],
+      "subtitle_text": ""
+    },
+    {
+      "id": "n12",
+      "level": 2,
+      "start": 808.0,
+      "end": 912.0,
+      "parent": "n7",
+      "children": [],
+      "subtitle_text": ""
+    },
+    {
+      "id": "n14",
+      "level": 2,
+      "start": 912.0,
+      "end": 1034.0,
+      "parent": "n13",
+      "children": [],
+      "subtitle_text": ""
+    },
+    {
+      "id": "n15",
+      "level": 2,
+      "start": 1034.0,
+      "end": 1088.0,
+      "parent": "n13",
+      "children": [],
+      "subtitle_text": ""
+    },
+    {
+      "id": "n16",
+      "level": 2,
+      "start": 1088.0,
+      "end": 1172.0,
+      "parent": "n13",
+      "children": [],
+      "subtitle_text": ""
+    },
+    {
+      "id": "n17",
+      "level": 2,
+      "start": 1172.0,
+      "end": 1230.0,
+      "parent": "n13",
+      "children": [],
+      "subtitle_text": ""
+    },
+    {
+      "id": "n18",
+      "level": 2,
+      "start": 1230.0,
+      "end": 1328.0,
+      "parent": "n13",
+      "children": [],
+      "subtitle_text": ""
+    },
+    {
+      "id": "n19",
+      "level": 2,
+      "start": 1328.0,
+      "end": 1392.0,
+      "parent": "n13",
+      "children": [],
+      "subtitle_text": ""
+    },
+    {
+      "id": "n21",
+      "level": 2,
+      "start": 1392.0,
+      "end": 1482.0,
+      "parent": "n20",
+      "children": [],
+      "subtitle_text": ""
+    },
+    {
+      "id": "n22",
+      "level": 2,
+      "start": 1482.0,
+      "end": 1534.0,
+      "parent": "n20",
+      "children": [],
+      "subtitle_text": ""
+    },
+    {
+      "id": "n23",
+      "level": 2,
+      "start": 1534.0,
+      "end": 1584.0,
+      "parent": "n20",
+      "children": [],
+      "subtitle_text": ""
+    },
+    {
+      "id": "n24",
+      "level": 2,
+      "start": 1584.0,
+      "end": 1630.0,
+      "parent": "n20",
+      "children": [],
+      "subtitle_text": ""
+    },
+    {
+      "id": "n25",
+      "level": 2,
+      "start": 1630.0,
+      "end": 1694.0,
+      "parent": "n20",
+      "children": [],
+      "subtitle_text": ""
+    },
+    {
+      "id": "n26",
+      "level": 2,
+      "start": 1694.0,
+      "end": 1758.0,
+      "parent": "n20",
+      "children": [],
+      "subtitle_text": ""
+    },
+    {
+      "id": "n27",
+      "level": 2,
+      "start": 1758.0,
+      "end": 1852.0,
+      "parent": "n20",
+      "children": [],
+      "subtitle_text": ""
+    },
+    {
+      "id": "n28",
+      "level": 2,
+      "start": 1852.0,
+      "end": 1915.72,
+      "parent": "n20",
+      "children": [],
+      "subtitle_text": ""
+    }
+  ],
+  "boundary_diagnostics": {
+    "persistence_method": "superlevel_h0_path_graph",
+    "section_cut_seconds": [
+      96.0,
+      226.0,
+      360.0,
+      416.0,
+      538.0,
+      632.0,
+      708.0,
+      760.0,
+      808.0,
+      912.0,
+      1034.0,
+      1088.0,
+      1172.0,
+      1230.0,
+      1328.0,
+      1392.0,
+      1482.0,
+      1534.0,
+      1584.0,
+      1630.0,
+      1694.0,
+      1758.0,
+      1852.0
+    ],
+    "chapter_cut_seconds": [
+      538.0,
+      912.0,
+      1392.0
+    ],
+    "persistent_peak_count": 63
+  }
+}

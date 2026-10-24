@@ -1,0 +1,495 @@
+{
+  "video_id": "652",
+  "duration_seconds": 3020.554,
+  "tree_mode": "video_only",
+  "node_summary_source": "none",
+  "nodes": [
+    {
+      "id": "n0",
+      "level": 0,
+      "start": 0.0,
+      "end": 3020.554,
+      "parent": null,
+      "children": [
+        "n1",
+        "n5",
+        "n10",
+        "n14",
+        "n18",
+        "n21",
+        "n27",
+        "n32",
+        "n36"
+      ],
+      "subtitle_text": ""
+    },
+    {
+      "id": "n1",
+      "level": 1,
+      "start": 0.0,
+      "end": 270.0,
+      "parent": "n0",
+      "children": [
+        "n2",
+        "n3",
+        "n4"
+      ],
+      "subtitle_text": ""
+    },
+    {
+      "id": "n5",
+      "level": 1,
+      "start": 270.0,
+      "end": 582.0,
+      "parent": "n0",
+      "children": [
+        "n6",
+        "n7",
+        "n8",
+        "n9"
+      ],
+      "subtitle_text": ""
+    },
+    {
+      "id": "n10",
+      "level": 1,
+      "start": 582.0,
+      "end": 854.0,
+      "parent": "n0",
+      "children": [
+        "n11",
+        "n12",
+        "n13"
+      ],
+      "subtitle_text": ""
+    },
+    {
+      "id": "n14",
+      "level": 1,
+      "start": 854.0,
+      "end": 1244.0,
+      "parent": "n0",
+      "children": [
+        "n15",
+        "n16",
+        "n17"
+      ],
+      "subtitle_text": ""
+    },
+    {
+      "id": "n18",
+      "level": 1,
+      "start": 1244.0,
+      "end": 1526.0,
+      "parent": "n0",
+      "children": [
+        "n19",
+        "n20"
+      ],
+      "subtitle_text": ""
+    },
+    {
+      "id": "n21",
+      "level": 1,
+      "start": 1526.0,
+      "end": 1920.0,
+      "parent": "n0",
+      "children": [
+        "n22",
+        "n23",
+        "n24",
+        "n25",
+        "n26"
+      ],
+      "subtitle_text": ""
+    },
+    {
+      "id": "n27",
+      "level": 1,
+      "start": 1920.0,
+      "end": 2278.0,
+      "parent": "n0",
+      "children": [
+        "n28",
+        "n29",
+        "n30",
+        "n31"
+      ],
+      "subtitle_text": ""
+    },
+    {
+      "id": "n32",
+      "level": 1,
+      "start": 2278.0,
+      "end": 2588.0,
+      "parent": "n0",
+      "children": [
+        "n33",
+        "n34",
+        "n35"
+      ],
+      "subtitle_text": ""
+    },
+    {
+      "id": "n36",
+      "level": 1,
+      "start": 2588.0,
+      "end": 3020.554,
+      "parent": "n0",
+      "children": [
+        "n37",
+        "n38",
+        "n39",
+        "n40",
+        "n41",
+        "n42"
+      ],
+      "subtitle_text": ""
+    },
+    {
+      "id": "n2",
+      "level": 2,
+      "start": 0.0,
+      "end": 116.0,
+      "parent": "n1",
+      "children": [],
+      "subtitle_text": ""
+    },
+    {
+      "id": "n3",
+      "level": 2,
+      "start": 116.0,
+      "end": 176.0,
+      "parent": "n1",
+      "children": [],
+      "subtitle_text": ""
+    },
+    {
+      "id": "n4",
+      "level": 2,
+      "start": 176.0,
+      "end": 270.0,
+      "parent": "n1",
+      "children": [],
+      "subtitle_text": ""
+    },
+    {
+      "id": "n6",
+      "level": 2,
+      "start": 270.0,
+      "end": 320.0,
+      "parent": "n5",
+      "children": [],
+      "subtitle_text": ""
+    },
+    {
+      "id": "n7",
+      "level": 2,
+      "start": 320.0,
+      "end": 458.0,
+      "parent": "n5",
+      "children": [],
+      "subtitle_text": ""
+    },
+    {
+      "id": "n8",
+      "level": 2,
+      "start": 458.0,
+      "end": 508.0,
+      "parent": "n5",
+      "children": [],
+      "subtitle_text": ""
+    },
+    {
+      "id": "n9",
+      "level": 2,
+      "start": 508.0,
+      "end": 582.0,
+      "parent": "n5",
+      "children": [],
+      "subtitle_text": ""
+    },
+    {
+      "id": "n11",
+      "level": 2,
+      "start": 582.0,
+      "end": 700.0,
+      "parent": "n10",
+      "children": [],
+      "subtitle_text": ""
+    },
+    {
+      "id": "n12",
+      "level": 2,
+      "start": 700.0,
+      "end": 784.0,
+      "parent": "n10",
+      "children": [],
+      "subtitle_text": ""
+    },
+    {
+      "id": "n13",
+      "level": 2,
+      "start": 784.0,
+      "end": 854.0,
+      "parent": "n10",
+      "children": [],
+      "subtitle_text": ""
+    },
+    {
+      "id": "n15",
+      "level": 2,
+      "start": 854.0,
+      "end": 1030.0,
+      "parent": "n14",
+      "children": [],
+      "subtitle_text": ""
+    },
+    {
+      "id": "n16",
+      "level": 2,
+      "start": 1030.0,
+      "end": 1122.0,
+      "parent": "n14",
+      "children": [],
+      "subtitle_text": ""
+    },
+    {
+      "id": "n17",
+      "level": 2,
+      "start": 1122.0,
+      "end": 1244.0,
+      "parent": "n14",
+      "children": [],
+      "subtitle_text": ""
+    },
+    {
+      "id": "n19",
+      "level": 2,
+      "start": 1244.0,
+      "end": 1406.0,
+      "parent": "n18",
+      "children": [],
+      "subtitle_text": ""
+    },
+    {
+      "id": "n20",
+      "level": 2,
+      "start": 1406.0,
+      "end": 1526.0,
+      "parent": "n18",
+      "children": [],
+      "subtitle_text": ""
+    },
+    {
+      "id": "n22",
+      "level": 2,
+      "start": 1526.0,
+      "end": 1616.0,
+      "parent": "n21",
+      "children": [],
+      "subtitle_text": ""
+    },
+    {
+      "id": "n23",
+      "level": 2,
+      "start": 1616.0,
+      "end": 1678.0,
+      "parent": "n21",
+      "children": [],
+      "subtitle_text": ""
+    },
+    {
+      "id": "n24",
+      "level": 2,
+      "start": 1678.0,
+      "end": 1726.0,
+      "parent": "n21",
+      "children": [],
+      "subtitle_text": ""
+    },
+    {
+      "id": "n25",
+      "level": 2,
+      "start": 1726.0,
+      "end": 1820.0,
+      "parent": "n21",
+      "children": [],
+      "subtitle_text": ""
+    },
+    {
+      "id": "n26",
+      "level": 2,
+      "start": 1820.0,
+      "end": 1920.0,
+      "parent": "n21",
+      "children": [],
+      "subtitle_text": ""
+    },
+    {
+      "id": "n28",
+      "level": 2,
+      "start": 1920.0,
+      "end": 2012.0,
+      "parent": "n27",
+      "children": [],
+      "subtitle_text": ""
+    },
+    {
+      "id": "n29",
+      "level": 2,
+      "start": 2012.0,
+      "end": 2096.0,
+      "parent": "n27",
+      "children": [],
+      "subtitle_text": ""
+    },
+    {
+      "id": "n30",
+      "level": 2,
+      "start": 2096.0,
+      "end": 2184.0,
+      "parent": "n27",
+      "children": [],
+      "subtitle_text": ""
+    },
+    {
+      "id": "n31",
+      "level": 2,
+      "start": 2184.0,
+      "end": 2278.0,
+      "parent": "n27",
+      "children": [],
+      "subtitle_text": ""
+    },
+    {
+      "id": "n33",
+      "level": 2,
+      "start": 2278.0,
+      "end": 2448.0,
+      "parent": "n32",
+      "children": [],
+      "subtitle_text": ""
+    },
+    {
+      "id": "n34",
+      "level": 2,
+      "start": 2448.0,
+      "end": 2522.0,
+      "parent": "n32",
+      "children": [],
+      "subtitle_text": ""
+    },
+    {
+      "id": "n35",
+      "level": 2,
+      "start": 2522.0,
+      "end": 2588.0,
+      "parent": "n32",
+      "children": [],
+      "subtitle_text": ""
+    },
+    {
+      "id": "n37",
+      "level": 2,
+      "start": 2588.0,
+      "end": 2690.0,
+      "parent": "n36",
+      "children": [],
+      "subtitle_text": ""
+    },
+    {
+      "id": "n38",
+      "level": 2,
+      "start": 2690.0,
+      "end": 2738.0,
+      "parent": "n36",
+      "children": [],
+      "subtitle_text": ""
+    },
+    {
+      "id": "n39",
+      "level": 2,
+      "start": 2738.0,
+      "end": 2852.0,
+      "parent": "n36",
+      "children": [],
+      "subtitle_text": ""
+    },
+    {
+      "id": "n40",
+      "level": 2,
+      "start": 2852.0,
+      "end": 2908.0,
+      "parent": "n36",
+      "children": [],
+      "subtitle_text": ""
+    },
+    {
+      "id": "n41",
+      "level": 2,
+      "start": 2908.0,
+      "end": 2970.0,
+      "parent": "n36",
+      "children": [],
+      "subtitle_text": ""
+    },
+    {
+      "id": "n42",
+      "level": 2,
+      "start": 2970.0,
+      "end": 3020.554,
+      "parent": "n36",
+      "children": [],
+      "subtitle_text": ""
+    }
+  ],
+  "boundary_diagnostics": {
+    "persistence_method": "superlevel_h0_path_graph",
+    "section_cut_seconds": [
+      116.0,
+      176.0,
+      270.0,
+      320.0,
+      458.0,
+      508.0,
+      582.0,
+      700.0,
+      784.0,
+      854.0,
+      1030.0,
+      1122.0,
+      1244.0,
+      1406.0,
+      1526.0,
+      1616.0,
+      1678.0,
+      1726.0,
+      1820.0,
+      1920.0,
+      2012.0,
+      2096.0,
+      2184.0,
+      2278.0,
+      2448.0,
+      2522.0,
+      2588.0,
+      2690.0,
+      2738.0,
+      2852.0,
+      2908.0,
+      2970.0
+    ],
+    "chapter_cut_seconds": [
+      270.0,
+      582.0,
+      854.0,
+      1244.0,
+      1526.0,
+      1920.0,
+      2278.0,
+      2588.0
+    ],
+    "persistent_peak_count": 93
+  }
+}

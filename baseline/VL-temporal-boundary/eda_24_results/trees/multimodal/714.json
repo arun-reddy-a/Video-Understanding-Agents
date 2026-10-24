@@ -1,0 +1,415 @@
+{
+  "video_id": "714",
+  "duration_seconds": 2622.52,
+  "tree_mode": "multimodal",
+  "node_summary_source": "subtitles",
+  "nodes": [
+    {
+      "id": "n0",
+      "level": 0,
+      "start": 0.0,
+      "end": 2622.52,
+      "parent": null,
+      "children": [
+        "n1",
+        "n7",
+        "n13",
+        "n19",
+        "n23",
+        "n31"
+      ],
+      "subtitle_text": "[Music] the world has right now close to a billion cars and we might double the number of cars on the planet by 2050. so if we double the number of vehicles we really increase the amount of fuel they consume and that's going to have a big big footprint in terms of our demand for resources to a lot of the work that we're doing now what we need to look at though is which of the pathways that come out of this are not only good financially but those that are also good in sustainability and this equation is is really wide open right now we are in a race to develop fuels people get places more efficiently [Music] as we just saw the race to produce cleaner energy is charging ahead in the meantime demand for cars continues to climb by 2050 it's predicted there'll be two of a growing population and increased energy use demand real solutions it's innovations like those we've just seen that will be critical in charting our path to the world of 2050. you"
+    },
+    {
+      "id": "n1",
+      "level": 1,
+      "start": 0.0,
+      "end": 488.0,
+      "parent": "n0",
+      "children": [
+        "n2",
+        "n3",
+        "n4",
+        "n5",
+        "n6"
+      ],
+      "subtitle_text": "we're going to need transportation fuels for those that will directly replace the petroleum-based fuels that we're using today this has kicked off people looking at a whole range of other alternatives to petroleum in your tank [Music] commercial production of ethanol as fuel a lot of the work that we're doing now what we need to look at though is which of the pathways that come out of this are not only good financially but those that are also good in sustainability and this equation is is really wide open right now we are in a race to develop fuels producing country in the world sugarcane alcohol from brazil can reduce the total carbon footprint by up to 70 percent compared with the gasoline [Music] the biggest challenge for fuel providers [Music] the biggest challenge for fuel providers and car manufacturers is to reduce co2 emissions over the next 20 years demand for mobility will continue to grow we believe that biofuels are very important because they help in an immediate way"
+    },
+    {
+      "id": "n7",
+      "level": 1,
+      "start": 488.0,
+      "end": 870.0,
+      "parent": "n0",
+      "children": [
+        "n8",
+        "n9",
+        "n10",
+        "n11",
+        "n12"
+      ],
+      "subtitle_text": "a hydrocarbon and it's very similar in many ways to diesel fuel we thought gosh we can turn our attention now to fuels we could make a few changes in that microbe to turn it into a fuel-producing microbe if we imagine that glucose is going to be our new petroleum we need a source if we imagine that glucose is going to be our new petroleum we need a source for that glucose so the crops that we're looking at are crops like switchgrass this is a native grass that grows without a lot of water and on marginal lands but we could turn into energy farms the challenge though is that unlike that could take in sunlight and carbon dioxide and turn it into fuel and imagine if that didn't involve growing anything at all [Music] the synthetic biologists are trying to take plants and make them do things that they wouldn't normally do on the other hand materials chemists and use for our cars and planes and storage [Music] our goal is within two years to have the first artificial photosynthesis a solar fuels"
+    },
+    {
+      "id": "n13",
+      "level": 1,
+      "start": 870.0,
+      "end": 1300.0,
+      "parent": "n0",
+      "children": [
+        "n14",
+        "n15",
+        "n16",
+        "n17",
+        "n18"
+      ],
+      "subtitle_text": "before ever there's technology that would allow me to spend less time in the car spend less money on gas and spend more time at home i'd be all for that the cost of traffic is people's time it's fuel wasted it's an emotional toll if you took a satellite picture of the highway you can see that there's actually a lot of open space and if we had the technology for cars to drive more closely but safely then you could increase the utilization of the road network what this means is that to be road network what this means is that to be more efficient to use less fuel we need to see the road differently we need cars that can navigate through the urban landscape in a radically different way topography infrastructure and density is only part of the answer another key to improving transport efficiency is building cars that drive themselves autonomous vehicle technology has a tremendous potential to improve"
+    },
+    {
+      "id": "n19",
+      "level": 1,
+      "start": 1300.0,
+      "end": 1702.0,
+      "parent": "n0",
+      "children": [
+        "n20",
+        "n21",
+        "n22"
+      ],
+      "subtitle_text": "themselves in traffic the goal was to have multiple robots turn them loose on a course and see if they could go 60 miles in six hours fully autonomously driving may be one of the most complex things we do every day drivers make dozens of decisions at any we make so many decisions when we're driving without even thinking about it so in creating our vehicle a great component of the enterprise was developing software to handle lots of sensors feeding lots of data and generating a bunch of potential paths that the vehicle might follow and even though the robot doesn't have avoid it because it's always thinking about what things could the car do next no one expects millions of cars driving themselves anytime soon but there is a place where self-navigating technologies are being optimized to create the vehicle of the single heavy-duty vehicle per year [Music] it may be some time before autonomous vehicles make up the majority of cars on america's highways nevertheless some of these technologies are already making their way into our lives"
+    },
+    {
+      "id": "n23",
+      "level": 1,
+      "start": 1702.0,
+      "end": 2342.0,
+      "parent": "n0",
+      "children": [
+        "n24",
+        "n25",
+        "n26",
+        "n27",
+        "n28",
+        "n29",
+        "n30"
+      ],
+      "subtitle_text": "[Music] we've seen that changing the way we drive can improve transportation efficiencies but what if we change the way we build and live in our cities that's the subject of our next story searching for utopia we'll travel to the united arab emirates and discover a city rising out the last half century has been a pretty bad time for the making of cities mostly the natural tendency has been to accommodate to the automobile more than anything else try walking around abu dhabi highway but they claim it's going to redefine the way cities are designed built and powered mazda city in abu dhabi will be the city of the future and the role model for the world once you see what they've envisioned for world once you see what they've envisioned for this utopian city it's very impressive it's carbon neutral pedestrian friendly and powered by renewable energies but i do notice we're going to have to change our relationship with cars welcome to monster city"
+    },
+    {
+      "id": "n31",
+      "level": 1,
+      "start": 2342.0,
+      "end": 2622.52,
+      "parent": "n0",
+      "children": [
+        "n32",
+        "n33",
+        "n34",
+        "n35"
+      ],
+      "subtitle_text": "but much has been achieved they are carbon neutral and largely powered by renewable energies solutions here won't work everywhere though many cities are in cold climates and cooling is not their energy problem they need to let sunlight in not keep it out [Music] cities like los angeles or houston are taking responsibility isn't always easy utopia may be unattainable but we must reach for it and mazdar does give us a clue to what cities will be like in the future they may not look quite like cities will be like in the future they may not look quite like mastar but they will be shaped by the same concerns by energy where it comes from and how it's used [Music] the way we've been building cities lately doesn't mean we can't build cities in the future in fact we have to build cities cities are the essential statement of human civilization so we will continue to make them but we have to make them in a different way"
+    },
+    {
+      "id": "n2",
+      "level": 2,
+      "start": 0.0,
+      "end": 66.0,
+      "parent": "n1",
+      "children": [],
+      "subtitle_text": "[Music] we are in a race the race is against time we have to build cities we need them but we have to make them in a different way we have to build cities we need them but we have to make them in a different way we need a wave of innovation not only for our way of life but also the planet the consequences would be enormous if we lose this battle [Music] [Music] [Applause] [Music] [Applause] [Music] [Applause] [Music] i'm thomas goetz executive editor at wired magazine at wired we look at the innovators and innovations that are changing our world in the next hour we'll see three stories from acclaimed filmmakers about the"
+    },
+    {
+      "id": "n3",
+      "level": 2,
+      "start": 66.0,
+      "end": 162.0,
+      "parent": "n1",
+      "children": [],
+      "subtitle_text": "in the next hour we'll see three stories from acclaimed filmmakers about the future of energy we'll explore cutting edge innovations in how we drive how we live and in our first story how we fuel our cars they are all ideas that promise to shape the path to the world of 2050. [Music] the world has right now close to a billion cars and we might double the number of cars on the planet by 2050. so if we double the number of vehicles we really increase the amount of fuel they consume and that's going to have a big big footprint in terms of our demand for resources to changes in the climate that we could never recover from there's a number of forecasts for what type of transportation economy we could move into one vision is that we will use more and more liquid fuels another owners will use more and more electricity and right now more of the energy is in a gallon of fuel and even if batteries develop as some of the advocates hope they develop we're not going to see batteries running large trucks and we're certainly not going to see an electrified airplane we're going to need transportation fuels for those that will directly replace the"
+    },
+    {
+      "id": "n4",
+      "level": 2,
+      "start": 162.0,
+      "end": 290.0,
+      "parent": "n1",
+      "children": [],
+      "subtitle_text": "commercial production of ethanol as fuel started in brazil in 1975. when we started the ethanol program nobody talked about reducing emissions this was not an issue at that time first and most important we didn't have money to buy oil anymore first and most important we didn't have money to buy oil anymore after the first oil shock we were importers of oil and today more than 50 percent of all cars use ethanol instead of gasoline brazil made a very conscious choice to try to find a way to reduce their fossil then you have sugar cane plantation you have only two things to make sugar and ethanol my family has been in sugarcane business since 1955 and about 30 years ago i thought there is opportunity to make more ethanol thought there is opportunity to make more ethanol and now we are producing 120 000 cubic meters of ethanol brazil today has very close to 400 sugar meals the overall sales is 30 billion us"
+    },
+    {
+      "id": "n5",
+      "level": 2,
+      "start": 290.0,
+      "end": 410.0,
+      "parent": "n1",
+      "children": [],
+      "subtitle_text": "we have no coal transformed in a clean way in the meantime we have to do the best we can and the best at the moment is that we can do biofuels sugarcane to ethanol is an incredibly efficient process you get out about seven times the energy you put into growing the sugarcane seven times the energy you put into growing the sugarcane in the u.s when we produce ethanol from corn for every unit of input of energy we get about the same amount of energy out so we're really not gaining anything we need a better process we don't have to so we're really not gaining anything we need a better process we don't have to take what nature has given us we can actually engineer plants and yeast to be more efficient and that's the basis for a lot of the work that we're doing now what we need to look at though is which a lot of the work that we're doing now what we need to look at though is which of the pathways that come out of this are not only good financially but those that are also good in sustainability and this equation is is really wide open right now we are in a race to develop fuels"
+    },
+    {
+      "id": "n6",
+      "level": 2,
+      "start": 410.0,
+      "end": 488.0,
+      "parent": "n1",
+      "children": [],
+      "subtitle_text": "to meet the immediate and future demands we made the energy solution spring from the ground [Music] brazil is the most efficient ethanol producing country in the world sugarcane alcohol from brazil can reduce producing country in the world sugarcane alcohol from brazil can reduce the total carbon footprint by up to 70 percent compared with the gasoline [Music] the biggest challenge for fuel providers [Music] the biggest challenge for fuel providers and car manufacturers is to reduce co2 emissions over the next 20 years demand for mobility will continue to grow we believe that biofuels are very important because they help in an immediate way important because they help in an immediate way all forms of fuel are going to be needed hydrocarbons natural gas biofuels all of them are going to be part of the energy for the future of transportation"
+    },
+    {
+      "id": "n8",
+      "level": 2,
+      "start": 488.0,
+      "end": 600.0,
+      "parent": "n7",
+      "children": [],
+      "subtitle_text": "similar only we're engineering the yeast to consume that glucose and turn it into a fuel or a drug or chemical we call this synthetic biology and when i started in this area many of my colleagues said oh jay this is great work but where's the application what are you going to do with these tools who cares but where's the application what are you going to do with these tools who cares malaria is an enormous problem in any one year a million or so people die of the disease and most of them are children under the age of five so we thought this was a great opportunity to engineer yeast to produce an anti-malarial drug called artemisinin engineer yeast to produce an anti-malarial drug called artemisinin this drug is derived from plants right now but it's too expensive for people in the developing world so my laboratory engineered yeast to produce small quantities of artemisinin now that engineered yeast to produce small quantities of artemisinin now that process is being scaled up and we'll have this drug on the market shortly but at a substantially reduced cost it turns out that anti-malarial drug is a hydrocarbon and it's very similar in many ways to diesel fuel"
+    },
+    {
+      "id": "n9",
+      "level": 2,
+      "start": 600.0,
+      "end": 668.0,
+      "parent": "n7",
+      "children": [],
+      "subtitle_text": "a hydrocarbon and it's very similar in many ways to diesel fuel we thought gosh we can turn our attention now to fuels we could make a few changes in that microbe to turn it into a fuel-producing microbe if we imagine that glucose is going to be our new petroleum we need a source if we imagine that glucose is going to be our new petroleum we need a source for that glucose so the crops that we're looking at are crops like switchgrass this is a native grass that grows without a lot of water and on marginal lands but we could turn into energy farms the challenge though is that unlike farms the challenge though is that unlike sugarcane it's very difficult to get the sugar out of that biomass so we use what we call a pre-treatment process to extract the glucose from the plant and then we feed that glucose to a yeast that we've engineered to produce hydrocarbons and that yeast to a yeast that we've engineered to produce hydrocarbons and that yeast takes in the sugar and it changes its composition and gives us this high energy molecule they float to the top you skim them off you put them in your tank"
+    },
+    {
+      "id": "n10",
+      "level": 2,
+      "start": 668.0,
+      "end": 768.0,
+      "parent": "n7",
+      "children": [],
+      "subtitle_text": "the discoveries that are happening might be applied by the end of the decade [Music] in terms of a sustainable equation for the planet the role of biofuels is quite tricky there are a variety of crops that but then evaluating all of these new fuels in terms of the land use impacts that they could have that is an even harder story than doing the good science imagine that you could have one process that could take in sunlight and carbon dioxide and turn it into fuel that could take in sunlight and carbon dioxide and turn it into fuel and imagine if that didn't involve growing anything at all [Music] the synthetic biologists are trying to take plants and make them do things that they wouldn't normally do on the other hand materials chemists does in real photosynthesis [Music] we should follow the blueprint of plants converting sunlight into fuel but take the approach that it could be much"
+    },
+    {
+      "id": "n11",
+      "level": 2,
+      "start": 768.0,
+      "end": 822.0,
+      "parent": "n7",
+      "children": [],
+      "subtitle_text": "converting sunlight into fuel but take the approach that it could be much simpler all we really need is a light absorber that absorbs sunlight we also need a catalyst like iron or nickel so when you see the hydrogen coming off of a photoactive material that's an so when you see the hydrogen coming off of a photoactive material that's an example of a semiconductor breaking the chemical bonds of water to make hydrogen and oxygen ultimately our pieces are going to be contained in something that is easy to roll out like bubble wrap or going to be contained in something that is easy to roll out like bubble wrap or in would come sunlight and water you would vent the oxygen to the air but the bottom would wick out your liquid or gaseous fuel that then you could collect and use for our cars and planes and storage and use for our cars and planes and storage [Music] our goal is within two years to have the first artificial photosynthesis a solar fuels"
+    },
+    {
+      "id": "n12",
+      "level": 2,
+      "start": 822.0,
+      "end": 870.0,
+      "parent": "n7",
+      "children": [],
+      "subtitle_text": "first artificial photosynthesis a solar fuels generator that we can hold in our hands and then get to scale beyond that time we're certainly not good at predicting the future but to me electric vehicles look like a sustainable option we've the future but to me electric vehicles look like a sustainable option we've heard proposals about things as far fetched as nuclear power planes and even some proposals to move freight around with lighter than air vehicles and so if the future in 2050 does include a fair amount of oil what it means would be that we haven't deployed amount of oil what it means would be that we haven't deployed as many of these clean technologies as we already know are possible if you think about how long it's taken for us to build up the petroleum industry we can't hope to reverse that overnight it's huge change in our"
+    },
+    {
+      "id": "n14",
+      "level": 2,
+      "start": 870.0,
+      "end": 946.0,
+      "parent": "n13",
+      "children": [],
+      "subtitle_text": "industry we can't hope to reverse that overnight it's huge change in our infrastructure yes we should have been working on it 30 years ago we didn't we're trying to make up for that and that means basic research needs to be done now and by as many people as possible we have a long way to go but i'm people get places more efficiently [Music] as we just saw the race to produce cleaner energy is charging ahead in the meantime demand for cars continues to climb by 2050 it's predicted there'll be two climb by 2050 it's predicted there'll be two billion cars on the planet and fuel consumption will have tripled to keep pace we'll have to radically change the way we drive here's our next story driven by design the automobile came around in many ways it was the future we thought of it as one of the more positive changes that had happened to society suddenly our ability to get a job changed we can live further away with bigger plots of land with better quality of"
+    },
+    {
+      "id": "n15",
+      "level": 2,
+      "start": 946.0,
+      "end": 1012.0,
+      "parent": "n13",
+      "children": [],
+      "subtitle_text": "we can live further away with bigger plots of land with better quality of living it all looked quite good but there are limitations to swearing by the car if it gets congested your quality of life drops immediately to spend so long in the car it's very inefficient use of fuel spend so long in the car it's very inefficient use of fuel consumption things start making sense all of a sudden it doesn't bring you closer to where you want to get it actually sometimes brings you farther the average american spends nearly 300 hours a year in their car 38 of them stuck in traffic hours a year in their car 38 of them stuck in traffic annually congestion consumes over 1 billion in gasoline in the united states alone the inefficiency caused by traffic both financial and personal is enormous [Music] financial and personal is enormous [Music] dirk sheen and carmen white's story is not that unusual today dirk works an hour and a half away in warrenville illinois generally he wouldn't leave work until 6"
+    },
+    {
+      "id": "n16",
+      "level": 2,
+      "start": 1012.0,
+      "end": 1152.0,
+      "parent": "n13",
+      "children": [],
+      "subtitle_text": "before ever there's technology that would allow me to spend less time in the car spend less money on gas and spend more time at home i'd be all for that the cost of traffic is people's time it's fuel wasted it's an emotional toll the cost of traffic is people's time it's fuel wasted it's an emotional toll it's a frustration utilizing the roads more intelligently is a much more efficient approach to the inability to have supply keep up with traffic demand if you took a satellite picture of the if you took a satellite picture of the highway you can see that there's actually a lot of open space and if we had the technology for cars to drive more closely but safely then you could increase the utilization of the road network what this means is that to be road network what this means is that to be more efficient to use less fuel we need to see the road differently we need cars that can navigate through the urban landscape in a radically different way"
+    },
+    {
+      "id": "n17",
+      "level": 2,
+      "start": 1152.0,
+      "end": 1242.0,
+      "parent": "n13",
+      "children": [],
+      "subtitle_text": "through inertial measurement units that whole data system allows us to collect 1.3 million points of data per second probably within two to three years you're going to see 3d maps that are going to integrate the traffic information into your routing to help you understand if i've got five different routes to take which one is the most efficient today given the way different routes to take which one is the most efficient today given the way the stop lights are running given the way traffic is running all of those factors are going to be taken into consideration to make sure i've got the best route but better mapping that can integrate topography infrastructure and density is only part of the answer topography infrastructure and density is only part of the answer another key to improving transport efficiency is building cars that drive themselves autonomous vehicle technology has a tremendous potential to improve autonomous vehicle technology has a tremendous potential to improve efficiency of our road infrastructure by removing humans from the equation we eliminate all the things we do wrong behind the wheel speeding changing lanes too often merging haphazardly and by marrying auton"
+    },
+    {
+      "id": "n18",
+      "level": 2,
+      "start": 1242.0,
+      "end": 1300.0,
+      "parent": "n13",
+      "children": [],
+      "subtitle_text": "merging haphazardly and by marrying autonomous vehicles with sophisticated 3d maps we can make driving safer and more energy efficient [Music] that next generation vehicle is being built right now by the swedish trucking that next generation vehicle is being built right now by the swedish trucking company scania the solution is to see it is that the vehicles can utilize intelligent maps three-dimensional maps with traffic information the vehicles will be intelligent and information the vehicles will be intelligent and communicate with each other they will talk to each other they will talk to the infrastructure and we will see completely autonomous driven vehicles the goal was to have multiple robots and see if they could go 60 miles fully autonomously [Applause]"
+    },
+    {
+      "id": "n20",
+      "level": 2,
+      "start": 1300.0,
+      "end": 1474.0,
+      "parent": "n19",
+      "children": [],
+      "subtitle_text": "we run these education programs get people on the road with us and we finally tweak their driving techniques things like just checking these tire pressures before you even get into your car for every one psi your tires are under inflated you're wasting three percent of your fuel efficiency and the difference between 65 and 75 miles per hour there's a saving of 23 percent 3d digital maps will help create a more fuel-efficient future but these technologies are limited by the drivers who sit behind the wheel some believe that for cars and trucks to be truly energy efficient they will need to drive themselves the technology is coming into play to drive themselves the technology is coming into play through sensors and capabilities for cars to drive autonomously in 2007 the united states department of defense held a competition to see if a completely autonomous self-driving themselves in traffic the goal was to have multiple robots turn them loose on a course and see if they could go 60 miles in six hours fully autonomously driving may be one of the most complex things we do every day drivers make dozens of decisions at any"
+    },
+    {
+      "id": "n21",
+      "level": 2,
+      "start": 1474.0,
+      "end": 1598.0,
+      "parent": "n19",
+      "children": [],
+      "subtitle_text": "we make so many decisions when we're driving without even thinking about it so in creating our vehicle a great component of the enterprise was developing software to handle lots of sensors feeding lots of data and generating a bunch of potential paths that the vehicle might follow and even though the robot doesn't have vehicle might follow and even though the robot doesn't have the ability to predict the future by using this fast random path generation the robot could anticipate a potential accident and choose a path to avoid it because it's always thinking about what things could the car do next self-navigating technologies are being optimized to create the vehicle of the future beyond let's go on your test track outside stockholm where we have basically it looks like in highway but it's a separate test track where we conduct our own experiments scania the swedish trucking company has recently begun testing its next and in order to control this you need to know where the other vehicles are where their position their velocity their actions in the near future and to be very close to the vehicle ahead of you requires that you have very accurate control if you look at robotics broadly"
+    },
+    {
+      "id": "n22",
+      "level": 2,
+      "start": 1598.0,
+      "end": 1702.0,
+      "parent": "n19",
+      "children": [],
+      "subtitle_text": "it is because they are reducing air drag sitting behind the man who is leading a truck traveling 55 miles per hour expends half its energy just to move the air around it at 65 miles per hour that number jumps to almost two-thirds air around it at 65 miles per hour that number jumps to almost two-thirds even if platooning can reduce the energy used by 10 percent the savings would be substantial if a vehicle in front of another vehicle wants to break it immediately sends out the brake message to the i take my feet off the acceleration pedal and turn the system on the velocity is automatically governed by getting information from the vehicle ahead through its wireless system we want these vehicles to maintain a short relative distance so through this system we can reduce the fuel consumption so through this system we can reduce the fuel consumption by utilizing the air drag reduction by 10 percent and 10 would mean he will be able to save approximately 8 000 euros per single heavy-duty vehicle per year [Music]"
+    },
+    {
+      "id": "n24",
+      "level": 2,
+      "start": 1702.0,
+      "end": 1772.0,
+      "parent": "n23",
+      "children": [],
+      "subtitle_text": "when we look toward the future the systems will absolutely make it safer and more efficient and less costly for you and also make your life easier because you're spending less time on the roads the city begins to talk begins to tell you where is their congestion what's going on in different areas of town suddenly the car becomes a part of a going on in different areas of town suddenly the car becomes a part of a much bigger ecosystem we can look at how cars interact with other cars how car interacts with infrastructure and us the drivers can start to make smart decisions about how to move around suddenly mobility becomes a whole other thing suddenly mobility becomes a whole other thing no matter how much money they have no matter how much oil they have everybody has to go in a different direction [Music] [Music] we've seen that changing the way we drive can improve transportation efficiencies but what if we change the way we build and live in our cities that's the subject of our next story searching for utopia we'll travel to the united arab emirates and discover a city rising out"
+    },
+    {
+      "id": "n25",
+      "level": 2,
+      "start": 1772.0,
+      "end": 1830.0,
+      "parent": "n23",
+      "children": [],
+      "subtitle_text": "utopia we'll travel to the united arab emirates and discover a city rising out of the desert let's take a look [Music] from the beginning we've dreamed of utopia a place where we could live in harmony with each other and in balance with a place where we could live in harmony with each other and in balance with nature many have imagined it tried to design it but the dream always slipped away [Music] but the dream always slipped away [Music] then i heard they were building a new city called mazdar near abu dhabi in the arabian desert it sounded like an unlikely place for it sounded like an unlikely place for utopia and i wanted to see it [Music] the last half century has been a pretty"
+    },
+    {
+      "id": "n26",
+      "level": 2,
+      "start": 1830.0,
+      "end": 1986.0,
+      "parent": "n23",
+      "children": [],
+      "subtitle_text": "the last half century has been a pretty bad time for the making of cities mostly the natural tendency has been to accommodate to the automobile more than anything else try walking around abu dhabi highway but they claim it's going to redefine the way cities are designed built and powered mazda city in abu dhabi will be the city of the future and the role model for the world once you see what they've envisioned for world once you see what they've envisioned for this utopian city it's very impressive it's carbon neutral pedestrian friendly and powered by renewable energies but i do notice we're going to have to change our relationship with cars welcome to monster city villages it's all about looking back into history to move forward there's some very very simple ideas that have a huge impact this is a pedestrian zone there's no cars here this and this has enabled us to push our streets together to take the advantage of the shade channel the cooling breezes through"
+    },
+    {
+      "id": "n27",
+      "level": 2,
+      "start": 1986.0,
+      "end": 2078.0,
+      "parent": "n23",
+      "children": [],
+      "subtitle_text": "glass as soon as the sun hits the glass the heat's transferred into the building and we have to use more energy to cool it down can this really make all that much of a difference yeah absolutely for example downtown abu dhabi 60 meter wide street black asphalt mirrored reflective buildings 60 meter wide street black asphalt mirrored reflective buildings no relief from the sun holiday in september the air temperature in both places was 39 degrees in abu dhabi the temperature actually lowered the air temperature we're trying to do as much as possible with as little as possible these simple design moves cut air conditioning needs by 60 percent but this place is also technically very sophisticated the roof panels not only provide shade sophisticated the roof panels not only provide shade they also generate electricity and the walls themselves are made of glass reinforced concrete literally sand taken from the desert everything here is geared towards maximizing energy efficiency"
+    },
+    {
+      "id": "n28",
+      "level": 2,
+      "start": 2078.0,
+      "end": 2178.0,
+      "parent": "n23",
+      "children": [],
+      "subtitle_text": "of direction no matter how much money they have no matter how much oil they have no matter anything else all of the cities here in this part of the world have come out of nowhere there was nothing here not so long ago except small settlements in the desert there was nothing here not so long ago except small settlements in the desert and then all of this oil and all this money and suddenly you know wham these cities started popping up but they sprung up in a false love of a western model that was already out of for most of the world energy is very expensive but the united arab emirates is sitting on 10 of the world's oil on 10 of the world's oil and energy is cheap sochi you can run a ski slope in a shopping mall and build the world's tallest skyscraper but even here cheap energy won't last"
+    },
+    {
+      "id": "n29",
+      "level": 2,
+      "start": 2178.0,
+      "end": 2250.0,
+      "parent": "n23",
+      "children": [],
+      "subtitle_text": "total is the world going to use in 2050 [Music] the scenarios team is a bunch of people with rich imagination i would say we have political scientists economists geopolitical experts really we try to simplify the complexity all around us geopolitical experts really we try to simplify the complexity all around us we in the scenarios team are currently putting a lot of attention into cities and city development [Music] a lot of mega cities are going to be built in the coming decades we're a lot of mega cities are going to be built in the coming decades we're talking about the equivalent of a new city of a million people every week that is an incredible demand most of the world's resources are consumed by the cities most of the world's resources are consumed by the cities what if we could offer a blueprint for a better city public transportation information energy we understand demand will rise we understand that current supplies will struggle to keep pace so we have to of course find ways of bridging the gap between the demand and"
+    },
+    {
+      "id": "n30",
+      "level": 2,
+      "start": 2250.0,
+      "end": 2342.0,
+      "parent": "n23",
+      "children": [],
+      "subtitle_text": "getting energy from renewable sources from geothermal and wind and most of all from a source they have in abundance in the desert the sun [Music] this field of solar panels makes more than enough electricity to run master this field of solar panels makes more than enough electricity to run master and the excess power is sent to the abu dhabi grid but silicon panels are expensive and the price of solar power needs to drop if it's going to be competitive from africa price of solar power needs to drop if it's going to be competitive from africa to asia to arizona in the future mazdar hopes to get energy from this prototype called the solar beam down mazdar hopes to get energy from this prototype called the solar beam down [Music] using highly reflective mirrors the solar beam down may generate power more cheaply and ecologically than silicon panels [Music]"
+    },
+    {
+      "id": "n32",
+      "level": 2,
+      "start": 2342.0,
+      "end": 2406.0,
+      "parent": "n31",
+      "children": [],
+      "subtitle_text": "panels [Music] the mirrors bounce the sun's rays up to the tower [Music] and then down to a point reaching a temperature of 600 degrees steam can be generated to run turbines reaching a temperature of 600 degrees steam can be generated to run turbines to make electricity [Music] there's just one problem neither of these solar technologies work at night so mazda needs to draw power from the grid when the sun goes down so mazda needs to draw power from the grid when the sun goes down and that power comes from natural gas the reality is it's just not yet possible to power mass star entirely without fossil fuels the great challenge with masdar will be how do you make it a place that will not be just this ideal city that no other place could actually aspire to because it doesn't seem real"
+    },
+    {
+      "id": "n33",
+      "level": 2,
+      "start": 2406.0,
+      "end": 2482.0,
+      "parent": "n31",
+      "children": [],
+      "subtitle_text": "could actually aspire to because it doesn't seem real [Music] what mazdar has to be is a laboratory that develops things that then can be applied in existing cities all around the world because that's where it will applied in existing cities all around the world because that's where it will pay off there's no payoff if it's just about itself the payoff is how can everything it's trying to do matter in the rest of the world [Music] [Music] right now there's only a store two restaurants a bank and a few hundred students living here it's too early to tell if masdar will work as a city when it's finished but much has been achieved they are carbon neutral and largely [Music] cities like los angeles or houston are built around cars can masdar's lessons be applied to them still it's a step in the right direction and it's impressive that this step is being taken by a country that doesn't need to take it"
+    },
+    {
+      "id": "n34",
+      "level": 2,
+      "start": 2482.0,
+      "end": 2542.0,
+      "parent": "n31",
+      "children": [],
+      "subtitle_text": "being taken by a country that doesn't need to take it i met a guy who said actually they did need to take it he took me to the desert to explain god says god talks about man's place in in the universe that this world is a trust and uh god offered this trust to the mountains to the heavens to uh to the land to god offered this trust to the mountains to the heavens to uh to the land to earth and all and all refused it refused to take this trust but man being you know adventurous a bit vain maybe too ambitious being banned accepted it now accepting it being banned accepted it now accepting it there is a responsibility taking responsibility isn't always easy"
+    },
+    {
+      "id": "n35",
+      "level": 2,
+      "start": 2542.0,
+      "end": 2622.52,
+      "parent": "n31",
+      "children": [],
+      "subtitle_text": "cities will be like in the future they may not look quite like mastar but they will be shaped by the same concerns by energy where it comes from and how it's used [Music] the way we've been building cities lately the way we've been building cities lately is unsustainable we can't go on building them that way but to say that we can't build cities the way we have been building them doesn't mean we can't build cities in the future doesn't mean we can't build cities in the future in fact we have to build cities cities are the essential statement of human civilization so we will continue to make them but we have to make them in a different way but we have to make them in a different way what we've seen is that the world of 2050 won't look drastically different from the world today but the challenges of a growing population and increased energy use demand real solutions"
+    }
+  ],
+  "boundary_diagnostics": {
+    "persistence_method": "superlevel_h0_path_graph",
+    "section_cut_seconds": [
+      66.0,
+      162.0,
+      290.0,
+      410.0,
+      488.0,
+      600.0,
+      668.0,
+      768.0,
+      822.0,
+      870.0,
+      946.0,
+      1012.0,
+      1152.0,
+      1242.0,
+      1300.0,
+      1474.0,
+      1598.0,
+      1702.0,
+      1772.0,
+      1830.0,
+      1986.0,
+      2078.0,
+      2178.0,
+      2250.0,
+      2342.0,
+      2406.0,
+      2482.0,
+      2542.0
+    ],
+    "chapter_cut_seconds": [
+      488.0,
+      870.0,
+      1300.0,
+      1702.0,
+      2342.0
+    ],
+    "persistent_peak_count": 77
+  }
+}

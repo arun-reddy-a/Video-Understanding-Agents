@@ -1,0 +1,505 @@
+{
+  "video_id": "700",
+  "duration_seconds": 3552.132,
+  "tree_mode": "multimodal",
+  "node_summary_source": "subtitles",
+  "nodes": [
+    {
+      "id": "n0",
+      "level": 0,
+      "start": 0.0,
+      "end": 3552.132,
+      "parent": null,
+      "children": [
+        "n1",
+        "n6",
+        "n11",
+        "n16",
+        "n23",
+        "n28",
+        "n34",
+        "n38"
+      ],
+      "subtitle_text": "[Music] [Music] [Music] Dorothy please oh all right [Music] [Music] [Music] [Music]"
+    },
+    {
+      "id": "n1",
+      "level": 1,
+      "start": 0.0,
+      "end": 518.0,
+      "parent": "n0",
+      "children": [
+        "n2",
+        "n3",
+        "n4",
+        "n5"
+      ],
+      "subtitle_text": "[Music] thank you [Music] [Music] [Music] [Music] [Music] [Music] [Music]"
+    },
+    {
+      "id": "n6",
+      "level": 1,
+      "start": 518.0,
+      "end": 848.0,
+      "parent": "n0",
+      "children": [
+        "n7",
+        "n8",
+        "n9",
+        "n10"
+      ],
+      "subtitle_text": "[Music] [Music] [Music] [Music] [Music]"
+    },
+    {
+      "id": "n11",
+      "level": 1,
+      "start": 848.0,
+      "end": 1398.0,
+      "parent": "n0",
+      "children": [
+        "n12",
+        "n13",
+        "n14",
+        "n15"
+      ],
+      "subtitle_text": "[Music] that thing is with you where did you come from why then you must know Dorothy well I'll be [Music] there was The Wizard of Ozzie's one because [Music] there's that cursed girl [Music] what again what's that what's that"
+    },
+    {
+      "id": "n16",
+      "level": 1,
+      "start": 1398.0,
+      "end": 1990.0,
+      "parent": "n0",
+      "children": [
+        "n17",
+        "n18",
+        "n19",
+        "n20",
+        "n21",
+        "n22"
+      ],
+      "subtitle_text": "[Music] good work guys now come on let's catch up to Dorothy someone always helps that girl but I'm still great enough to conquer her [Music] Dorothy who's Dorothy and who's Tom and Jerry the wizard will explain it to the wizard Dorothy we'd better see the wizard right away I think you're right Jerry please find Tom and follow us [Music] thank you can't run Tom you promised you protect Dorothy [Music]"
+    },
+    {
+      "id": "n23",
+      "level": 1,
+      "start": 1990.0,
+      "end": 2428.0,
+      "parent": "n0",
+      "children": [
+        "n24",
+        "n25",
+        "n26",
+        "n27"
+      ],
+      "subtitle_text": "[Music] got that oh I think we have a couple of escaped prisoners well how about that you're having a busy first day new guard I salute you you're having a busy first day new guard I salute you [Music] it's them oh dear seize them thank you I'm afraid this won't look good on your personal evaluation I'm afraid this won't look good on your personal evaluation [Music] you know I'm just a guard but I take my [Music] you know I'm just a guard but I take my responsibilities very seriously [Music]"
+    },
+    {
+      "id": "n28",
+      "level": 1,
+      "start": 2428.0,
+      "end": 2826.0,
+      "parent": "n0",
+      "children": [
+        "n29",
+        "n30",
+        "n31",
+        "n32",
+        "n33"
+      ],
+      "subtitle_text": "[Music] [Music] [Music] [Music] [Music]"
+    },
+    {
+      "id": "n34",
+      "level": 1,
+      "start": 2826.0,
+      "end": 3098.0,
+      "parent": "n0",
+      "children": [
+        "n35",
+        "n36",
+        "n37"
+      ],
+      "subtitle_text": "may we have it of course you can you'll freed us all from the wicked witch now I can go back to my old job as a haberdasher hail to Dorothy [Applause] hail to Dorothy [Applause] why have you come back of the wicked you promised Tin Man and the courage that you promised Cowardly Lion don't forget the most important thing he promised he'd get Dorothy back home to Kansas yeah my diminutive friend you force me into a cataclysmic decision the only way to get Dorothy back home to Kansas is for me to cataclysmic decision the only way to get Dorothy back home to Kansas is for me to take her there myself could you I will indeed but first I'll fulfill my promises to each of you toffee too he was going to ask you to make him big he is Tuffy too"
+    },
+    {
+      "id": "n38",
+      "level": 1,
+      "start": 3098.0,
+      "end": 3552.132,
+      "parent": "n0",
+      "children": [
+        "n39",
+        "n40",
+        "n41",
+        "n42",
+        "n43"
+      ],
+      "subtitle_text": "[Music] will you send me home can you send me home you don't need to be helped any longer you've always had the power to go back to Kansas I now those ruby slippers will take you home in two seconds Tom and Jerry and [Music] anyway it's all right because I'm home again and this is my room and I love you all and oh and EM there's no place like home [Music] why If I Had a Brain I could I could while away the hours conferring with the flowers consultant with the [Music] I'm afraid there's no denying I'm just a dandelion a fate I don't deserve I be pretty feasible is it I'd be gentle as a lizard I'd be clever as a gizzard if the wizard is a wizard"
+    },
+    {
+      "id": "n2",
+      "level": 2,
+      "start": 0.0,
+      "end": 142.0,
+      "parent": "n1",
+      "children": [],
+      "subtitle_text": "[Music] [Music] thank you [Music] thank you [Music] [Music] [Music]"
+    },
+    {
+      "id": "n3",
+      "level": 2,
+      "start": 142.0,
+      "end": 284.0,
+      "parent": "n1",
+      "children": [],
+      "subtitle_text": "thanks Jeff [Music] thanks Jeff [Music] thank you [Music] [Music] [Music] [Music] [Music]"
+    },
+    {
+      "id": "n4",
+      "level": 2,
+      "start": 284.0,
+      "end": 356.0,
+      "parent": "n1",
+      "children": [],
+      "subtitle_text": "Tom Jerry thanks ever so much [Music] what's all this jabber whopping when there's work to be done thank you boys I'm much obliged and am gold said she was gonna do the Toto not Dorothy dear you always get yourself into a fret over nothing now you just Dorothy dear you always get yourself into a fret over nothing now you just help us out today and find yourself a place where you won't get into any trouble yes ma'am come on Toto boys I know you two like to tussle but will you promise me something promise me you'll be friends and work will you promise me something promise me you'll be friends and work together to keep an eye on Dorothy please boys you're awfully good at looking after her she needs someone to protect her and Toto too promise me you'll do that [Music] [Music] thank you boys now you stay close to Dorothy I suppose there is such a place Toto there must be it isn't a place you can get to buy a"
+    },
+    {
+      "id": "n5",
+      "level": 2,
+      "start": 356.0,
+      "end": 518.0,
+      "parent": "n1",
+      "children": [],
+      "subtitle_text": "song Somewhere Over the Rainbow [Music] there's [Music] [Music] somewhere Over the Rainbow skies are blue [Music] [Music] Sunday I wish upon a star and wake up when the clouds are far away above the chimney tops that's where [Music] me Somewhere Over the Rainbow [Music]"
+    },
+    {
+      "id": "n7",
+      "level": 2,
+      "start": 518.0,
+      "end": 592.0,
+      "parent": "n6",
+      "children": [],
+      "subtitle_text": "[Music] put him in the basket Henry uncle put him in the basket Henry uncle [Music] laughs [Music] laughs [Music] [Music] [Music]"
+    },
+    {
+      "id": "n8",
+      "level": 2,
+      "start": 592.0,
+      "end": 698.0,
+      "parent": "n6",
+      "children": [],
+      "subtitle_text": "thank you [Music] why in the world I know you too you're that Tom and Jerry from the Gale Farm what I'll teach you to get in my way that Tom and Jerry from the Gale Farm what I'll teach you to get in my way [Music] really back off back off [Music] get you Tom and Jerry and that little [Music] thanks again come on"
+    },
+    {
+      "id": "n9",
+      "level": 2,
+      "start": 698.0,
+      "end": 774.0,
+      "parent": "n6",
+      "children": [],
+      "subtitle_text": "[Music] [Music] foreign [Music] [Music] [Music] [Music]"
+    },
+    {
+      "id": "n10",
+      "level": 2,
+      "start": 774.0,
+      "end": 848.0,
+      "parent": "n6",
+      "children": [],
+      "subtitle_text": "thank you [Music] foreign [Music] [Music] oh yeah watch it there's more where that came from"
+    },
+    {
+      "id": "n12",
+      "level": 2,
+      "start": 848.0,
+      "end": 954.0,
+      "parent": "n11",
+      "children": [],
+      "subtitle_text": "[Music] that thing is with you where did you come from why then you must know Dorothy well I'll be the house you and Dorothy came and landed on the Wicked Witch of the East and crushed her Dorothy had freed us from the Witch and then Glenda the Good Witch of the North gave Dorothy the ruby slippers but then the Wicked Witch of Witch of the North gave Dorothy the ruby slippers but then the Wicked Witch of the West showed up to take the magical ruby slippers and she'll do anything to get them so Linda sent arth into the great unfold The Wizard of Oz in the Emerald City so Linda sent arth into the great unfold The Wizard of Oz in the Emerald City where she's gonna ask the wizard to send her back home to Kansas so set off on the yellow brick road Follow the yellow brick road [Music] Follow the yellow brick road"
+    },
+    {
+      "id": "n13",
+      "level": 2,
+      "start": 954.0,
+      "end": 1088.0,
+      "parent": "n11",
+      "children": [],
+      "subtitle_text": "enough the heart we're off to see the wizard the wonderful Wizard of Oz we hear he is The Wizard of the wisdom ever a where's there was if evero ever a wish there was The Wizard of Oz is one because because because because because The Wizard of Oz is one because because because because because of the wonderful things he does we're off to see the wizard the wonderful Wizard of Oz [Music] [Music] there was The Wizard of Ozzie's one because there was The Wizard of Ozzie's one because because because because [Music] [Music] [Music]"
+    },
+    {
+      "id": "n14",
+      "level": 2,
+      "start": 1088.0,
+      "end": 1218.0,
+      "parent": "n11",
+      "children": [],
+      "subtitle_text": "least we helped how'd he goes something look at that chase sayonara [Music] thank you [Music] [Music] [Music] okay [Music] [Music] this doesn't look right what do you think we should do"
+    },
+    {
+      "id": "n15",
+      "level": 2,
+      "start": 1218.0,
+      "end": 1398.0,
+      "parent": "n11",
+      "children": [],
+      "subtitle_text": "[Music] there's that cursed girl [Music] I said quiet how I'll get that girl I'll turn these pretty dandelions into an avalanche [Music] what [Music] get that one [Music] [Music] what again what's that what's that"
+    },
+    {
+      "id": "n17",
+      "level": 2,
+      "start": 1398.0,
+      "end": 1522.0,
+      "parent": "n16",
+      "children": [],
+      "subtitle_text": "[Music] saved unusual weather will happen Tom and Jerry hey well you've both earned my wrath oh Tom Sherry how did you two get here the Twister brought him here with you name's Tuffy Miss darthy and I came along because I want the wizard to give me some height Anaconda I'm so small oh along because I want the wizard to give me some height Anaconda I'm so small oh I see well my new friends want to see the wizard too that's right I'm hoping the wizard will give me some break I want a hot and I need some courage and I'll Tom Jerry Toto and I want is to get want a hot and I need some courage and I'll Tom Jerry Toto and I want is to get back home to Kansas then what are we waiting for let's get to the Emerald City I'm afraid there's no denying I'm slow but I'm not crying it's gonna be all right I'd be tall as a giant"
+    },
+    {
+      "id": "n18",
+      "level": 2,
+      "start": 1522.0,
+      "end": 1612.0,
+      "parent": "n16",
+      "children": [],
+      "subtitle_text": "home some Heights [Music] look Emerald City is closer and prettier look Emerald City is closer and prettier than ever oh my God we're nearly there come on [Music] happy cabbie just what you're looking for take any place in this city we dance will you take us to see the wizard The for take any place in this city we dance will you take us to see the wizard The Wizard I can't well yes but first I'll have to take you to a little place where you can fly the alphabet what it's a long time"
+    },
+    {
+      "id": "n19",
+      "level": 2,
+      "start": 1612.0,
+      "end": 1688.0,
+      "parent": "n16",
+      "children": [],
+      "subtitle_text": "[Music] what's wrong [Music] what's wrong [Music] [Music] thank you [Music] [Music] [Music]"
+    },
+    {
+      "id": "n20",
+      "level": 2,
+      "start": 1688.0,
+      "end": 1746.0,
+      "parent": "n16",
+      "children": [],
+      "subtitle_text": "all right [Music] all right [Music] surrender Dorothy well at least she's forgotten about YouTube my mistake she's still pretty mad at you [Music] Dorothy who's Dorothy and who's Tom and Jerry the wizard will explain it to the wizard Dorothy we'd better see the wizard right away I think you're right Jerry please find Tom and follow us"
+    },
+    {
+      "id": "n21",
+      "level": 2,
+      "start": 1746.0,
+      "end": 1912.0,
+      "parent": "n16",
+      "children": [],
+      "subtitle_text": "[Music] [Music] thank you can't run Tom you promised you protect Dorothy can't run Tom you promised you protect Dorothy [Music] I am Oz the Great and Powerful who are you halt no one can see The Great Oz but we broomstick but to do that she'd have to kill the witch terrible you give that wizard a piece of your mind oh Tom's a lot braver than I thought [Music]"
+    },
+    {
+      "id": "n22",
+      "level": 2,
+      "start": 1912.0,
+      "end": 1990.0,
+      "parent": "n16",
+      "children": [],
+      "subtitle_text": "bring me that girl her dog and especially that cat and mouse now fly fly [Music] [Music] [Applause] well what's happened to you they took my [Applause] well what's happened to you they took my legs off and then threw them over there then they took my test out and threw it over there well that's you all over please sure knock the stuff thank you Dorothy and told time and Jerry and we got ta follow them thank you Dorothy and told time and Jerry and we got ta follow them [Music] [Music]"
+    },
+    {
+      "id": "n24",
+      "level": 2,
+      "start": 1990.0,
+      "end": 2120.0,
+      "parent": "n23",
+      "children": [],
+      "subtitle_text": "[Music] [Applause] all right [Music] all right [Music] [Music] [Music] thank you what a nice little dog and you my dear what an unexpected pleasure it's so kind for you to visit [Music] do you see that it's how long you got to live you just love my dear [Music] Wanna Play Ball Jerry"
+    },
+    {
+      "id": "n25",
+      "level": 2,
+      "start": 2120.0,
+      "end": 2250.0,
+      "parent": "n23",
+      "children": [],
+      "subtitle_text": "excellent work new guard any questions so far yeah what does that yo Hee Haw song mean I have absolutely no idea let's review what we learned today rule one winky guards must keep track of their hours and submit a time card at the end [Music] got that oh I think we have a couple of escaped prisoners well how about that you're having a busy first day new guard I salute you you're having a busy first day new guard I salute you [Music] it's them oh dear seize them thank you I'm afraid this won't look good on your personal evaluation [Music] you know I'm just a guard but I take my responsibilities very seriously [Music]"
+    },
+    {
+      "id": "n26",
+      "level": 2,
+      "start": 2250.0,
+      "end": 2318.0,
+      "parent": "n23",
+      "children": [],
+      "subtitle_text": "three it's not a glamorous job but a good guard always does the very best he can it's not a glamorous job but a good guard always does the very best he can [Music] if you come along quietly I'll try to if you come along quietly I'll try to get you an extra ration of glue arrest them old new guard I better not try any of your tricks won't work twice [Music] won't work twice [Music] are you sure you completed basic training [Music]"
+    },
+    {
+      "id": "n27",
+      "level": 2,
+      "start": 2318.0,
+      "end": 2428.0,
+      "parent": "n23",
+      "children": [],
+      "subtitle_text": "[Music] total will find Dorothy come on there's more [Music] [Music] you mean that water is the richest one weakness take that you and Todd find some more water I'll go with the others and try to save you and Todd find some more water I'll go with the others and try to save Dorothy good luck Fellers [Music] foreign [Music]"
+    },
+    {
+      "id": "n29",
+      "level": 2,
+      "start": 2428.0,
+      "end": 2486.0,
+      "parent": "n28",
+      "children": [],
+      "subtitle_text": "[Music] [Music] [Music] [Music] [Applause] thank you [Music] this way [Music] this way wait I have an idea birthday [Music] I already the witch will be back when they"
+    },
+    {
+      "id": "n30",
+      "level": 2,
+      "start": 2486.0,
+      "end": 2544.0,
+      "parent": "n28",
+      "children": [],
+      "subtitle_text": "back when they'll handle this stand back oh [Music] [Music] Dorothy we found you oh thank you oh [Music] Dorothy we found you oh thank you oh come on there's no time to lose [Music] thank you [Music] we're trapped don't you know [Music] I'll handle this"
+    },
+    {
+      "id": "n31",
+      "level": 2,
+      "start": 2544.0,
+      "end": 2652.0,
+      "parent": "n28",
+      "children": [],
+      "subtitle_text": "[Music] I'll handle this [Music] ah who dares disturb my cookie time that's right that's right what'd you get when you ly that water fast [Music] oh [Music] my God [Music] my God [Music] [Music] yes"
+    },
+    {
+      "id": "n32",
+      "level": 2,
+      "start": 2652.0,
+      "end": 2758.0,
+      "parent": "n28",
+      "children": [],
+      "subtitle_text": "[Music] [Applause] thank you [Music] there one [Music] that way [Music] [Music]"
+    },
+    {
+      "id": "n33",
+      "level": 2,
+      "start": 2758.0,
+      "end": 2826.0,
+      "parent": "n28",
+      "children": [],
+      "subtitle_text": "[Music] [Music] Ring Around the Rosie a pocket full of Spears thought you were pretty foxy didn't you [Music] [Music] the last ago we'll see the first four go before her [Music] how about our little fire scarecrow [Music] how about our little fire scarecrow [Music] stop"
+    },
+    {
+      "id": "n35",
+      "level": 2,
+      "start": 2826.0,
+      "end": 2892.0,
+      "parent": "n34",
+      "children": [],
+      "subtitle_text": "stop [Music] very quick [Music] very quick [Music] brat look what you've done I melt brat look what you've done I melt [Music] world who could have thought a good little girl like you would destroy my beautiful wickedness look out [Music] beautiful wickedness look out [Music] she's dead you killed her I didn't mean to kill her really I didn't it's just that he was on fire"
+    },
+    {
+      "id": "n36",
+      "level": 2,
+      "start": 2892.0,
+      "end": 2976.0,
+      "parent": "n34",
+      "children": [],
+      "subtitle_text": "may we have it of course you can you'll freed us all from the wicked witch now I can go back to my old job as a haberdasher hail to Dorothy [Applause] hail to Dorothy [Applause] why have you come back of the wicked thought go away and come back tomorrow what but I don't know do not arouse the Wrath of the Great and Powerful eyes I said come back tomorrow do you presume to criticize the great eyes you want grateful creatures the great eyes have spoken what they"
+    },
+    {
+      "id": "n37",
+      "level": 2,
+      "start": 2976.0,
+      "end": 3098.0,
+      "parent": "n34",
+      "children": [],
+      "subtitle_text": "the curtain The Great Oz has spoken who why well I am the Great and Powerful Wizard of Oz you humbug yeah I'm afraid you're right I am a humbug what about the heart that you promised Tin Man and the courage that you promised Cowardly Lion don't you promised Tin Man and the courage that you promised Cowardly Lion don't forget the most important thing he promised he'd get Dorothy back home to Kansas yeah my diminutive friend you force me into a cataclysmic decision the only way to get Dorothy back home to Kansas is for me to cataclysmic decision the only way to get Dorothy back home to Kansas is for me to take her there myself could you I will indeed but first I'll fulfill my promises to each of you toffee too he was going to ask you to make him big he is Tuffy too toffee too he was going to ask you to make him big he is Tuffy too [Music] oh my friends I your wizard I'm about to Embark upon a hazardous journey into the"
+    },
+    {
+      "id": "n39",
+      "level": 2,
+      "start": 3098.0,
+      "end": 3202.0,
+      "parent": "n38",
+      "children": [],
+      "subtitle_text": "works bounce [Applause] folks now I'll never get home to Kansas stay with us we don't want you to go stay with us we don't want you to go look here's someone who can help you [Music] [Music] will you send me home can you send me home you don't need to be helped any longer you've always had the power to go back to Kansas I now those ruby slippers will take you home in two seconds Tom and Jerry and now those ruby slippers will take you home in two seconds Tom and Jerry and Toto 2 Tom and Jerry and Toto two oh just tap your heels three times and think to yourself there's no place like home there's no place like home"
+    },
+    {
+      "id": "n40",
+      "level": 2,
+      "start": 3202.0,
+      "end": 3248.0,
+      "parent": "n38",
+      "children": [],
+      "subtitle_text": "foreign [Music] foreign [Music] you just had a bad dream sure you did you remember us don't you and you couldn't forget to roll pal tubby could you remember us don't you and you couldn't forget to roll pal tubby could you for me the local habitation well she's all right now thank heaven well but I wasn't all right and him doesn't anyone believe me"
+    },
+    {
+      "id": "n41",
+      "level": 2,
+      "start": 3248.0,
+      "end": 3324.0,
+      "parent": "n38",
+      "children": [],
+      "subtitle_text": "[Music] [Music] [Music] anyway it's all right because I'm home again and this is my room and I love you all and oh and EM there's no place like home thank you [Music]"
+    },
+    {
+      "id": "n42",
+      "level": 2,
+      "start": 3324.0,
+      "end": 3486.0,
+      "parent": "n38",
+      "children": [],
+      "subtitle_text": "I could while away the hours conferring with the flowers consultant with the rain and my head I'd be scratching while my thoughts were busy hatching If I Only Had a Brain I'd unravel every riddle for any individual in trouble or in pain a brain oh I could tell you why the oceans near the shore I could think of things I never thought before and then I'd sit and think some more I would not be just a nothing but head off full of stuff and my heart or form pain a nothing but head off full of stuff and my heart or form pain I would dance and the merry life would be a dinga Dairy If I Only Had a Brain just because I'm presuming that I could be kinda human If I Only Had a Heart I'd be tender I'd be gentle and our full set of metal regarding love and art I'd be friends with The Sparrows and the boy who shoots the arrows if I only had"
+    },
+    {
+      "id": "n43",
+      "level": 2,
+      "start": 3486.0,
+      "end": 3552.132,
+      "parent": "n38",
+      "children": [],
+      "subtitle_text": "yeah it's sad believe me Missy when you're born to be a without the Vivid five but I could show my prowess may your life not a mouse if I only have a knife [Music] I'm afraid there's no denying I'm just a [Music] I'm afraid there's no denying I'm just a dandelion a fate I don't deserve I be pretty feasible is it I'd be gentle as a lizard I'd be clever as a gizzard if the wizard is a wizard as a lizard I'd be clever as a gizzard if the wizard is a wizard then I'm sure to get a brain a heart a home the knife [Music] home the knife [Music]"
+    }
+  ],
+  "boundary_diagnostics": {
+    "persistence_method": "superlevel_h0_path_graph",
+    "section_cut_seconds": [
+      142.0,
+      284.0,
+      356.0,
+      518.0,
+      592.0,
+      698.0,
+      774.0,
+      848.0,
+      954.0,
+      1088.0,
+      1218.0,
+      1398.0,
+      1522.0,
+      1612.0,
+      1688.0,
+      1746.0,
+      1912.0,
+      1990.0,
+      2120.0,
+      2250.0,
+      2318.0,
+      2428.0,
+      2486.0,
+      2544.0,
+      2652.0,
+      2758.0,
+      2826.0,
+      2892.0,
+      2976.0,
+      3098.0,
+      3202.0,
+      3248.0,
+      3324.0,
+      3486.0
+    ],
+    "chapter_cut_seconds": [
+      518.0,
+      848.0,
+      1398.0,
+      1990.0,
+      2428.0,
+      2826.0,
+      3098.0
+    ],
+    "persistent_peak_count": 93
+  }
+}

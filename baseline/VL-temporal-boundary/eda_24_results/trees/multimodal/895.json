@@ -1,0 +1,382 @@
+{
+  "video_id": "895",
+  "duration_seconds": 2540.04,
+  "tree_mode": "multimodal",
+  "node_summary_source": "subtitles",
+  "nodes": [
+    {
+      "id": "n0",
+      "level": 0,
+      "start": 0.0,
+      "end": 2540.04,
+      "parent": null,
+      "children": [
+        "n1",
+        "n4",
+        "n12",
+        "n19",
+        "n23",
+        "n28"
+      ],
+      "subtitle_text": "en el cuatro no en el cin Sí también vemos la distinción entre ya que bueno estos reemplazos depende del año en el que estemos pues podremos hacer algunas cosas más potentes eh u otras comenzamos en el turno uno eso indica que robaremos seis Cartas al principio de de nuestra fase de de inicio en esta disposición inicial veis contado antes no este marcador que va a llevar la cuenta no de estas localizaciones objetivo que controlamos como ya tenemos Claro pues que es tener el control de una zona o que estén allí presencia y tal creo que podemos explicaros Cuáles son los los métodos de Victoria no las condiciones de Victoria que se llevarán a cabo se tendrán en cuenta al final eh de la fase de mantenimiento Pues hay esta en este tablero hemos traspasado No pues todasas unidades que teníamos en en esa localización eh Como os he dicho el primero que que habla no que decide realizar un ataque pues es el nacional Pues el nacional estaba aquí con su general y dice Pues venga eh vosotros la Vais a la Vais a y tiene pues todas estas todas estas hubiera tenido aquí un tanque de apoyo y este le le ha matado Pues el tanque también es eliminado Y si por lo que sea pues se produce eh un una elimi"
+    },
+    {
+      "id": "n1",
+      "level": 1,
+      "start": 0.0,
+      "end": 248.0,
+      "parent": "n0",
+      "children": [
+        "n2",
+        "n3"
+      ],
+      "subtitle_text": "con algún pequeño retoque algún añadido eh que os voy a enseñar a jugar a continuación un juego para dos jugadores venga a ver si os gusta Vamos allá con la explicación de este España 1936 que ya vemos aquí desplegado en todo su esplendor en el manual tenéis en las primeras páginas Cómo se despliega Cuál juego mientras es más que suficiente para disfrutarlo el aprender y echarnos unas cuantas partidas a este modo básico básico pero que tiene que tiene su intru como podéis ver el mapa de España está dividido en distintas localizaciones hay unas localizaciones que son objetivos eh que están veis con el nombre tiene el eh entre el turno uno y el turno dos Pues habrá esta esta fase de reemplazos en las que podremos pues mejorar O Añadir nuevas unidades al al mapa y hablando de unidades pues vamos a ver los distintos tipos de unidades que nos podemos encontrar por ejemplo las unidades nacionales veis hay unas más grandes grandes que se corresponden con nacionales que vienen con vienen con la falange vienen con carlistas ejército de Marruecos también les apoya y alguna otra más por ahí y por otro lado pues tenemos a los republicanos que vendrán con con el ejército Vasco vendrán con anarq"
+    },
+    {
+      "id": "n4",
+      "level": 1,
+      "start": 248.0,
+      "end": 892.0,
+      "parent": "n0",
+      "children": [
+        "n5",
+        "n6",
+        "n7",
+        "n8",
+        "n9",
+        "n10",
+        "n11"
+      ],
+      "subtitle_text": "en el cuatro no en el cin Sí también vemos la distinción entre ya que bueno estos reemplazos depende del año en el que estemos pues podremos hacer algunas cosas más potentes eh u otras comenzamos en el turno uno eso indica que robaremos seis Cartas al principio de de nuestra fase de de inicio en esta disposición inicial veis formas de Victoria no sé qué es mejor os lo voy a contar ahora eh os cuento Ahora las las formas de de ganar Cómo se gana este juego Obviamente el el el tener el control de una zona pues depende de que tengas un marcador de control o que tengas unidades Pues ahora mismo el ejército eh republicano pues controla Valencia controla albacete Madrid está en disputa Toledo contado antes no este marcador que va a llevar la cuenta no de estas localizaciones objetivo que controlamos como ya tenemos Claro pues que es tener el control de una zona o que estén allí presencia y tal creo que podemos explicaros Cuáles son los los métodos de Victoria no las condiciones de Victoria que se llevarán a cabo se tendrán en cuenta al final eh de la fase de mantenimiento Pues hay unidad pues la desplazo hasta aquí luego no podré toda este unidad y volverla a mover hasta aquí o hasta aqu"
+    },
+    {
+      "id": "n12",
+      "level": 1,
+      "start": 892.0,
+      "end": 1462.0,
+      "parent": "n0",
+      "children": [
+        "n13",
+        "n14",
+        "n15",
+        "n16",
+        "n17",
+        "n18"
+      ],
+      "subtitle_text": "cuando se podrán mover al inicio estas estas unidades y como máximo se van a poder mover tres fichas contando los generales como máximo se podrán mover tres fichas una podrá ir a Sevilla y dos podrán ir a Cádiz siempre que estén bajo el control o tengan unidades eh si aquí no no hubieran unidades de su bando pues unas cuantas cuentas con ellos bueno vamos a ver las distintas partes del combate primero va a ser el nacional el que el que comience eh diciendo que gener ataca en este caso Bueno pues solamente tendría que Valera pero tendría que haber puesto a ese general Pues en algún otro sitio pues para realzar un un combate eh vamos a simular eh cogerías aquí nuestro tablero y se colocarían pues las unidades militares que están en disputa y el General aquí y esta pues la ponemos aquí para señalizar bueno que Guadalajara es de donde viene d viene todo esto a ver vamos a poner aquí en esta en este tablero hemos traspasado No pues todasas unidades que teníamos en en esa localización eh Como os he dicho el primero que que habla no que decide realizar un ataque pues es el nacional Pues el nacional estaba aquí con su general y dice Pues venga eh vosotros la Vais a la Vais a y tiene pues t"
+    },
+    {
+      "id": "n19",
+      "level": 1,
+      "start": 1462.0,
+      "end": 1724.0,
+      "parent": "n0",
+      "children": [
+        "n20",
+        "n21",
+        "n22"
+      ],
+      "subtitle_text": "en cuenta pues lo que lo que di las cartas este ha dicho que la hace como apoyo y este ha dicho que la va a hacer como como defensa una vez que ya tenemos claros los apoyos que vamos a tener en en el combate pues Tendremos que hacer un combate aéreo si hay aviones eh tenemos aviones de dos bandos los combates os se producen uno a uno eh lo tenemos aviones de dos bandos los combates os se producen uno a uno eh lo voy a poner aquí abajo para que lo veamos más claro primero habrá que habrá que que emparejar los aviones y el defensor es el que elige los emparejamientos en este caso pues pues este el de dos que va a lanzar dos dados espacio de aviones de tablero de de combates en este caso pues si nos hubiera pasado esto Pues nada pues este se quedaría fuera no ya no podría apoyar el otro lo ha destruido con un seis y este como no está emparejado pues pues rinde le da su apoyo no al al combate y ahora ya podríamos hacer la tirada de dados el número de dados que vas a ahora ya podríamos hacer la tirada de dados el número de dados que vas a lanzar va a ser igual al valor de combate de la unidad que está atacando más lo que te den los aviones más eh la carta de apoyo si si has usado no y m"
+    },
+    {
+      "id": "n23",
+      "level": 1,
+      "start": 1724.0,
+      "end": 2122.0,
+      "parent": "n0",
+      "children": [
+        "n24",
+        "n25",
+        "n26",
+        "n27"
+      ],
+      "subtitle_text": "tres Así que es un tres y un uno pues malamente le ha salido bastante mal la tirada con un cinco o con un seis son impactos el republicano no le ha hecho ningún impacto y el nacional le ha hecho dos dos impactos cada uno de estos impactos hace que la ficha se voltee en este caso se voltearía dos veces como pues por por milicianos para los republicanos o por falangistas o o carlistas para los nacionales si una un es eliminada y había un tanque apoyándole ese tanque es eliminado también o sea si esto hubiera estado así hubiera tenido aquí un tanque de apoyo y este le le ha matado Pues el tanque hubiera tenido aquí un tanque de apoyo y este le le ha matado Pues el tanque también es eliminado Y si por lo que sea pues se produce eh un una eliminación doble eh se eliminan las dos las dos unidades y y ya no hubieran más combates eh pudiéramos seguir no se eliminaran todas unidades el control de la pues vuelven a a Guadalajara pues vuelven allí este con los tanques y este que todavía está vivo el otro no Pobre pues todo volvería a su a su sitio y ahora habría terminado pues ese ese turno de ataque del nacional ahora le tocaría republican no que podría iniciar un ataque Si quiere en el mism"
+    },
+    {
+      "id": "n28",
+      "level": 1,
+      "start": 2122.0,
+      "end": 2540.04,
+      "parent": "n0",
+      "children": [
+        "n29",
+        "n30",
+        "n31",
+        "n32"
+      ],
+      "subtitle_text": "unidades nuevas o a mejorar unidades que están en el tablero Cuántos puntos de reemplazo tiene cada jugador pues depende de las localizaciones objetivo que controle si esto estuviese así pues el nacional tendría cuatro y 3 s y el republicano tiene cco y 3 o de los dos jugadores el que tenga menos puntos Esto también de reemplazo para mejorar una de tres al cinco dar la vuelta o para cambiar una ficha de valor dos por una ficha de valor tres las unidades que metes pues también tienes una pequeña restricción eh los republicanos solo podrán meter Pues los regulares y los vascos o las milicias comunistas y los anarquistas Pero cuidado los vascos solamente pueden aparecer en Bilbao en os sirve como como un Punto de partida eh Para poder tener unas ideas claras Y poder entender de qué va el juego cómo funciona este este estupendo juego para dos jugadores que yo tenía muchas ganas Y pues mira he sabido esperarme Digo vamos a esperar que deb ya sabíamos hace tiempo que iba a lanzar esta nueva edición una edición con unas calidades no y alguna pequeña excepción alguna pequeña regla que hay también para poder eh empezar la partida ya avanzada la guerra o para poder actuar con los tanques o c"
+    },
+    {
+      "id": "n2",
+      "level": 2,
+      "start": 0.0,
+      "end": 98.0,
+      "parent": "n1",
+      "children": [],
+      "subtitle_text": "con algún pequeño retoque algún añadido eh que os voy a enseñar a jugar a continuación un juego para dos jugadores venga a ver si os gusta Vamos allá con la explicación de este España 1936 que ya vemos aquí desplegado en todo su esplendor en el manual tenéis en las primeras páginas Cómo se despliega Cuál esplendor en el manual tenéis en las primeras páginas Cómo se despliega Cuál es la configuración inicial de ambos bandos en este en este mapa de mapa de España eh que lo veis completamente preparado y listo para para jugar os voy a enseñar el modo básico vale tenemos unas reglas avanzad hay unas reglas a enseñar el modo básico vale tenemos unas reglas avanzad hay unas reglas avanzadas en las que se utiliza una expansión que viene incluida en el juego la expansión de la armada lo tengo aquí aparte tengo aquí aparte una bolsita con todos los componentes cartas y contadores y barcos eh para la expansión la armada Pero esto Bueno pues tendréis que recurrir al manual leeros lo allí o juego mientras es más que suficiente para disfrutarlo el aprender y echarnos unas cuantas partidas a este modo básico básico pero que tiene que tiene su intru como podéis ver el mapa de España está dividido"
+    },
+    {
+      "id": "n3",
+      "level": 2,
+      "start": 98.0,
+      "end": 248.0,
+      "parent": "n1",
+      "children": [],
+      "subtitle_text": "partida y su defensa pues va a ser primordial aquí tenemos este contador de localizaciones objetivos Aquí vamos a llevar el control de las localizaciones que controla cada uno de los dos bandos las que controlan los nacionales las que controlan los republicanos y las que están en disputa siempre van a sumar 12 eh entre el turno uno y el turno dos Pues habrá esta esta fase de reemplazos en las que podremos pues mejorar O Añadir nuevas unidades al al mapa y hablando de unidades pues vamos a ver los distintos tipos de unidades que nos podemos encontrar por ejemplo las unidades nacionales veis hay unas más grandes grandes que se corresponden con Pues un tres pasará a ser un dos y un dos un un y un un Pues será elimin de la partida distintas facciones componen cada uno de los de los bandos Pues aquí tenemos a los eh aquí tenemos a los nacionales que vienen con vienen con la falange vienen con carlistas ejército de nacionales que vienen con vienen con la falange vienen con carlistas ejército de Marruecos también les apoya y alguna otra más por ahí y por otro lado pues tenemos a los republicanos que vendrán con con el ejército Vasco vendrán con anarquistas bueno y algunas y algunas otras"
+    },
+    {
+      "id": "n5",
+      "level": 2,
+      "start": 248.0,
+      "end": 300.0,
+      "parent": "n4",
+      "children": [],
+      "subtitle_text": "También tenemos tanques y aviones estas unidades Bueno pues servirán eh principalmente de de apoyo algunas como los aviones pues tendrán su propio momento de de ataque no cuando se produzcan los combates pues primero se producirán estos estos combates aéreos eh con este número el número grande igual que en las unidades que no lo he eh con este número el número grande igual que en las unidades que no lo he dicho pero bueno el numerito que aparece aquí es grande ese número simboliza pues la fuerza de ataque los dados que van a a lanzar Pues los aviones añadirán dados a pues al lanzamiento y también tendrán pues distintos modificadores eh todos los números que son grandes pues son son pues distintos modificadores eh todos los números que son grandes pues son son dados y los números que vienen en circulito veis pues son modificadores en este caso como hay un avión Pues será modificadores al combate aéreo o este pues modificadores al combate terrestre por ejemplo este +2 simboliza que añadirá dos puntos a un dado objetivo Al"
+    },
+    {
+      "id": "n6",
+      "level": 2,
+      "start": 300.0,
+      "end": 350.0,
+      "parent": "n4",
+      "children": [],
+      "subtitle_text": "por ejemplo este +2 simboliza que añadirá dos puntos a un dado objetivo Al igual sucede con las cartas en las cartas esta parte de abajo tenemos unos modificadores de apoyo y de defensa cuando podamos usar estas cartas luego lo veremos Pues nos podrán dar o más dados Añadir más dados a la tirada como lo veremos Pues nos podrán dar o más dados Añadir más dados a la tirada como apoyo añadiendo dos dados a tu tirada o como defensa restando dos dados a la tirada del adversario o modificadores a el resultado de los dados + do significa este más 2 veis dentro de ese círculo el resultado de los dados + do significa este más 2 veis dentro de ese círculo pues simboliza que añadirá un + do a un dado en concreto el que tú quieras y este -2 pues igual será un menos do a un a un a un dado o sea este añade dados y este añade puntos a a un dado y las cartas están divididas en dos en dos"
+    },
+    {
+      "id": "n7",
+      "level": 2,
+      "start": 350.0,
+      "end": 470.0,
+      "parent": "n4",
+      "children": [],
+      "subtitle_text": "utilizar la carta en la fase de combate pues para Añadir estos Mod indicadores que os he contado cada jugador tendrá dos mazos de cartas eh tendrá un Mazo de cartas que será del 36 al 37 y otro Mazo aparte que irá del 38 al 39 comenzaremos con el 36 37 según pasen los turnos del 36 al 37 y comenzaremos con el mazo del año 38 hasta el 39 aquí en el contador de turnos pues podremos ver los 10 turnos en los que podrá expandirse la la partida no y en cada uno de ellos veremos el número de cartas que robaremos al inicio de la ronda en el turno uno y en el turno seis robaremos seis cartas en el resto de turnos turno uno y en el turno seis robaremos seis cartas en el resto de turnos robaremos tres también vemos como habrá una fase de de reemplazos esta banderita Pues cuando terminemos el turno uno Pues habrá una fase reemplazos en el turno 2s no habrá reemplazo después en el tres Sí en el cuatro no en el cin Sí también vemos la distinción entre en el cuatro no en el cin Sí también vemos la distinción entre ya que bueno estos reemplazos depende del año en el que estemos pues podremos hacer algunas cosas más potentes eh u otras comenzamos en el turno uno eso indica que robaremos seis Cartas"
+    },
+    {
+      "id": "n8",
+      "level": 2,
+      "start": 470.0,
+      "end": 524.0,
+      "parent": "n4",
+      "children": [],
+      "subtitle_text": "poder llevar el control de los puntos de reemplazo V cuando lleguemos a esa fase de reemplazos tendremos a nuestros generales y tendremos aquí a nuestros aviones eh que podremos irlos utilizando pues dependiendo algunos generales Pues entrarán gracias a a cartas verdad o los aviones podemos irl colocando Pues bueno entrarán gracias a a cartas verdad o los aviones podemos irl colocando Pues bueno libremente nuestra fase de movimiento y luego pues volverán si vuelven volverán a esta a la base no Además Tenemos aquí una secuencia de juego perfectamente resumida vale un esquema con las distintas fases que tiene el juego ves resumida vale un esquema con las distintas fases que tiene el juego ves que hay algunas algunos párrafos que están en azul esos párrafos en azul se aplicarán únicamente cuando juguemos con la armada hemos visto la generales que en el tabo ya hay algún general veis aquí el general rojo está en en Ciudad real o el general Mola en Guadalajara estos generales nos van a ayudar a real o el general Mola en Guadalajara estos generales nos van a ayudar a comenzar combates y van a aplicar pues estos modificadores eh al al combate También tenemos esta zona de combate este tabl"
+    },
+    {
+      "id": "n9",
+      "level": 2,
+      "start": 524.0,
+      "end": 624.0,
+      "parent": "n4",
+      "children": [],
+      "subtitle_text": "localización pues vienen las unidades participantes en en ese Combat eh básicamente es un juego de de control de zonas Tendremos que luchar por controlar el mayor número de zonas posibles principalmente estas zonas objetivo Ya que ellas son una de las fuentes principales de de Victoria no el que ellas son una de las fuentes principales de de Victoria no el controlar cuantas más zonas mejor no sé si es mejor dejarlo para el final cuando ya sepamos jugar eh como nos cuentan el manual o explicaros ya las distintas eh formas de Victoria no sé qué es mejor os lo voy a contar ahora eh os cuento Ahora formas de Victoria no sé qué es mejor os lo voy a contar ahora eh os cuento Ahora las las formas de de ganar Cómo se gana este juego Obviamente el el el tener el control de una zona pues depende de que tengas un marcador de control o que tengas unidades Pues ahora mismo el ejército eh republicano pues controla Valencia controla albacete Madrid está en disputa Toledo contado antes no este marcador que va a llevar la cuenta no de estas localizaciones objetivo que controlamos como ya tenemos Claro pues que es tener el control de una zona o que estén allí presencia y tal creo que podemos explica"
+    },
+    {
+      "id": "n10",
+      "level": 2,
+      "start": 624.0,
+      "end": 772.0,
+      "parent": "n4",
+      "children": [],
+      "subtitle_text": "el control de ocho zonas objetivo ganis automáticamente pero también hay una forma de perder automáticamente Y es que si no tienes unidades o fichas de control unidades o fichas de control en al menos ocho de estos cajetines de estas localizaciones que estén interconectadas pierdes automáticamente o seaa aquí por ejemplo Pues mira ves victoria automática que igual al final del turno Pues haí hay tres tres opciones Si antes de que finalice el turno tres Si antes de que finalice el turno 3es los nacionales o sea los azules controlan Madrid tien el control la mismo Madrid está en disputa si controlan Madrid antes de que acabe el la mismo Madrid está en disputa si controlan Madrid antes de que acabe el turno 3 ganan automáticamente han ganado durante toda la partida también tendrás una victoria automática si controlas Madrid Barcelona y Sevilla si controlas las tres has ganado automáticamente y por último si tras el turno 10 los además en ocho cajetines que estén interconectados pues entonces ganan ganan automáticamente los republicanos si no consigue nadie esa Victoria automática pues Tendremos que irnos al final del turno 10 y hacer un recuento de los puntos de reemplazo y el que más"
+    },
+    {
+      "id": "n11",
+      "level": 2,
+      "start": 772.0,
+      "end": 892.0,
+      "parent": "n4",
+      "children": [],
+      "subtitle_text": "Victoria que muchas veces está bien tenerlas ahí en mente luego al final Si eso me reitero o no Ya veremos vamos con la secuencia del juego Comenzando por la primera fase que es la fase de robo cada jugador robará eh seis cartas si estamos en la fase uno o en la fase seis y el resto de fases robará tres cartas al en la mano y robaremos seis cartas nuevas del Mazo del 30 38 y el 39 después pasamos a la fase de movimiento en la fase de movimiento primero va a ser el bando nacional Los Azules los eh que pueden hacer todos sus movimientos vamos a ver cuáles son las distintas modalidades o cómo se pueden ir moviendo las distintas unidades no distintas modalidades o cómo se pueden ir moviendo las distintas unidades no dependiendo de que sean pues eh unidades militares o sean tanques o sean aviones como suele ser habitual pues las unidades solamente se podrán mover una vez cada turno es decir eh si yo esta unidad pues la desplazo hasta aquí luego no podré toda este unidad y unidad pues la desplazo hasta aquí luego no podré toda este unidad y volverla a mover hasta aquí o hasta aquí No vale Solamente se puede mover una vez por turno si yo esta la muevo aquí esa ya no la podré mover porque"
+    },
+    {
+      "id": "n13",
+      "level": 2,
+      "start": 892.0,
+      "end": 998.0,
+      "parent": "n12",
+      "children": [],
+      "subtitle_text": "una localización que es del enemigo o que está en disputa pues ahí tendrás que detener tu movimiento estas unidades por ejemplo pues desde Pamplona pues podrían intentar ir moviéndose por sitios vacíos pero si entran aquí en badajo ahí se tienen que detener porque ha unidad enemiga eh o lo mismo si está plones quieren entrar aquí pues aquí hay una estáis en una zona de de disputa solamente podrán moverse a una zona adyacente que tenga unidades propias o que sea de su control es decir esta ficha de Madrid Pues solamente podrían moverse a Guadalajara o a Segovia o a Salamanca o a Toledo no podrían hacer un movimiento libre ese para allá eh Como si aquí no estuviese en disputa si está movimiento libre ese para allá eh Como si aquí no estuviese en disputa si está en disputa solamente se podrá mover a una localización adyacente y además siempre tendrá que dejar al menos una unidad en en la zona en la que estaba en disputa o sea yo podría venirme aquí apoyar aquí a Toledo pero tendría que dejar como mínimo una unidad en en la apoyar aquí a Toledo pero tendría que dejar como mínimo una unidad en en la zona de donde salgo y siempre lo que he dicho siempre moviéndose únicamente al estar en"
+    },
+    {
+      "id": "n14",
+      "level": 2,
+      "start": 998.0,
+      "end": 1074.0,
+      "parent": "n12",
+      "children": [],
+      "subtitle_text": "tanquecitos veis que son así como recortados los tanques solo se van a poder mover por cajetines controlados y solo podrán pasar o acabar su movimiento en cajetines que tengan unidades o fichas de control propias o sea ese tanque está aquí Pues podría moverse fichas de control propias o sea ese tanque está aquí Pues podría moverse Pues por esta zona por esta zona son localizaciones que están controladas por ti pero este tanque por sí mismo no podría entrar aquí en en badjo ya que solo pueden pasar o acabar movimiento en cajetines con solo pueden pasar o acabar movimiento en cajetines con unidades o fichas de control propias y este pues ni tiene ficha de control propia ni tiene una unidad propia por lo tanto Pues aquí no podría acabar el movimiento de este tanque y a diferencia de las unidades militares eh un tanque cuando está Cuando se quiere mover de de las unidades militares eh un tanque cuando está Cuando se quiere mover de una localización que está en disputa no tiene la restricción de de tener que moverse únicamente a una localización adyacente e podrán irse más allá pero siempre respetando la norma anterior solo podrán moverse Pues por estas localizaciones que estén bajo tu"
+    },
+    {
+      "id": "n15",
+      "level": 2,
+      "start": 1074.0,
+      "end": 1162.0,
+      "parent": "n12",
+      "children": [],
+      "subtitle_text": "moverse Pues mira se va a mover aquí viene la Aviación allí a dar apoyo así de sencillo y después por último tenemos una pequeña excepción que aquí veis que tenemos a a Marruecos Aquí está Marruecos aquí tenemos a unas unidades de legionarios y unas unidades de Maris y aquí ha dos generales Bueno pues estas de legionarios y unas unidades de Maris y aquí ha dos generales Bueno pues estas unidades de Marruecos solo se van a mover al principio de la fase de eventos se una fase posterior eh ahora Estamos en la fase de movimiento Pues aquí ahora no se moverán en la fase de eventos es cuando se podrán mover al inicio estas estas unidades y como máximo se van a cuando se podrán mover al inicio estas estas unidades y como máximo se van a poder mover tres fichas contando los generales como máximo se podrán mover tres fichas una podrá ir a Sevilla y dos podrán ir a Cádiz siempre que estén bajo el control o tengan unidades eh si aquí no no hubieran unidades de su bando pues el control o tengan unidades eh si aquí no no hubieran unidades de su bando pues no podrían ir allí vamos con la tercera fase la tercera fase es asignar generales que se van a poder asignar desde el tablero principal aquí"
+    },
+    {
+      "id": "n16",
+      "level": 2,
+      "start": 1162.0,
+      "end": 1342.0,
+      "parent": "n12",
+      "children": [],
+      "subtitle_text": "que sean capaces de iniciar combates en ación donde no hay un general allí no podrá eh realizarse un combate para que haya un combate tiene que haber un un general como excepción aquí en esta primera eh ronda No como ya tenemos algunos generales asignados esos generales se podrán asignar a la localización en la que están o podremos cada bando Bueno una vez que hayamos asignado los generales pasamos a la fase cuarta que es la resolución de combates obviamente donde tú asignes generales es porque allí tienes la intención de de combatir no y aquí es donde viene pues lo grueso del juego el Cómo resolver esos esos combats ates como ya os he dicho antes Aunque lo vamos a recordar esos esos combats ates como ya os he dicho antes Aunque lo vamos a recordar aquí otra vez veis que algunos modificadores están en negativo veis el número pequeñito el número grande uno significa que esta unidad va a lanzar un dado y el número pequeñito ese menos un en este caso rojo pues ese men1 eh ese modificador negativo se aplicará al dado Únicamente se aplicarán a los combates aéreos los modificadores si avión sobrevive y tiene pues ese dos grande veis ese dos es que añadirá dos dados al combate pero el mod"
+    },
+    {
+      "id": "n17",
+      "level": 2,
+      "start": 1342.0,
+      "end": 1408.0,
+      "parent": "n12",
+      "children": [],
+      "subtitle_text": "Pues en algún otro sitio pues para realzar un un combate eh vamos a simular que tenemos aquí un combate en en Guadalajara vamos a hacerlo eh cogerías aquí nuestro tablero y se colocarían pues las eh cogerías aquí nuestro tablero y se colocarían pues las unidades militares que están en disputa y el General aquí y esta pues la ponemos aquí para señalizar bueno que Guadalajara es de donde viene d viene todo esto a ver vamos a poner aquí en Guadalajara es de donde viene d viene todo esto a ver vamos a poner aquí en medio y os lo y os lo explico porque aquí en el tablero se ve Se ve muy claro vamos a Añadir alguna cosita más eh para que podamos ver pues el ejemplo con más con más cosas vale vamos a ver aquí en esta en este tablero hemos traspasado No pues todasas unidades que teníamos en en esta en este tablero hemos traspasado No pues todasas unidades que teníamos en en esa localización eh Como os he dicho el primero que que habla no que decide realizar un ataque pues es el nacional Pues el nacional estaba aquí con su general y dice Pues venga eh vosotros la Vais a la Vais a y tiene pues todas estas todas estas"
+    },
+    {
+      "id": "n18",
+      "level": 2,
+      "start": 1408.0,
+      "end": 1462.0,
+      "parent": "n12",
+      "children": [],
+      "subtitle_text": "Vais a la Vais a y tiene pues todas estas todas estas unidades primero tiene que elegir Qué unidad va a atacar y Qué unidad va a defender y lo decide él lo decide el que está realizando el ataque obviamente solamente tiene unidad pues decide Que obviamente va ataca a él ataca la que esté pero sí que puede elegir entre qué obviamente va ataca a él ataca la que esté pero sí que puede elegir entre qué unidades de las cuatro como máximo que tenga pues va a ser contra la que combata en este caso son iguales así que bueno pues nos da igual una que otra pues ya tenemos Cuáles son las unidades en combate ahora Tendremos que decidir eh los apoyos que va a tener ese combate en combate ahora Tendremos que decidir eh los apoyos que va a tener ese combate y las cartas Si queremos usar alguna carta para apoyar ese enfrentamiento la unidad que está combatiendo tanto la atacante como la defensora eh pueden ser apoyadas por generales por tanques y por"
+    },
+    {
+      "id": "n20",
+      "level": 2,
+      "start": 1462.0,
+      "end": 1548.0,
+      "parent": "n19",
+      "children": [],
+      "subtitle_text": "atacante como la defensora eh pueden ser apoyadas por generales por tanques y por aviones en este caso el general El general que que organiza este ataque está obligado en este primer combate a a apoyar si el El defensor hubiera tenido también ahí un general vale Este general no es el que está también ahí un general vale Este general no es el que está atacando hemos dicho que está atacando el El Nacional este general si quiere puede puede servir de apoyo si este general hubiera tenido aquí más eh el general atacante hubiera tenido más unidades y decidiera después seguir combatiendo ya que podrá resolver los unidades y decidiera después seguir combatiendo ya que podrá resolver los hasta cuatro combates porque puede tener hasta cuatro unidades distintas pues este general ya ya ha apoyado vale Así que no podría volver a apoyar pero no está desactivado no no se Desactiva sino que cuando le al turno después al jugador eh republicano él puede atacar que cuando le al turno después al jugador eh republicano él puede atacar con ese general El caso es que decidimos los apoyos cada uno decide Quién va a apoyar a ese combate por ejemplo Bueno pues va a decidir este decide que manda el avión y t"
+    },
+    {
+      "id": "n21",
+      "level": 2,
+      "start": 1548.0,
+      "end": 1628.0,
+      "parent": "n19",
+      "children": [],
+      "subtitle_text": "en cuenta pues lo que lo que di las cartas este ha dicho que la hace como apoyo y este ha dicho que la va a hacer como como defensa una vez que ya tenemos claros los apoyos que vamos a tener en en el combate pues Tendremos que hacer un combate aéreo si hay aviones eh tenemos aviones de dos bandos los combates os se producen uno a uno eh lo tenemos aviones de dos bandos los combates os se producen uno a uno eh lo voy a poner aquí abajo para que lo veamos más claro primero habrá que habrá que que emparejar los aviones y el defensor es el que elige los emparejamientos en este caso pues pues este el de dos que va a lanzar dos dados emparejamientos en este caso pues pues este el de dos que va a lanzar dos dados pues se va a enfrentar al al sm 79 que solamente tir tirará un dado los aviones que quedan desemparejar ahí pues servirá de apoyo al combate terrestre y ahora lanzarán los dados Pues el azul lanzará un dado y el republicano lanzará dos cuatro y un seis y ojo que tiene un más un tiene un más un es decir que sumirá un punto a a un dado o sea pod ser un cuat Pues sería un cco Cómo funciona la resolución de estos de este combate si consigues un seis o más un se Claro si yo est tamb h"
+    },
+    {
+      "id": "n22",
+      "level": 2,
+      "start": 1628.0,
+      "end": 1724.0,
+      "parent": "n19",
+      "children": [],
+      "subtitle_text": "batido y sería eliminado de la partida si saca un cinco vamos a decir que el otro saca un cinco vale el enemigo no podrá apoyar al combate terreste en este caso si hubiera sacado un cco pues no lo destruye pero lo voltea lo voltea lo que simboliza que no va a poder realizar pero lo voltea lo voltea lo que simboliza que no va a poder realizar apoyo pues en ese en ese combate si saca cualquier otro número pues el enemigo si podrá podrá apoyar con los dados que tenga y después se colocará en el el espacio de aviones de tablero de de combates en este caso pues si nos espacio de aviones de tablero de de combates en este caso pues si nos hubiera pasado esto Pues nada pues este se quedaría fuera no ya no podría apoyar el otro lo ha destruido con un seis y este como no está emparejado pues pues rinde le da su apoyo no al al combate y ahora ya podríamos hacer la tirada de dados el número de dados que vas a ahora ya podríamos hacer la tirada de dados el número de dados que vas a lanzar va a ser igual al valor de combate de la unidad que está atacando más lo que te den los aviones más eh la carta de apoyo si si has usado no y menos que quitarás pues la carta de defensa que te ha eso contrario"
+    },
+    {
+      "id": "n24",
+      "level": 2,
+      "start": 1724.0,
+      "end": 1850.0,
+      "parent": "n23",
+      "children": [],
+      "subtitle_text": "iba a apoyar y luego él lo usaba como defens queda -2 a un dado del contrario Así que este tiene + 2 + 1 + 2 y luego un -2 hace su tirada Pues un cuatro y un cco pues aplica ese os2 al dado más alto lo hemos dicho men2 al dado más alto Pues el 5 sería un lo hemos dicho men2 al dado más alto Pues el 5 sería un TR pero ahora tiene un + do que lo aplica un dado Así que esto vuelve a ser un c los cincos y seises son éxitos este uno pues se lo aplica a al lado al mismo se lo puede aplicar mismo dado ahora es un seis y ese + 2 a este cuatro y sería se lo puede aplicar mismo dado ahora es un seis y ese + 2 a este cuatro y sería un seis el otro combatiente igual lanza sus dados y aplica aquí el asunto este no hace nada porque ha sido menos dos que le ha quitado al lado pero bueno como él hace nada porque ha sido menos dos que le ha quitado al lado pero bueno como él tenía aquí un más 2 + 2 + 1 pues lo lo comió por lo servillo no Y además tiene un men1 pues men1 es más altos este cu es un tres Así que es un tres y un uno pues malamente le ha salido bastante mal la"
+    },
+    {
+      "id": "n25",
+      "level": 2,
+      "start": 1850.0,
+      "end": 1908.0,
+      "parent": "n23",
+      "children": [],
+      "subtitle_text": "dos impactos de tres pasaría a ser un dos y del dos pasaría a ser un uno así que seguiría vivo y si fuese un cinco pues pasaría lo mismo con un cinco si sufre dos impactos el primer impacto voltea la ficha de cinco pasa tres cuidado y de tres pasaría a ser un dos los impactos van eh de esa forma si hay cuidado y de tres pasaría a ser un dos los impactos van eh de esa forma si hay que cambiar la ficha pues intenta cambiar la ficha por una del mismo tipo eh Y si no hay el tipo necesario se intentará sustituir por una del del ejército regular no o o si no la hay pues por por milicianos para los republicanos o por falangistas o o pues por por milicianos para los republicanos o por falangistas o o carlistas para los nacionales si una un es eliminada y había un tanque apoyándole ese tanque es eliminado también o sea si esto hubiera estado así hubiera tenido aquí un tanque de apoyo y este le le ha matado Pues el tanque hubiera tenido aquí un tanque de apoyo y este le le ha matado Pues el tanque también es eliminado Y si por lo que sea pues se produce eh un una eliminación doble eh se eliminan las dos las dos unidades y y ya no hubieran más combates eh pudiéramos seguir no se eliminaran to"
+    },
+    {
+      "id": "n26",
+      "level": 2,
+      "start": 1908.0,
+      "end": 2002.0,
+      "parent": "n23",
+      "children": [],
+      "subtitle_text": "más el avión que esta apoyando pues se iría aquí a unidad usada vale ya ha sido usada en el en el combate así que ya no puede volver a apoyar ese avión ya está el el general Pues también porque ha apoyado y este tanque Pues igual ha apoyado a la unidad pues ya ha apoyado y esta también ha sido utilizada pues ya apoyado a la unidad pues ya ha apoyado y esta también ha sido utilizada pues ya utilizada pues pues se va se van todas las unidades que han que han participado Pues bueno pues están en unidades aquí utilizadas pero el el general que ha iniciado el ataque todavía le queda aquí una unidad Así que podría seguir atacando pod decir pues ataca a este y le ataca a este y podíamos volver a atacando pod decir pues ataca a este y le ataca a este y podíamos volver a volver a volver a empezar así hasta que el el general que está atacando decida Pues que ya eh No ataca más en ese caso pues terminaría ya la fase de ataque en este caso que empezado el nacional y ahora le tocaría al republicano el este caso que empezado el nacional y ahora le tocaría al republicano el republicano que si estuviese aquí y todavía quedaran unidades vivas podría decidir atacar con él o sea esto se volvería el t"
+    },
+    {
+      "id": "n27",
+      "level": 2,
+      "start": 2002.0,
+      "end": 2122.0,
+      "parent": "n23",
+      "children": [],
+      "subtitle_text": "un ataque Si quiere en el mismo sitio o pue decidir ir a otro sitio este general que ya ha sido usado pues se le da la vuelta eh Se le voltea para saber que ese general ya ha combatido y pues volveríamos a empezar esta fase de ataques así hasta que los dos eh jugadores pues ya eh dejen de combatir o jug ar pues después de esta fase de combate iremos a una fase de eventos os recuerdo que al principio de esta fase de eventos es cuando se podrán mover las unidades que están en Marruecos eh El Nacional podrá mover hasta tres fichas una a Sevilla y dos a Cádiz eh lo que os he contado antes vale Y en esta fase de una a Sevilla y dos a Cádiz eh lo que os he contado antes vale Y en esta fase de eventos podremos jugar tres cartas podemos jugar tres cartas para utilizar su evento utilizarlo de arriba Eh el evento Empezando por el nacional y alternativamente O sea pues el nacional juega esta aparecen en cualquier Puerto controlado Pues mira cualquier puerto un ver cuáles son estes aquí coges los coges los aviones que te indican y allí lo metes en el puerto y esta carta pues ya has usado se descarta esta carta ya está fuera ahora tocaría al al contrario Pues lo mismo de sus cartas si quiere ha"
+    },
+    {
+      "id": "n29",
+      "level": 2,
+      "start": 2122.0,
+      "end": 2292.0,
+      "parent": "n28",
+      "children": [],
+      "subtitle_text": "marcador de localización ion es objetivo eh Tenemos que tener en cuenta ya sabéis que tienen que sumar 12 pues tenemos que ver si ha variado si no ha variado estas ya no está en disputa Ha ganado el republicano lo que sea y ahora es cuando se tiene también en cuenta las condiciones de Victoria que ya os he contado antes que si queréis os recuerdo muy rápidamente Victoria por conquista controlar ocho zonas objetivos p ya las has ganado eh o ganan los republicanos si tras el el turno 10 y al final pues tienen una unidad eh una unidad por lo menos una unidad en cuatro localizaciones objetivo y aparte ocho unidades en cajetines que estén interconectados si tras el turno 10 Pues nadie cumple ninguna de estas condiciones pasamos a contar los puntos unidades nuevas o a mejorar unidades que están en el tablero Cuántos puntos de reemplazo tiene cada jugador pues depende de las localizaciones objetivo que controle si esto estuviese así pues el nacional tendría cuatro y 3 s y el republicano tiene cco y 3 o de los dos jugadores el que tenga menos puntos Esto empatados es el nacional el que el que juega primero ahora depende del año en el que estemos depende del turno de reemplazo que estemos j"
+    },
+    {
+      "id": "n30",
+      "level": 2,
+      "start": 2292.0,
+      "end": 2378.0,
+      "parent": "n28",
+      "children": [],
+      "subtitle_text": "mejor este el un al dos ya la meto una de uno también no no puedes ya has gastado un punto ahí así que no puedes gastar más puntos en cada localización vale en el turno 3 y en el turno 5 podrás meter unidades nuevas pero de valor dos eh En vez de meter una unidad nueva de valor uno pues meto aquí un un Soldados del dos pues meto aquí el tres le hago más tocho y en Las dos últimas fases de de reemplazo el 38 y el 39 lo que podrás hacer es meter unidades de valor dos o podrás gastar un punto también de reemplazo para mejorar una de tres al cinco dar la vuelta o para también de reemplazo para mejorar una de tres al cinco dar la vuelta o para cambiar una ficha de valor dos por una ficha de valor tres las unidades que metes pues también tienes una pequeña restricción eh los republicanos solo podrán meter Pues los regulares y los vascos o las milicias comunistas y los anarquistas Pero cuidado los vascos solamente pueden aparecer en Bilbao en anarquistas Pero cuidado los vascos solamente pueden aparecer en Bilbao en San Sebastián los vascos solamente aparecen ahí eh si tú quieres meter el metes a un a un Vasco pues tiene que ser en San Sebastián o en Bilbao y los nacionales Pues solamente"
+    },
+    {
+      "id": "n31",
+      "level": 2,
+      "start": 2378.0,
+      "end": 2428.0,
+      "parent": "n28",
+      "children": [],
+      "subtitle_text": "España 1936 luego tenemos la expansión como se he dicho antes la expansión de la asmada que te mete pues nuevas localizaciones pues donde vas a tener aquí pues pues barquitos para hacer combates navales también tener el control de estas unidades tendrás bases tendrás algún avioncito nuevas cartas V a meter Pues otra otra capa de otra capa tendrás algún avioncito nuevas cartas V a meter Pues otra otra capa de otra capa de estratégica no que básicamente se los combates navales son como los combates aéreos eh que vas a ver si si hundes el barco o si el barco puede apoyar o no al al combate terrestre o los aviones también podrán ir a atacar los barcos V al combate terrestre o los aviones también podrán ir a atacar los barcos V Pero bueno eso ya os lo estudiáis en el manual o si me lo pedís mucho mucho mucho ya otro día lo explico en otro vídeo vale pero mientras esto es la nueva edición de España 1936 pues eso es todo ya tenéis ahí las"
+    },
+    {
+      "id": "n32",
+      "level": 2,
+      "start": 2428.0,
+      "end": 2540.04,
+      "parent": "n28",
+      "children": [],
+      "subtitle_text": "os sirve como como un Punto de partida eh Para poder tener unas ideas claras Y poder entender de qué va el juego cómo funciona este este estupendo juego para dos jugadores que yo tenía muchas ganas Y pues mira he sabido esperarme Digo vamos a esperar que deb ya sabíamos hace tiempo que iba a lanzar esta nueva edición una edición con unas calidades tiempo que iba a lanzar esta nueva edición una edición con unas calidades estupendas eh viene con versión de cartas en español y en inglés eh todo viene en español y en inglés digo porque no os asustéis la primera vez que lo abr Cuántas cartas tiene esto es que vienen las cartas por duplicado obviamente eh Y viene además con con la armada eh viene las cartas por duplicado obviamente eh Y viene además con con la armada eh viene con esta expansión que os va a permitir pues Añadir aún más rejugabilidad y Añadir pues una capita más estratégica a las partidas que la puede hacer pues aún aún más intensas y más y más duraderas no y alguna pequeña excepción alguna pequeña regla que hay también para poder no y alguna pequeña excepción alguna pequeña regla que hay también para poder eh empezar la partida ya avanzada la guerra o para poder actuar co"
+    }
+  ],
+  "boundary_diagnostics": {
+    "persistence_method": "superlevel_h0_path_graph",
+    "section_cut_seconds": [
+      98.0,
+      248.0,
+      300.0,
+      350.0,
+      470.0,
+      524.0,
+      624.0,
+      772.0,
+      892.0,
+      998.0,
+      1074.0,
+      1162.0,
+      1342.0,
+      1408.0,
+      1462.0,
+      1548.0,
+      1628.0,
+      1724.0,
+      1850.0,
+      1908.0,
+      2002.0,
+      2122.0,
+      2292.0,
+      2378.0,
+      2428.0
+    ],
+    "chapter_cut_seconds": [
+      248.0,
+      892.0,
+      1462.0,
+      1724.0,
+      2122.0
+    ],
+    "persistent_peak_count": 62
+  }
+}

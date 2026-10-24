@@ -1,0 +1,393 @@
+{
+  "video_id": "799",
+  "duration_seconds": 2513.16,
+  "tree_mode": "multimodal",
+  "node_summary_source": "subtitles",
+  "nodes": [
+    {
+      "id": "n0",
+      "level": 0,
+      "start": 0.0,
+      "end": 2513.16,
+      "parent": null,
+      "children": [
+        "n1",
+        "n4",
+        "n11",
+        "n16",
+        "n23",
+        "n29"
+      ],
+      "subtitle_text": "[Music] oh [Music] [Music] oh [Music] oh oh [Music] [Music]"
+    },
+    {
+      "id": "n1",
+      "level": 1,
+      "start": 0.0,
+      "end": 280.0,
+      "parent": "n0",
+      "children": [
+        "n2",
+        "n3"
+      ],
+      "subtitle_text": "[Music] [Music] [Music] come on [Music]"
+    },
+    {
+      "id": "n4",
+      "level": 1,
+      "start": 280.0,
+      "end": 802.0,
+      "parent": "n0",
+      "children": [
+        "n5",
+        "n6",
+        "n7",
+        "n8",
+        "n9",
+        "n10"
+      ],
+      "subtitle_text": "[Music] oh [Music] oh um [Music] oh [Music] [Music] [Music]"
+    },
+    {
+      "id": "n11",
+      "level": 1,
+      "start": 802.0,
+      "end": 1238.0,
+      "parent": "n0",
+      "children": [
+        "n12",
+        "n13",
+        "n14",
+        "n15"
+      ],
+      "subtitle_text": "[Music] ladies and gentlemen please welcome to hello ooh you see ladies and gentlemen nothing there i think it's time for some love [Music] oh and now [Music] [Applause] [Applause] let go [Music] come back"
+    },
+    {
+      "id": "n16",
+      "level": 1,
+      "start": 1238.0,
+      "end": 1836.0,
+      "parent": "n0",
+      "children": [
+        "n17",
+        "n18",
+        "n19",
+        "n20",
+        "n21",
+        "n22"
+      ],
+      "subtitle_text": "[Music] oh oh [Music] [Music] oh oh [Music]"
+    },
+    {
+      "id": "n23",
+      "level": 1,
+      "start": 1836.0,
+      "end": 2206.0,
+      "parent": "n0",
+      "children": [
+        "n24",
+        "n25",
+        "n26",
+        "n27",
+        "n28"
+      ],
+      "subtitle_text": "[Music] [Music] oh [Music] [Music] [Music] [Music] [Music] [Music]"
+    },
+    {
+      "id": "n29",
+      "level": 1,
+      "start": 2206.0,
+      "end": 2513.16,
+      "parent": "n0",
+      "children": [
+        "n30",
+        "n31",
+        "n32",
+        "n33"
+      ],
+      "subtitle_text": "[Music] oh oh [Music] oh [Music] oh [Music] [Music]"
+    },
+    {
+      "id": "n2",
+      "level": 2,
+      "start": 0.0,
+      "end": 168.0,
+      "parent": "n1",
+      "children": [],
+      "subtitle_text": "[Music] [Music] sure [Music] hmm [Music]"
+    },
+    {
+      "id": "n3",
+      "level": 2,
+      "start": 168.0,
+      "end": 280.0,
+      "parent": "n1",
+      "children": [],
+      "subtitle_text": "[Music] very good come on [Music] come on hmm [Music] [Music]"
+    },
+    {
+      "id": "n5",
+      "level": 2,
+      "start": 280.0,
+      "end": 350.0,
+      "parent": "n4",
+      "children": [],
+      "subtitle_text": "[Applause] oh sorry about that [Music] sorry about that [Music] [Music] oh it's wonderful [Music] i'll just get them [Music] [Music] oh"
+    },
+    {
+      "id": "n6",
+      "level": 2,
+      "start": 350.0,
+      "end": 412.0,
+      "parent": "n4",
+      "children": [],
+      "subtitle_text": "oh my trunk [Music] aha it arrived [Music] aha it arrived [Applause] [Music] oh shoot ugh excuse me"
+    },
+    {
+      "id": "n7",
+      "level": 2,
+      "start": 412.0,
+      "end": 518.0,
+      "parent": "n4",
+      "children": [],
+      "subtitle_text": "[Music] [Music] oh um um [Music] [Music] [Music] oh [Music]"
+    },
+    {
+      "id": "n8",
+      "level": 2,
+      "start": 518.0,
+      "end": 622.0,
+      "parent": "n4",
+      "children": [],
+      "subtitle_text": "i'm sorry let's move on now how about this [Applause] excuse [Applause] excuse he's me sweet have you seen a trunk over there really have you seen a trunk over there really right nothing there [Music] [Music] rings what is going on here oh mine i think oy"
+    },
+    {
+      "id": "n9",
+      "level": 2,
+      "start": 622.0,
+      "end": 700.0,
+      "parent": "n4",
+      "children": [],
+      "subtitle_text": "[Music] oh my paper oh [Applause] oh [Applause] [Music] [Music] cute [Music] cute [Music] oh [Music] brilliant"
+    },
+    {
+      "id": "n10",
+      "level": 2,
+      "start": 700.0,
+      "end": 802.0,
+      "parent": "n4",
+      "children": [],
+      "subtitle_text": "hmm [Music] there you go sir there you go sir [Music] oh just there sir oh oh yes oh oh yes thank you [Music] oh very nice [Music] [Music]"
+    },
+    {
+      "id": "n12",
+      "level": 2,
+      "start": 802.0,
+      "end": 952.0,
+      "parent": "n11",
+      "children": [],
+      "subtitle_text": "ladies and gentlemen please welcome to the stage [Applause] [Music] hello ladies and gentlemen boys and girls lovely to be here girls lovely to be here i need a volunteer not me not me come up on stage ladies and gentlemen give him a round of applause [Music] take a seat sir well done sir give him a round of applause ladies and gentlemen another volunteer yes please me me me me applause ladies and gentlemen another volunteer yes please me me me me me i'll choose me truly yes you sir oh yes [Applause]"
+    },
+    {
+      "id": "n13",
+      "level": 2,
+      "start": 952.0,
+      "end": 1072.0,
+      "parent": "n11",
+      "children": [],
+      "subtitle_text": "now i wonder if this man can dance some music [Music] [Applause] [Music] and now [Music] [Applause] [Applause] let go [Music] come back [Music] come back where did he go [Music]"
+    },
+    {
+      "id": "n14",
+      "level": 2,
+      "start": 1072.0,
+      "end": 1190.0,
+      "parent": "n11",
+      "children": [],
+      "subtitle_text": "[Laughter] [Music] leave him alone [Music] [Music] oh hold on shut up [Music] keep your racket down you [Music] my darling don't go"
+    },
+    {
+      "id": "n15",
+      "level": 2,
+      "start": 1190.0,
+      "end": 1238.0,
+      "parent": "n11",
+      "children": [],
+      "subtitle_text": "why not [Music] up the paper up the paper [Music] [Music] oh good boy bane what happened what happened what happened what happened [Music] oh"
+    },
+    {
+      "id": "n17",
+      "level": 2,
+      "start": 1238.0,
+      "end": 1298.0,
+      "parent": "n16",
+      "children": [],
+      "subtitle_text": "ah ah [Music] [Music] oh [Music] oh [Music] oh [Music]"
+    },
+    {
+      "id": "n18",
+      "level": 2,
+      "start": 1298.0,
+      "end": 1346.0,
+      "parent": "n16",
+      "children": [],
+      "subtitle_text": "[Music] oh oh [Music] [Music] oh"
+    },
+    {
+      "id": "n19",
+      "level": 2,
+      "start": 1346.0,
+      "end": 1418.0,
+      "parent": "n16",
+      "children": [],
+      "subtitle_text": "[Music] i can't be a thing roxy roxy [Music] all right"
+    },
+    {
+      "id": "n20",
+      "level": 2,
+      "start": 1418.0,
+      "end": 1508.0,
+      "parent": "n16",
+      "children": [],
+      "subtitle_text": "[Music] [Music] oh oh thank you [Music] hmm"
+    },
+    {
+      "id": "n21",
+      "level": 2,
+      "start": 1508.0,
+      "end": 1688.0,
+      "parent": "n16",
+      "children": [],
+      "subtitle_text": "[Music] okay is roxy thank you [Music] good night [Music] oh oh [Applause] [Music] [Music] my funny man [Music] hello where am i hello"
+    },
+    {
+      "id": "n22",
+      "level": 2,
+      "start": 1688.0,
+      "end": 1836.0,
+      "parent": "n16",
+      "children": [],
+      "subtitle_text": "[Music] [Applause] [Music] hmm [Music] oh [Music] [Applause] [Music] [Applause] oh uh [Music]"
+    },
+    {
+      "id": "n24",
+      "level": 2,
+      "start": 1836.0,
+      "end": 1894.0,
+      "parent": "n23",
+      "children": [],
+      "subtitle_text": "[Music] [Music] oh [Music] oh at that [Music] [Music] [Music] ugh [Music]"
+    },
+    {
+      "id": "n25",
+      "level": 2,
+      "start": 1894.0,
+      "end": 1942.0,
+      "parent": "n23",
+      "children": [],
+      "subtitle_text": "[Music] oh [Music]"
+    },
+    {
+      "id": "n26",
+      "level": 2,
+      "start": 1942.0,
+      "end": 2010.0,
+      "parent": "n23",
+      "children": [],
+      "subtitle_text": "[Music] [Music] [Applause] [Music] oh [Music] [Music] hmm [Music]"
+    },
+    {
+      "id": "n27",
+      "level": 2,
+      "start": 2010.0,
+      "end": 2094.0,
+      "parent": "n23",
+      "children": [],
+      "subtitle_text": "[Music] oh [Music] [Music] [Music] [Music] [Music] uh"
+    },
+    {
+      "id": "n28",
+      "level": 2,
+      "start": 2094.0,
+      "end": 2206.0,
+      "parent": "n23",
+      "children": [],
+      "subtitle_text": "[Music] [Music] [Music] [Music] [Music] [Music] [Music] [Music] oh [Music] oh"
+    },
+    {
+      "id": "n30",
+      "level": 2,
+      "start": 2206.0,
+      "end": 2300.0,
+      "parent": "n29",
+      "children": [],
+      "subtitle_text": "[Music] oh oh [Music] oh [Music] oh [Music] oh [Music] oh"
+    },
+    {
+      "id": "n31",
+      "level": 2,
+      "start": 2300.0,
+      "end": 2362.0,
+      "parent": "n29",
+      "children": [],
+      "subtitle_text": "no no no no oh oh oh [Music] [Music] thank you"
+    },
+    {
+      "id": "n32",
+      "level": 2,
+      "start": 2362.0,
+      "end": 2434.0,
+      "parent": "n29",
+      "children": [],
+      "subtitle_text": "[Music] there you go mate hmm where'd she go good day [Music] good day [Music] oh"
+    },
+    {
+      "id": "n33",
+      "level": 2,
+      "start": 2434.0,
+      "end": 2513.16,
+      "parent": "n29",
+      "children": [],
+      "subtitle_text": "oh [Music] [Music] [Music] [Music] oh [Music] [Music] [Music] [Music]"
+    }
+  ],
+  "boundary_diagnostics": {
+    "persistence_method": "superlevel_h0_path_graph",
+    "section_cut_seconds": [
+      168.0,
+      280.0,
+      350.0,
+      412.0,
+      518.0,
+      622.0,
+      700.0,
+      802.0,
+      952.0,
+      1072.0,
+      1190.0,
+      1238.0,
+      1298.0,
+      1346.0,
+      1418.0,
+      1508.0,
+      1688.0,
+      1836.0,
+      1894.0,
+      1942.0,
+      2010.0,
+      2094.0,
+      2206.0,
+      2300.0,
+      2362.0,
+      2434.0
+    ],
+    "chapter_cut_seconds": [
+      280.0,
+      802.0,
+      1238.0,
+      1836.0,
+      2206.0
+    ],
+    "persistent_peak_count": 74
+  }
+}

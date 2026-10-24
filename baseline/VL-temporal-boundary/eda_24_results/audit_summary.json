@@ -1,0 +1,80 @@
+{
+  "videos": 24,
+  "modes": [
+    "multimodal",
+    "video_only"
+  ],
+  "config": {
+    "multimodal": {
+      "mode": "multimodal",
+      "frame_interval": 2.0,
+      "subtitle_window": 15.0,
+      "grid_seconds": 2.0,
+      "fusion_method": "max",
+      "visual_weight": 0.5,
+      "text_weight": 0.5,
+      "section_min_seconds": 45.0,
+      "section_max_seconds": 180.0,
+      "chapter_min_seconds": 240.0,
+      "chapter_max_seconds": 600.0,
+      "section_persistence_quantile": 0.55,
+      "chapter_persistence_quantile": 0.85,
+      "summary_windows": 4,
+      "summary_max_chars": 1200,
+      "visual_model": "facebook/dinov2-small",
+      "text_model": "sentence-transformers/all-MiniLM-L6-v2",
+      "frame_batch_size": 16,
+      "text_batch_size": 64,
+      "max_videos": 24
+    },
+    "video_only": {
+      "mode": "video_only",
+      "frame_interval": 2.0,
+      "subtitle_window": 15.0,
+      "grid_seconds": 2.0,
+      "fusion_method": "max",
+      "visual_weight": 0.5,
+      "text_weight": 0.5,
+      "section_min_seconds": 45.0,
+      "section_max_seconds": 180.0,
+      "chapter_min_seconds": 240.0,
+      "chapter_max_seconds": 600.0,
+      "section_persistence_quantile": 0.55,
+      "chapter_persistence_quantile": 0.85,
+      "summary_windows": 4,
+      "summary_max_chars": 1200,
+      "visual_model": "facebook/dinov2-small",
+      "text_model": "sentence-transformers/all-MiniLM-L6-v2",
+      "frame_batch_size": 16,
+      "text_batch_size": 64,
+      "max_videos": 24
+    }
+  },
+  "audit_by_mode": {
+    "multimodal": {
+      "chapters_mean": 6.416666666666667,
+      "chapters_min": 4,
+      "chapters_max": 9,
+      "sections_mean": 28.291666666666668,
+      "sections_min": 20,
+      "sections_max": 38,
+      "mean_section_seconds": 94.3784304687254,
+      "shortest_section_seconds": 46.0,
+      "longest_section_seconds": 180.0,
+      "empty_summary_fraction": 0.0
+    },
+    "video_only": {
+      "chapters_mean": 6.375,
+      "chapters_min": 4,
+      "chapters_max": 10,
+      "sections_mean": 29.583333333333332,
+      "sections_min": 21,
+      "sections_max": 39,
+      "mean_section_seconds": 90.35398728571106,
+      "shortest_section_seconds": 46.0,
+      "longest_section_seconds": 180.0,
+      "empty_summary_fraction": 1.0
+    }
+  },
+  "mean_multimodal_cut_match_to_video_only_at_10s": 0.6736279564750379
+}

@@ -1,0 +1,348 @@
+{
+  "video_id": "889",
+  "duration_seconds": 2096.2,
+  "tree_mode": "multimodal",
+  "node_summary_source": "subtitles",
+  "nodes": [
+    {
+      "id": "n0",
+      "level": 0,
+      "start": 0.0,
+      "end": 2096.2,
+      "parent": null,
+      "children": [
+        "n1",
+        "n6",
+        "n14",
+        "n18",
+        "n25"
+      ],
+      "subtitle_text": "[Music] 35 kilometers in just did the first climb and passed the First Nutrition station everybody's so nice I'm actually having a really good time beautiful weather still feeling good still feeling fresh can't believe I'm doing the Iron [Music] how are you feeling uh Feeling Good [Music] feel better do you [ __ ] saved the bike ride I think let's go [Music] it's uh well my batteries are uh are empty I I can't imagine uh doing a marathon now so uh but let me go I'm good I'm doing good I'm doing good I'm a bit worried about"
+    },
+    {
+      "id": "n1",
+      "level": 1,
+      "start": 0.0,
+      "end": 390.0,
+      "parent": "n0",
+      "children": [
+        "n2",
+        "n3",
+        "n4",
+        "n5"
+      ],
+      "subtitle_text": "first full Iron Man we're here in lagenfoot looks very beautiful today is very important day we need to eat well carb up as they say we have a big planning today good morning something different about you yeah I don't know what it is I have no Crocs on maybe I cut my hair oh that's yeah I don't know what it is I have no Crocs on maybe I cut my hair oh that's it I know you look short I hope so it's tomorrow you can be proud so today I'm on the plumbing race briefing at nine Open Water Swim training at 10 transition back preparation sweet Fray at 12 here dropping off our bike at transition zone front during the run thank you for being an Iron Man Captain Austria good luck starting to sink in [Music] yeah what's up sexy how is the water amazing that's it tomorrow extra water extra gels in it that's it this is where we have to drop off our bike and our transition bag it's about to happen uh okay yes excitement is building up yes this is our dad that's a real one okay"
+    },
+    {
+      "id": "n6",
+      "level": 1,
+      "start": 390.0,
+      "end": 1014.0,
+      "parent": "n0",
+      "children": [
+        "n7",
+        "n8",
+        "n9",
+        "n10",
+        "n11",
+        "n12",
+        "n13"
+      ],
+      "subtitle_text": "come on [Music] you didn't sleep well but that that's expected but I'm feeling good feeling energized to taste the day expected but I'm feeling good feeling energized to taste the day [Music] um good but uh the the river was the most hectic uh if everything goes this well like this it's gonna be very excited [Music] ready [Music] 35 kilometers in just did the first climb and passed the First Nutrition station everybody's so nice I'm actually having a really good time beautiful weather still feeling good still feeling fresh can't believe I'm doing the Iron"
+    },
+    {
+      "id": "n14",
+      "level": 1,
+      "start": 1014.0,
+      "end": 1298.0,
+      "parent": "n0",
+      "children": [
+        "n15",
+        "n16",
+        "n17"
+      ],
+      "subtitle_text": "[Music] how are you feeling uh Feeling Good do you [ __ ] saved the bike ride I think let's go let's go August good going well it's going well 110 kilometers in yeah I need to uh maybe slow down a little bit Yeah because I'm uh my average is uh is like 32 I think now how's that one doing I it's good to see you're doing great thank you it's good to see you good luck yeah come on let's go 130k in my legs are starting to feel weak first time I feel a bit uh I feel like I'm losing power so I hope it doesn't go bad let's go kilometer 150 [Music] it's uh well my batteries are uh are empty I I can't imagine uh doing a marathon now so uh but let me go I'm good I'm doing good I'm doing good I'm a bit worried about"
+    },
+    {
+      "id": "n18",
+      "level": 1,
+      "start": 1298.0,
+      "end": 1748.0,
+      "parent": "n0",
+      "children": [
+        "n19",
+        "n20",
+        "n21",
+        "n22",
+        "n23",
+        "n24"
+      ],
+      "subtitle_text": "[Music] [Music] [Music] [ __ ] I have to continue oh holy [ __ ] it's going well my foot doesn't hurt painkillers are working like magic I'm feeling good I hope I don't know is okay [Applause]"
+    },
+    {
+      "id": "n25",
+      "level": 1,
+      "start": 1748.0,
+      "end": 2096.2,
+      "parent": "n0",
+      "children": [
+        "n26",
+        "n27",
+        "n28",
+        "n29"
+      ],
+      "subtitle_text": "[Music] [Music] [Applause] let's go home we're gonna get fat again I can't wait to get better foreign [Applause] [Music] [Applause] [Applause]"
+    },
+    {
+      "id": "n2",
+      "level": 2,
+      "start": 0.0,
+      "end": 76.0,
+      "parent": "n1",
+      "children": [],
+      "subtitle_text": "today is a very important day [Music] to finish every time I see them I get to finish every time I see them I get the emotional never again what the [ __ ] hi guys welcome to a new video in 24 hours it will be the start of our very first full Iron Man we're here in lagenfoot looks very beautiful today is first full Iron Man we're here in lagenfoot looks very beautiful today is very important day we need to eat well carb up as they say we have a big planning today good morning something different about you yeah I don't know what it is I have no Crocs on maybe I cut my hair oh that's yeah I don't know what it is I have no Crocs on maybe I cut my hair oh that's it I know you look short I hope so it's tomorrow you can be proud so today I'm on the plumbing race briefing at nine Open Water Swim training at 10 transition back preparation sweet Fray at 12 here dropping off our bike at transition zone"
+    },
+    {
+      "id": "n3",
+      "level": 2,
+      "start": 76.0,
+      "end": 132.0,
+      "parent": "n1",
+      "children": [],
+      "subtitle_text": "[Applause] people doing this race that's 3 000 people who have what I call Ray spray people doing this race that's 3 000 people who have what I call Ray spray the definition of Ray spray is the most intelligent people on the planet become stupid when they put on Lycra it's normal the whole point of the race briefing now is to bring to your attention specific information with regards to this event and everybody gets attention specific information with regards to this event and everybody gets the opportunity to come here and stand under there and hear the words you are an Iron Man yes your playground starts over there tomorrow the gorgeous vertazette the water is so clean that the locals brag you can drink straight vertazette the water is so clean that the locals brag you can drink straight out of it it is mandatory that you wear your build number clearly visible on your back during the bike and on your front during the run thank you for being an Iron Man Captain Austria good luck"
+    },
+    {
+      "id": "n4",
+      "level": 2,
+      "start": 132.0,
+      "end": 210.0,
+      "parent": "n1",
+      "children": [],
+      "subtitle_text": "front during the run thank you for being an Iron Man Captain Austria good luck starting to sink in [Music] yeah what's up sexy how is the water amazing foreign it's really weird to swim in such a big place that is not salt water but it's it's really weird to swim in such a big place that is not salt water but it's nice yeah I feel good it's a really nice place to swim everything is good I don't know where our noise if you see a blue uh bot mix say hi okay all right I'm gonna finish the swim session see you on the shore yeah Maybe see you good to see you welcome"
+    },
+    {
+      "id": "n5",
+      "level": 2,
+      "start": 210.0,
+      "end": 390.0,
+      "parent": "n1",
+      "children": [],
+      "subtitle_text": "that's it tomorrow extra water extra gels in it that's it this is where we have to drop off our bike and our transition bag it's about to happen uh okay yes excitement is building up yes this is our dad that's a real one okay the making it's almost a baby okay thank you see you tomorrow bye catch out what's up dude hello beautiful [Music] I don't know he said now he's a stress that's coming up eh I had this like to go super hard like I always made sure that it felt like I could probably do more but like other than that just you know just keep going on you guys are absolutely gonna kill us stop stop it's nothing it's easy you're teasing it Cody thanks for calling thanks for checking in we will think of you when we run yeah thanks for calling thanks for checking in we will think of you when we run yeah please energy is everything all right it's Cody thanks Big love you heard the final advice I think now it's time to go to bed get some good rest and"
+    },
+    {
+      "id": "n7",
+      "level": 2,
+      "start": 390.0,
+      "end": 570.0,
+      "parent": "n6",
+      "children": [],
+      "subtitle_text": "come on [Music] you didn't sleep well but that that's expected but I'm feeling good feeling energized to taste the day expected but I'm feeling good feeling energized to taste the day [Music] um [Music] just enjoy today okay you worked for this you got it just pick up the metal at the Finish Line yeah this is the last one we see each other before the end okay I want to see you at the Finish okay let's go you can do this huh [Music] [Music]"
+    },
+    {
+      "id": "n8",
+      "level": 2,
+      "start": 570.0,
+      "end": 628.0,
+      "parent": "n6",
+      "children": [],
+      "subtitle_text": "thank you let's [ __ ] go man let's go let's go oh here we go he's doing good he's uh swimming really comfortable 48 minutes now so I think his finishing time in swim will be comfortable 48 minutes now so I think his finishing time in swim will be around one hour he's swimming from group to group so he has a nice space everything under control all right come on up"
+    },
+    {
+      "id": "n9",
+      "level": 2,
+      "start": 628.0,
+      "end": 694.0,
+      "parent": "n6",
+      "children": [],
+      "subtitle_text": "here yeah let's go let's go let's go yeah yeah let's go let's go let's go yeah hold on all right hey guys good luck guys it was really nice actually yeah everything was perfect okay good really it feels beautiful until today is happening that makes me happy he's relaxed he's until today is happening that makes me happy he's relaxed he's good he's uh on schedule I was like no stuck I don't know it's good yeah his morale was great it's a longer long run a long run does that counting to the Marathon distance I don't know"
+    },
+    {
+      "id": "n10",
+      "level": 2,
+      "start": 694.0,
+      "end": 760.0,
+      "parent": "n6",
+      "children": [],
+      "subtitle_text": "all right this is transitioning Zone let's find our bag okay was also doing good he was feeling really great at the start okay that's good but uh the the river was the most hectic good but uh the the river was the most hectic uh if everything goes this well like this it's gonna be very excited [Music] ready [Music] let's go thank you [Music] we're doing it we're doing it Milan good luck yes come on come on I love you too love you love you come on come on luck yes come on come on I love you too love you love you come on come on success man let's go [Music]"
+    },
+    {
+      "id": "n11",
+      "level": 2,
+      "start": 760.0,
+      "end": 834.0,
+      "parent": "n6",
+      "children": [],
+      "subtitle_text": "so careful careful let's go let's go let's go let's go so careful careful let's go let's go let's go let's go swimming well a bit a bit too fast swimming well a bit a bit too fast feeling good a lot of fighting in the water yeah crazy pulling your ankles and everything feeling really good actually that's good that's good coming [Applause] back wow I drink so much water at a moment I"
+    },
+    {
+      "id": "n12",
+      "level": 2,
+      "start": 834.0,
+      "end": 920.0,
+      "parent": "n6",
+      "children": [],
+      "subtitle_text": "right 7.5 kilometers in court is super smooth everybody super nice I'm feeling good the swim was really nice it's crazy the river I had to swim and there was so much people really nice it's crazy the river I had to swim and there was so much people around it was uh quite hectic but uh I'm really hyped really excited let's go a little bit of cramps in my stomach that could be worse a little bit of cramps in my stomach that could be worse [Music] all right let's go I don't know come on man come let's go I don't know come on man come on canala [Music] yeah that sucks"
+    },
+    {
+      "id": "n13",
+      "level": 2,
+      "start": 920.0,
+      "end": 1014.0,
+      "parent": "n6",
+      "children": [],
+      "subtitle_text": "[Music] 35 kilometers in just did the first climb and passed the First Nutrition station everybody's so nice I'm actually having a really good time beautiful weather still feeling good still feeling fresh can't believe I'm doing the Iron weather still feeling good still feeling fresh can't believe I'm doing the Iron Man in the past eight months have gone so fast and now I'm doing it and I'm really enjoying it so uh yeah but that's after 35 kilometer let's see how are we going next somebody passed me put his hands in the air and just farts like are we going next somebody passed me put his hands in the air and just farts like crazy so they're lighting up the mood a lot of kilometers to go these 80 kilometers in we're uh still feeling good the only thing I'm a bit worried about is that I didn't put sunscreen on so I might be burned already that's the do rolled on the road so I had to do some ninja moves to escape it but feeling fresh feeling good everything is going okay everybody's super nice there's a lot of ambiance on the side side of the course big piece let's go let's finish this Iron Man"
+    },
+    {
+      "id": "n15",
+      "level": 2,
+      "start": 1014.0,
+      "end": 1100.0,
+      "parent": "n14",
+      "children": [],
+      "subtitle_text": "[Music] how are you feeling uh Feeling Good how are you feeling uh Feeling Good Feeling energized foreign [Music] station so we're expecting him uh like station so we're expecting him uh like in two three minutes here damn how's it going amazing amazing feeling good marathon after it's like yeah foreign [Applause] of this ride it's been amazing until now so I hope the second half as amazing as this one feeling good feeling happy fueled up"
+    },
+    {
+      "id": "n16",
+      "level": 2,
+      "start": 1100.0,
+      "end": 1202.0,
+      "parent": "n14",
+      "children": [],
+      "subtitle_text": "[Music] feel better do you [ __ ] saved the bike ride I think let's go do you [ __ ] saved the bike ride I think let's go let's go August good going well it's going well 110 kilometers in yeah I need to uh maybe slow down a little bit Yeah because I'm uh my average is uh is like 32 I think now how's that one doing I it's good to see you're doing great thank you it's good to see you good luck yeah come on let's go 130k in my legs are starting to feel weak first time I feel a bit uh I feel like I'm losing power so I hope it doesn't go bad let's go kilometer 150 doesn't go bad let's go kilometer 150 I'm starting to feel it the marathon is going to be it's gonna be a war 30 more kilometers to go and then and then we'll see but uh all right I'm about to start the last climb and then it's like 15 kilometers"
+    },
+    {
+      "id": "n17",
+      "level": 2,
+      "start": 1202.0,
+      "end": 1298.0,
+      "parent": "n14",
+      "children": [],
+      "subtitle_text": "yo pose rub going pretty fast I think he's gonna start slowing down yeah I'm taking a chill I'm at kilometer 170. I'm so tired actually and I'm so tired I hope the run will go fine with my uh my I'm so tired actually and I'm so tired I hope the run will go fine with my uh my legs now are are quite tired I might have underestimated this but uh we keep going we keep pushing and Omega patata is the most important come on let's go let's go come on [Music] it's uh well my batteries are uh are empty I I can't imagine uh doing a marathon now so uh but let me go I'm good I'm doing good I'm doing good I'm a bit worried about but let me go I'm good I'm doing good I'm doing good I'm a bit worried about because I don't want him to lose hope he's not losing hope [Music] 143 it starts to getting really hot and"
+    },
+    {
+      "id": "n19",
+      "level": 2,
+      "start": 1298.0,
+      "end": 1372.0,
+      "parent": "n18",
+      "children": [],
+      "subtitle_text": "foreign and my foot hurts I'm afraid it might be and my foot hurts I'm afraid it might be like a stress fracture so um [Music] it's good news and a little bit bad news the good news is there's no stress it's good news and a little bit bad news the good news is there's no stress fracture but there is a stress reaction in a bone very close to it so we have one and a half almost two weeks before the race no running till the race normally as a good doctor I should say you don't participate but I know that you won't listen to me and that you will you don't participate but I know that you won't listen to me and that you will start I hope that you have enough of adrenaline not to feel it but you will pay a price afterwards okay better restaurants"
+    },
+    {
+      "id": "n20",
+      "level": 2,
+      "start": 1372.0,
+      "end": 1420.0,
+      "parent": "n18",
+      "children": [],
+      "subtitle_text": "[Music] back here yesterday [Music] [Music] [Music] foreign [Music]"
+    },
+    {
+      "id": "n21",
+      "level": 2,
+      "start": 1420.0,
+      "end": 1522.0,
+      "parent": "n18",
+      "children": [],
+      "subtitle_text": "[Music] that's great he's taking his time when he goes to the aid station and now he's running again so he's doing perfect the last Mountain it was [ __ ] up but I kept myself on the bike so now it's only the last Mountain it was [ __ ] up but I kept myself on the bike so now it's only downhill and little mountains and then it's a full Marathon that I still have to do but it's okay let's go [ __ ] I have to continue oh holy [ __ ] it's going well my foot doesn't hurt painkillers are working like magic I'm feeling good I hope I don't know is okay [Applause] [Applause] and then you go off and you run again okay rock is doing exactly the same thing and he's doing"
+    },
+    {
+      "id": "n22",
+      "level": 2,
+      "start": 1522.0,
+      "end": 1612.0,
+      "parent": "n18",
+      "children": [],
+      "subtitle_text": "man up good luck boy thank you let's [ __ ] go my guy halfway there let's go every time I feel pain I tell myself it's not pain then it goes away you want every time I feel pain I tell myself it's not pain then it goes away you want to take one more painkiller after yeah and I'm gonna finish it still going still running I will not stop running come on only 14 kilometers left and then we're Iron Man come on also was come on only 14 kilometers left and then we're Iron Man come on also was looking good I'm beginning to getting heavy but I have to finish let's go August I got myself a morale oh my God thank you thank you it's going really well the painkillers are doing excellent job nice"
+    },
+    {
+      "id": "n23",
+      "level": 2,
+      "start": 1612.0,
+      "end": 1670.0,
+      "parent": "n18",
+      "children": [],
+      "subtitle_text": "every time I see them I get emotional every time I I think about the finish I cry a little you're so close cry a little you're so close so close 11 more I don't know he's doing good as well yeah I know he's doing good yeah I know he's doing good oh that makes me well yeah I know he's doing good yeah I know he's doing good oh that makes me happy come on [Music] how many kilometers let's go you can do it I think I've cried like four times already passed 10 kilometers it I think I've cried like four times already passed 10 kilometers it's so emotional kilometer 40. let's go only two more kilometers I can't believe this"
+    },
+    {
+      "id": "n24",
+      "level": 2,
+      "start": 1670.0,
+      "end": 1748.0,
+      "parent": "n18",
+      "children": [],
+      "subtitle_text": "is Luke anymore [Music] anymore [Music] I did it [Music] thank you [Applause] [Applause]"
+    },
+    {
+      "id": "n26",
+      "level": 2,
+      "start": 1748.0,
+      "end": 1864.0,
+      "parent": "n25",
+      "children": [],
+      "subtitle_text": "[Music] [Music] yo guys let's go I'll be back at Temple go on let's go [Applause] [Music] pain in my knee cramps [Music] pain in my knee cramps in my tummy it's awful but we keep pushing [Music] okay so it's 2202 and I don't know his uh finishing his last kilometers in the"
+    },
+    {
+      "id": "n27",
+      "level": 2,
+      "start": 1864.0,
+      "end": 1958.0,
+      "parent": "n25",
+      "children": [],
+      "subtitle_text": "let me kill me let's go [Music] [Music] foreign foreign [Music] [Applause] let's go home"
+    },
+    {
+      "id": "n28",
+      "level": 2,
+      "start": 1958.0,
+      "end": 2032.0,
+      "parent": "n25",
+      "children": [],
+      "subtitle_text": "home [Music] what does he do oh my God oh my God what does he do oh my God oh my God I don't know it's a [ __ ] Iron Man we're gonna get fat again I can't wait to get better we're gonna get fat again I can't wait to get better foreign [Applause] [Music] [Applause] [Applause]"
+    },
+    {
+      "id": "n29",
+      "level": 2,
+      "start": 2032.0,
+      "end": 2096.2,
+      "parent": "n25",
+      "children": [],
+      "subtitle_text": "[ __ ] if you enjoyed watching this video don't forget to give it a thumbs up don't forget thank you very much for watching it has been a pleasure seeing your love seeing your support so thank you thanks everybody the support crew the whole team one more thing a sweaty ass everybody the support crew the whole team one more thing a sweaty ass it's cool oh Mom oh Mom"
+    }
+  ],
+  "boundary_diagnostics": {
+    "persistence_method": "superlevel_h0_path_graph",
+    "section_cut_seconds": [
+      76.0,
+      132.0,
+      210.0,
+      390.0,
+      570.0,
+      628.0,
+      694.0,
+      760.0,
+      834.0,
+      920.0,
+      1014.0,
+      1100.0,
+      1202.0,
+      1298.0,
+      1372.0,
+      1420.0,
+      1522.0,
+      1612.0,
+      1670.0,
+      1748.0,
+      1864.0,
+      1958.0,
+      2032.0
+    ],
+    "chapter_cut_seconds": [
+      390.0,
+      1014.0,
+      1298.0,
+      1748.0
+    ],
+    "persistent_peak_count": 64
+  }
+}
