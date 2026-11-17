@@ -1,0 +1,20 @@
+[project]
+name = "evidential-reader"
+version = "1.0.0"
+description = "Reader environment matching lmms-eval's Qwen2.5-VL stack in early 2026 (run read_videomme.py with it)"
+requires-python = ">=3.10"
+dependencies = [
+    "torch==2.14.1",
+    "torchvision",
+    "transformers==4.57.1",
+    "accelerate",
+    "qwen-vl-utils==0.0.14",
+    "decord",
+    "numpy",
+    "pyarrow",
+    "pillow",
+    "tyro",
+]
+
+[tool.uv]
+package = false
